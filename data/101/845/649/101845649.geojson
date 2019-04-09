@@ -1,0 +1,146 @@
+{
+  "id": 101845649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:area_square_m":635978.691409,
+    "geom:bbox":"-22.3987260163,63.9772557975,-22.3725183693,63.9871422684",
+    "geom:latitude":63.982179,
+    "geom:longitude":-22.383252,
+    "gn:population":1029,
+    "iso:country":"IS",
+    "lbl:latitude":63.981889,
+    "lbl:longitude":-22.381962,
+    "mps:latitude":63.981889,
+    "mps:longitude":-22.381962,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0412\u043e\u0433\u0430\u0440"
+    ],
+    "name:bel_x_variant":[
+        "\u0412\u043e\u0433\u0430\u0440"
+    ],
+    "name:ces_x_preferred":[
+        "Vogar"
+    ],
+    "name:deu_x_preferred":[
+        "Vogar"
+    ],
+    "name:eng_x_preferred":[
+        "Vogar"
+    ],
+    "name:eus_x_preferred":[
+        "Vogar"
+    ],
+    "name:fao_x_preferred":[
+        "Vogar"
+    ],
+    "name:fra_x_preferred":[
+        "Vogar"
+    ],
+    "name:isl_x_preferred":[
+        "Vogar"
+    ],
+    "name:isl_x_variant":[
+        "Vogar \u00e1 Vatnsleysustr\u00f6nd",
+        "Voga",
+        "Vogum"
+    ],
+    "name:ita_x_preferred":[
+        "Vogar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10dd\u10d2\u10d0\u10e0\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\uac00\ub974"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u043e\u0433\u0430\u0440"
+    ],
+    "name:nld_x_preferred":[
+        "Vogar"
+    ],
+    "name:pol_x_preferred":[
+        "Vogar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0433\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0491\u0430\u0440"
+    ],
+    "name:vol_x_preferred":[
+        "Vogar"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u52a0\u723e"
+    ],
+    "qs:a0":"\u00cdsland",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"\u00cdsland",
+    "qs:la":"Sveitarf\u00e9lagi\u00f0 Vogar",
+    "qs:la_lc":"*IS242506",
+    "qs:level":"locality",
+    "qs:loc":"Vogar",
+    "qs:loc_alt":"Vogar",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":63.966667,
+    "wd:longitude":-22.366667,
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3412011,
+        "gp:id":56769328,
+        "qs:id":583033,
+        "qs_pg:id":583033,
+        "wd:id":"Q1019448",
+        "wk:page":"Vogar"
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"e03980e3e596f89adfab3251ab8e025b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101845649,
+            "region_id":85672515
+        }
+    ],
+    "wof:id":101845649,
+    "wof:lastmodified":1527642316,
+    "wof:name":"Vogar",
+    "wof:parent_id":85672515,
+    "wof:placetype":"locality",
+    "wof:population":1029,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.3987260163118,
+    63.97725579746935,
+    -22.37251836927953,
+    63.98714226844851
+],
+  "geometry": {"coordinates":[[[-22.38697506352429,63.98714226844851],[-22.38599126048683,63.98635377903003],[-22.38417181835132,63.98675809573012],[-22.38318811119245,63.98596958664973],[-22.3813686555568,63.9863738701078],[-22.37841800634669,63.98400826261036],[-22.37659860587559,63.98441248769859],[-22.37561521354695,63.98362392511928],[-22.37743457969032,63.98321971259412],[-22.37251836927953,63.97927685616594],[-22.37433751600321,63.97887268577171],[-22.37335442413723,63.97808410578057],[-22.37699250559911,63.97727572809202],[-22.37797566609709,63.97806428296389],[-22.38161362505161,63.97725579746935],[-22.38259691567265,63.97804432013038],[-22.38441585777423,63.97764003381644],[-22.38736620164076,63.98000552156026],[-22.38554715663145,63.98040984556172],[-22.38849795134092,63.98277530715188],[-22.39031709926041,63.98237094545647],[-22.39130085488068,63.98315940589708],[-22.39311998928628,63.98275501096458],[-22.39410384075512,63.98354345174124],[-22.39774203470006,63.98273457473164],[-22.3987260163118,63.98352298327399],[-22.38963000128075,63.98554508360525],[-22.39061387294862,63.98633354788882],[-22.38697506352429,63.98714226844851]]],"type":"Polygon"}
+}

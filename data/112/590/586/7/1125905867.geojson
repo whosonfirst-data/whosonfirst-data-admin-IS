@@ -1,0 +1,152 @@
+{
+  "id": 1125905867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-19.11078,65.73278,-19.11078,65.73278",
+    "geom:latitude":65.73278,
+    "geom:longitude":-19.11078,
+    "gn:gn_country":"IS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":108,
+    "gn:population":78,
+    "iso:country":"IS",
+    "lbl:latitude":65.73278,
+    "lbl:longitude":-19.11078,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u043b\u0430\u0440"
+    ],
+    "name:chi_x_preferred":[
+        "\u4faf\u62c9\u723e"
+    ],
+    "name:cze_x_preferred":[
+        "H\u00f3lar"
+    ],
+    "name:dan_x_preferred":[
+        "H\u00f3lar"
+    ],
+    "name:dut_x_preferred":[
+        "H\u00f3lar"
+    ],
+    "name:eng_x_preferred":[
+        "Holar"
+    ],
+    "name:eng_x_variant":[
+        "Holar i Hjaltadal",
+        "H\u00f3lar"
+    ],
+    "name:epo_x_preferred":[
+        "H\u00f3lar en Hjaltadalur"
+    ],
+    "name:fre_x_preferred":[
+        "H\u00f3lar"
+    ],
+    "name:ger_x_preferred":[
+        "H\u00f3lar"
+    ],
+    "name:ice_x_preferred":[
+        "H\u00f3lar \u00ed Hjaltadal"
+    ],
+    "name:isl_x_preferred":[
+        "H\u00f3lar"
+    ],
+    "name:isl_x_variant":[
+        "H\u00f3lar \u00ed Hjaltadal",
+        "H\u00f3la",
+        "H\u00f3lum"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00f3lar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30e9\u30fc\u30eb"
+    ],
+    "name:lat_x_preferred":[
+        "Hola"
+    ],
+    "name:nob_x_preferred":[
+        "H\u00f3lar"
+    ],
+    "name:pol_x_preferred":[
+        "H\u00f3lar"
+    ],
+    "name:por_x_preferred":[
+        "H\u00f3lar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0443\u043b\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "H\u00f3lar"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00f3lar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u0430\u0440-\u0456\u043d-\u0413'\u044f\u043b\u044c\u0442\u0430\u0434\u0430\u043b\u044e\u0440"
+    ],
+    "name:vol_x_preferred":[
+        "H\u00f3lar"
+    ],
+    "qs_pg:aaroncc":"IS",
+    "qs_pg:gn_country":"IS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2630237,
+    "qs_pg:gn_pop":108,
+    "qs_pg:name":"H\u00f3lar",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":575352,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2630237,
+        "qs_pg:id":575352,
+        "wd:id":"Q1019455"
+    },
+    "wof:country":"IS",
+    "wof:created":1497295984,
+    "wof:geomhash":"894c3c9a76b61a318c0debfbaa1c482f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1125905867,
+            "region_id":85672507
+        }
+    ],
+    "wof:id":1125905867,
+    "wof:lastmodified":1514455571,
+    "wof:name":"H\u00f3lar",
+    "wof:parent_id":85672507,
+    "wof:placetype":"locality",
+    "wof:population":78,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -19.11078,
+    65.73278,
+    -19.11078,
+    65.73278
+],
+  "geometry": {"coordinates":[-19.11078,65.73278000000001],"type":"Point"}
+}

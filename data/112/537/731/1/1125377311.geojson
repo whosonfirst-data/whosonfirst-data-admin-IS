@@ -1,0 +1,71 @@
+{
+  "id": 1125377311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.05,63.83333,-22.05,63.83333",
+    "geom:latitude":63.83333,
+    "geom:longitude":-22.05,
+    "gn:gn_country":"IS",
+    "gn:gn_fcode":"ADMD",
+    "gn:gn_pop":0,
+    "iso:country":"IS",
+    "lbl:latitude":63.83333,
+    "lbl:longitude":-22.05,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Hafnarfj\u00f6r\u00f0ur"
+    ],
+    "qs_pg:aaroncc":"IS",
+    "qs_pg:gn_country":"IS",
+    "qs_pg:gn_fcode":"ADMD",
+    "qs_pg:gn_id":3416708,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hafnarfjar\u00f0arkaupsta\u00f0ur",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":375402,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3416708,
+        "qs_pg:id":375402
+    },
+    "wof:country":"IS",
+    "wof:created":1497047831,
+    "wof:geomhash":"b65016150345c331c1e011045c7ba0cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1125377311,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125377311,
+    "wof:lastmodified":1509389489,
+    "wof:name":"Hafnarfjar\u00f0arkaupsta\u00f0ur",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.05,
+    63.83333,
+    -22.05,
+    63.83333
+],
+  "geometry": {"coordinates":[-22.05,63.83333],"type":"Point"}
+}

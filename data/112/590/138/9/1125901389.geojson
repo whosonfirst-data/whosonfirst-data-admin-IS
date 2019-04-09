@@ -1,0 +1,90 @@
+{
+  "id": 1125901389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.078411,65.145984,-21.078411,65.145984",
+    "geom:latitude":65.145984,
+    "geom:longitude":-21.078411,
+    "gn:gn_country":null,
+    "iso:country":"IS",
+    "lbl:latitude":65.145984,
+    "lbl:longitude":-21.078411,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Br\u00fa"
+    ],
+    "name:eng_x_preferred":[
+        "Br\u00fa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30eb\u30fc"
+    ],
+    "qs_pg:aaroncc":"IS",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bru",
+    "qs_pg:name_adm0":"\u00cdsland",
+    "qs_pg:name_adm1":"Vestur-Hunavatnssysla",
+    "qs_pg:photos":213,
+    "qs_pg:photos_1k":43,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":213,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1263021,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424845,
+    "qs_pg:woe_id":10644999,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424845,
+    "woe:name_adm0":"\u00cdsland",
+    "woe:name_adm1":"Vestur-Hunavatnssysla",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":10644999,
+        "qs_pg:id":1263021,
+        "wd:id":"Q4981921"
+    },
+    "wof:country":"IS",
+    "wof:created":1497295823,
+    "wof:geomhash":"2bcb0a16110c39bc251e64d14df13388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1125901389,
+            "region_id":85672497
+        }
+    ],
+    "wof:id":1125901389,
+    "wof:lastmodified":1553816612,
+    "wof:name":"Bru",
+    "wof:parent_id":85672497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.078411,
+    65.145984,
+    -21.078411,
+    65.145984
+],
+  "geometry": {"coordinates":[-21.078411,65.145984],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1276159575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.9227,64.62961,-21.9227,64.62961",
+    "geom:latitude":64.62961,
+    "geom:longitude":-21.9227,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"3609",
+    "gn:asciiname":"Jardlangsstadir",
+    "gn:country_code":"IS",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10858988,
+    "gn:latitude":64.62961,
+    "gn:longitude":-21.9227,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Jar\u00f0langssta\u00f0ir",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10858988
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"7b16aeedf4ece606b696f723f3b23da2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1276159575,
+            "region_id":85672529
+        }
+    ],
+    "wof:id":1276159575,
+    "wof:lastmodified":1537010893,
+    "wof:name":"Jardlangsstadir",
+    "wof:parent_id":85672529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.9227,
+    64.62961,
+    -21.9227,
+    64.62961
+],
+  "geometry": {"coordinates":[-21.9227,64.62961],"type":"Point"}
+}

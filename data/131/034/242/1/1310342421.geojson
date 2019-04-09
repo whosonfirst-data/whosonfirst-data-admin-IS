@@ -1,0 +1,81 @@
+{
+  "id": 1310342421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-20.44161,64.17829,-20.44161,64.17829",
+    "geom:latitude":64.17829,
+    "geom:longitude":-20.44161,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"8721",
+    "gn:asciiname":"Reykholt",
+    "gn:country_code":"IS",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643897,
+    "gn:latitude":64.17829,
+    "gn:longitude":-20.44161,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Reykholt",
+    "gn:population":206,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Reykholt"
+    ],
+    "name:isl_x_preferred":[
+        "Reykholt"
+    ],
+    "name:isl_x_variant":[
+        "Reykholt \u00ed Biskupstungum",
+        "Reykholti",
+        "Reykholts"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643897,
+        "wk:page":"Reykholt,_Southern_Iceland"
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"0249ebf16849ab32d1a593fc658d159d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1310342421,
+            "region_id":85672519
+        }
+    ],
+    "wof:id":1310342421,
+    "wof:lastmodified":1537648805,
+    "wof:name":"Reykholt",
+    "wof:parent_id":85672519,
+    "wof:placetype":"locality",
+    "wof:population":206,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -20.44161,
+    64.17829,
+    -20.44161,
+    64.17829
+],
+  "geometry": {"coordinates":[-20.44161,64.17829],"type":"Point"}
+}

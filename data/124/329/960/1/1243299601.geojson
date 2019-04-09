@@ -1,0 +1,78 @@
+{
+  "id": 1243299601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-20.76472,64.07522,-20.76472,64.07522",
+    "geom:latitude":64.07522,
+    "geom:longitude":-20.76472,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"8719",
+    "gn:asciiname":"Borg",
+    "gn:country_code":"IS",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8644039,
+    "gn:latitude":64.07522,
+    "gn:longitude":-20.76472,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Borg",
+    "gn:population":75,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Borg in Grimsnes"
+    ],
+    "name:isl_x_preferred":[
+        "Borg \u00ed Gr\u00edmsnesi"
+    ],
+    "name:isl_x_variant":[
+        "Borgar \u00ed Gr\u00edmsnesi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8644039
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"878482f284d77352782cec1a608a343b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1243299601,
+            "region_id":85672519
+        }
+    ],
+    "wof:id":1243299601,
+    "wof:lastmodified":1537648805,
+    "wof:name":"Borg",
+    "wof:parent_id":85672519,
+    "wof:placetype":"locality",
+    "wof:population":75,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -20.76472,
+    64.07522,
+    -20.76472,
+    64.07522
+],
+  "geometry": {"coordinates":[-20.76472,64.07522],"type":"Point"}
+}

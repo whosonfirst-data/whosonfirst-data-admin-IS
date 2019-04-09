@@ -1,0 +1,63 @@
+{
+  "id": 1276366253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.38431,64.82285,-23.38431,64.82285",
+    "geom:latitude":64.82285,
+    "geom:longitude":-23.38431,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"3714",
+    "gn:asciiname":"Budir",
+    "gn:country_code":"IS",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3417869,
+    "gn:latitude":64.82285,
+    "gn:longitude":-23.38431,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"B\u00fa\u00f0ir",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3417869,
+        "wk:page":"B%C3%BA%C3%B0ir"
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"6a782b49a6c493d31caf54bcc8809f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276366253,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276366253,
+    "wof:lastmodified":1537566596,
+    "wof:name":"Budir",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.38431,
+    64.82285,
+    -23.38431,
+    64.82285
+],
+  "geometry": {"coordinates":[-23.38431,64.82285],"type":"Point"}
+}

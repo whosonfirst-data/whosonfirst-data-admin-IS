@@ -1,0 +1,96 @@
+{
+  "id": 1125826719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.67837,63.94796,-17.67837,63.94796",
+    "geom:latitude":63.94796,
+    "geom:longitude":-17.67837,
+    "gn:gn_country":"IS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IS",
+    "lbl:latitude":63.94796,
+    "lbl:longitude":-17.67837,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "K\u00e1lfafell"
+    ],
+    "name:eng_x_preferred":[
+        "K\u00e1lfafell"
+    ],
+    "name:pol_x_preferred":[
+        "K\u00e1lfafell"
+    ],
+    "qs_pg:aaroncc":"IS",
+    "qs_pg:gn_country":"IS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2629499,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"K\u00e1lfafell",
+    "qs_pg:name_adm0":"\u00cdsland",
+    "qs_pg:name_adm1":"Vestur-Skaftafellssysla",
+    "qs_pg:photos":221,
+    "qs_pg:photos_1k":45,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":221,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1059225,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424845,
+    "qs_pg:woe_id":980269,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424845,
+    "woe:name_adm0":"\u00cdsland",
+    "woe:name_adm1":"Vestur-Skaftafellssysla",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2629499,
+        "gp:id":980269,
+        "qs_pg:id":1059225,
+        "wd:id":"Q6453178"
+    },
+    "wof:country":"IS",
+    "wof:created":1497292309,
+    "wof:geomhash":"aed8f30412f3292b8a90c75672f1d73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1125826719,
+            "region_id":85672519
+        }
+    ],
+    "wof:id":1125826719,
+    "wof:lastmodified":1514455574,
+    "wof:name":"K\u00e1lfafell",
+    "wof:parent_id":85672519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.67837,
+    63.94796,
+    -17.67837,
+    63.94796
+],
+  "geometry": {"coordinates":[-17.67837,63.94796],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209658035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.50727,65.17456,-14.50727,65.17456",
+    "geom:latitude":65.17456,
+    "geom:longitude":-14.50727,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"7620",
+    "gn:asciiname":"Ulfstadir",
+    "gn:country_code":"IS",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10792558,
+    "gn:latitude":65.17456,
+    "gn:longitude":-14.50727,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"\u00dalfsta\u00f0ir",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10792558
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"501efa3c3ba60ca95e6c87abee6bcaf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633249,
+            "locality_id":1209658035
+        }
+    ],
+    "wof:id":1209658035,
+    "wof:lastmodified":1536280362,
+    "wof:name":"Ulfstadir",
+    "wof:parent_id":85633249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.507270000000002,
+    65.17456,
+    -14.507270000000002,
+    65.17456
+],
+  "geometry": {"coordinates":[-14.50727,65.17456],"type":"Point"}
+}

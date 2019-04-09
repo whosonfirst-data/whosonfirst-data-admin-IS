@@ -1,0 +1,114 @@
+{
+  "id": 1125378529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-20.269,63.43877,-20.269,63.43877",
+    "geom:latitude":63.43877,
+    "geom:longitude":-20.269,
+    "gn:gn_country":"IS",
+    "gn:gn_fcode":"ADMD",
+    "gn:gn_pop":0,
+    "iso:country":"IS",
+    "lbl:latitude":63.43877,
+    "lbl:longitude":-20.269,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Vestmannaeyjar"
+    ],
+    "name:eng_x_preferred":[
+        "Vestmannaeyjar"
+    ],
+    "name:fin_x_preferred":[
+        "Vestmannasaaret"
+    ],
+    "name:fra_x_preferred":[
+        "\u00celes Vestmann"
+    ],
+    "name:ido_x_preferred":[
+        "Vestmannaeyjar"
+    ],
+    "name:isl_x_preferred":[
+        "Vestmannaeyjar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a7\u30b9\u30c8\u30de\u30f3\u8af8\u5cf6"
+    ],
+    "name:ltz_x_preferred":[
+        "Vestmannaeyjar"
+    ],
+    "name:nld_x_preferred":[
+        "Vestmannaeyjar"
+    ],
+    "name:pol_x_preferred":[
+        "Vestmannaeyjar"
+    ],
+    "name:por_x_preferred":[
+        "Vestmannaeyjar"
+    ],
+    "name:spa_x_preferred":[
+        "Vestmannaeyjar"
+    ],
+    "name:swe_x_preferred":[
+        "V\u00e4stmanna\u00f6arna"
+    ],
+    "name:unk_x_variant":[
+        "Vestmannaeyjar"
+    ],
+    "qs_pg:aaroncc":"IS",
+    "qs_pg:gn_country":"IS",
+    "qs_pg:gn_fcode":"ADMD",
+    "qs_pg:gn_id":3412095,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vestmannaeyjab\u00e6r",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":356155,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3412095,
+        "qs_pg:id":356155
+    },
+    "wof:country":"IS",
+    "wof:created":1497047902,
+    "wof:geomhash":"b40cae16a91f31a1b3ebe728e0385426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "localadmin_id":1125378529,
+            "region_id":85672519
+        }
+    ],
+    "wof:id":1125378529,
+    "wof:lastmodified":1509389516,
+    "wof:name":"Vestmannaeyjab\u00e6r",
+    "wof:parent_id":85672519,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -20.269,
+    63.43877,
+    -20.269,
+    63.43877
+],
+  "geometry": {"coordinates":[-20.269,63.43877],"type":"Point"}
+}

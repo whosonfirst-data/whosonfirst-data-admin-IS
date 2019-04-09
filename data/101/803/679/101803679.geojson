@@ -1,0 +1,125 @@
+{
+  "id": 101803679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0001,
+    "geom:area_square_m":506636.85688,
+    "geom:bbox":"-23.5021201741,65.8694946837,-23.4770301727,65.8820359641",
+    "geom:latitude":65.876404,
+    "geom:longitude":-23.489632,
+    "gn:population":262,
+    "iso:country":"IS",
+    "lbl:latitude":65.876457,
+    "lbl:longitude":-23.489632,
+    "mps:latitude":65.876457,
+    "mps:longitude":-23.489632,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062b\u0646\u063a\u064a\u0631\u064a"
+    ],
+    "name:cze_x_preferred":[
+        "\u00deingeyri"
+    ],
+    "name:dut_x_preferred":[
+        "\u00deingeyri"
+    ],
+    "name:eng_x_preferred":[
+        "Pingeyri"
+    ],
+    "name:eng_x_variant":[
+        "Thingeyri"
+    ],
+    "name:fre_x_preferred":[
+        "\u00deingeyri"
+    ],
+    "name:ger_x_preferred":[
+        "\u00deingeyri"
+    ],
+    "name:ice_x_preferred":[
+        "\u00deingeyri"
+    ],
+    "name:isl_x_preferred":[
+        "\u00deingeyri"
+    ],
+    "name:isl_x_variant":[
+        "\u00deingeyrar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30f3\u30af\u30a8\u30a4\u30ea"
+    ],
+    "name:pol_x_preferred":[
+        "\u00deingeyri"
+    ],
+    "name:spa_x_preferred":[
+        "\u00deingeyri"
+    ],
+    "name:swe_x_preferred":[
+        "\u00deingeyri"
+    ],
+    "name:unk_x_variant":[
+        "D\u00fdrafj\u00f6r\u00f0ur"
+    ],
+    "qs:a0":"\u00cdsland",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"\u00cdsland",
+    "qs:id":0,
+    "qs:la":"\u00cdsafjar\u00f0arb\u00e6r",
+    "qs:la_lc":"*IS084200",
+    "qs:level":"locality",
+    "qs:loc":"\u00deingeyri",
+    "qs:loc_alt":"Thingeyri",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":381,
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3412655,
+        "gp:id":980495,
+        "qs:id":1169891,
+        "wd:id":"Q3115792",
+        "wk:page":"Thingeyri"
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"33aa6d873c69d5525c6e5f089dbd7713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101803679,
+            "region_id":85672497
+        }
+    ],
+    "wof:id":101803679,
+    "wof:lastmodified":1527642768,
+    "wof:name":"\u00deingeyri",
+    "wof:parent_id":85672497,
+    "wof:placetype":"locality",
+    "wof:population":262,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.50212017408381,
+    65.86949468373865,
+    -23.47703017273483,
+    65.88203596405992
+],
+  "geometry": {"coordinates":[[[-23.49249289237144,65.88203596405992],[-23.491387933748,65.88125589926619],[-23.48946234232676,65.8816757816644],[-23.48835749466446,65.88089569460118],[-23.49028304878914,65.8804758261856],[-23.48475972873143,65.87657533651316],[-23.48668503894987,65.87615551623719],[-23.48226755903238,65.87303503133489],[-23.48034239798091,65.87345479570308],[-23.47703017273483,65.87111430317316],[-23.47895522191089,65.87069458072722],[-23.47785125670555,65.86991441397112],[-23.47977621120833,65.86949468373865],[-23.48198428977219,65.87105498102824],[-23.48390926145669,65.87063520109086],[-23.48722204306148,65.87297554301256],[-23.48914706918379,65.87255569939049],[-23.49798469080577,65.87879613490031],[-23.4999099576894,65.87837615767842],[-23.50212017408381,65.8799361557144],[-23.49249289237144,65.88203596405992]]],"type":"Polygon"}
+}

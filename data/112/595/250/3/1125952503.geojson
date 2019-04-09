@@ -1,0 +1,89 @@
+{
+  "id": 1125952503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-18.37525,63.5046,-18.37525,63.5046",
+    "geom:latitude":63.5046,
+    "geom:longitude":-18.37525,
+    "gn:gn_country":"IS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IS",
+    "lbl:latitude":63.5046,
+    "lbl:longitude":-18.37525,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "\u00deykkvib\u00e6r"
+    ],
+    "qs_pg:aaroncc":"IS",
+    "qs_pg:gn_country":"IS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2625828,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Thykkvabaejarklaustur",
+    "qs_pg:name_adm0":"\u00cdsland",
+    "qs_pg:name_adm1":"Vestur-Skaftafellssysla",
+    "qs_pg:photos":63,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":63,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1288136,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424845,
+    "qs_pg:woe_id":980505,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424845,
+    "woe:name_adm0":"\u00cdsland",
+    "woe:name_adm1":"Vestur-Skaftafellssysla",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2625828,
+        "gp:id":980505,
+        "qs_pg:id":1288136
+    },
+    "wof:country":"IS",
+    "wof:created":1497297510,
+    "wof:geomhash":"4fa930374af3385057e80cd171c38269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1125952503,
+            "region_id":85672519
+        }
+    ],
+    "wof:id":1125952503,
+    "wof:lastmodified":1509402785,
+    "wof:name":"Thykkvabaejarklaustur",
+    "wof:parent_id":85672519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -18.37525,
+    63.5046,
+    -18.37525,
+    63.5046
+],
+  "geometry": {"coordinates":[-18.37525,63.5046],"type":"Point"}
+}

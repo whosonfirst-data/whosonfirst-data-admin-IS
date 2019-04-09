@@ -1,0 +1,66 @@
+{
+  "id": 1293341711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.88211,64.16511,-15.88211,64.16511",
+    "geom:latitude":64.16511,
+    "geom:longitude":-15.88211,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"7708",
+    "gn:asciiname":"Joeklasel",
+    "gn:country_code":"IS",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8692905,
+    "gn:latitude":64.16511,
+    "gn:longitude":-15.88211,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"J\u00f6klasel",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8692905
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"e4303666de4a3b5ed0c9c7cab8f05e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1293341711,
+            "region_id":85672501
+        }
+    ],
+    "wof:id":1293341711,
+    "wof:lastmodified":1536996536,
+    "wof:name":"Joeklasel",
+    "wof:parent_id":85672501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.88211,
+    64.16511,
+    -15.88211,
+    64.16511
+],
+  "geometry": {"coordinates":[-15.88211,64.16511],"type":"Point"}
+}

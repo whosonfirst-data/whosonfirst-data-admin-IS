@@ -1,0 +1,80 @@
+{
+  "id": 1260330333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.42621,65.28418,-14.42621,65.28418",
+    "geom:latitude":65.28418,
+    "geom:longitude":-14.42621,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"7620",
+    "gn:asciiname":"Fellabaer",
+    "gn:country_code":"IS",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643869,
+    "gn:latitude":65.28418,
+    "gn:longitude":-14.42621,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Fellabaer",
+    "gn:population":403,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fellabaer"
+    ],
+    "name:isl_x_preferred":[
+        "Fellab\u00e6r"
+    ],
+    "name:isl_x_variant":[
+        "Fellab\u00e6",
+        "Fellab\u00e6jar"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643869,
+        "wk:page":"Fellab%C3%A6r"
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"7fafa700be977827a506d39fecbd8593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1260330333,
+            "region_id":85672501
+        }
+    ],
+    "wof:id":1260330333,
+    "wof:lastmodified":1537648805,
+    "wof:name":"Fellabaer",
+    "wof:parent_id":85672501,
+    "wof:placetype":"locality",
+    "wof:population":403,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.42621,
+    65.28418,
+    -14.42621,
+    65.28418
+],
+  "geometry": {"coordinates":[-14.42621,65.28418000000001],"type":"Point"}
+}

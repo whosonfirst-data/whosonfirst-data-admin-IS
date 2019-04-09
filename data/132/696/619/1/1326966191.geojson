@@ -1,0 +1,66 @@
+{
+  "id": 1326966191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-20.16208,64.28698,-20.16208,64.28698",
+    "geom:latitude":64.28698,
+    "geom:longitude":-20.16208,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"8710",
+    "gn:asciiname":"Tungufell",
+    "gn:country_code":"IS",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10630416,
+    "gn:latitude":64.28698,
+    "gn:longitude":-20.16208,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Tungufell",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10630416
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"a8d07c4c13d1eff46061350fb4604652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1326966191,
+            "region_id":85672519
+        }
+    ],
+    "wof:id":1326966191,
+    "wof:lastmodified":1536854711,
+    "wof:name":"Tungufell",
+    "wof:parent_id":85672519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -20.16208,
+    64.28698,
+    -20.16208,
+    64.28698
+],
+  "geometry": {"coordinates":[-20.16208,64.28698],"type":"Point"}
+}

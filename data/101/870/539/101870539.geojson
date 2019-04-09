@@ -1,0 +1,98 @@
+{
+  "id": 101870539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-18.307813,65.924805,-18.307813,65.924805",
+    "geom:latitude":65.924805,
+    "geom:longitude":-18.307813,
+    "iso:country":"IS",
+    "lbl:latitude":65.924805,
+    "lbl:longitude":-18.307813,
+    "mps:latitude":65.924805,
+    "mps:longitude":-18.307813,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Hauganes"
+    ],
+    "name:eng_x_preferred":[
+        "Hauganes"
+    ],
+    "name:fra_x_preferred":[
+        "Hauganes"
+    ],
+    "name:fre_x_preferred":[
+        "Hauganes"
+    ],
+    "name:ice_x_preferred":[
+        "Hauganes"
+    ],
+    "name:isl_x_preferred":[
+        "Hauganes"
+    ],
+    "name:nld_x_preferred":[
+        "Hauganes"
+    ],
+    "name:pol_x_preferred":[
+        "Hauganes"
+    ],
+    "qs:a0":"\u00cdsland",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"\u00cdsland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hauganes",
+    "qs:loc_alt":"Hauganes",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":140,
+    "wof:belongsto":[
+        102191581,
+        85633249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":980154,
+        "qs:id":7,
+        "wd:id":"Q591322"
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"537c8a6e96173ea62b9d38d78b36efbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101870539,
+            "region_id":-1
+        }
+    ],
+    "wof:id":101870539,
+    "wof:lastmodified":1544750693,
+    "wof:name":"Hauganes",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -18.307813,
+    65.924805,
+    -18.307813,
+    65.924805
+],
+  "geometry": {"coordinates":[-18.307813,65.92480500000001],"type":"Point"}
+}

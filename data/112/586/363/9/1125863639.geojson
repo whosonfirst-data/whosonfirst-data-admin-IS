@@ -1,0 +1,80 @@
+{
+  "id": 1125863639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.99517,65.593239,-23.99517,65.593239",
+    "geom:latitude":65.593239,
+    "geom:longitude":-23.99517,
+    "gn:gn_country":null,
+    "iso:country":"IS",
+    "lbl:latitude":65.593239,
+    "lbl:longitude":-23.99517,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IS",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Vatneyri",
+    "qs_pg:name_adm0":"\u00cdsland",
+    "qs_pg:name_adm1":"Vestur-Bardastrandarsysla",
+    "qs_pg:photos":303,
+    "qs_pg:photos_1k":61,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":303,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1104604,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424845,
+    "qs_pg:woe_id":980535,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424845,
+    "woe:name_adm0":"\u00cdsland",
+    "woe:name_adm1":"Vestur-Bardastrandarsysla",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":980535,
+        "qs_pg:id":1104604
+    },
+    "wof:country":"IS",
+    "wof:created":1497293936,
+    "wof:geomhash":"b85126aa27392d982ff3a0f89916c0b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1125863639,
+            "region_id":85672497
+        }
+    ],
+    "wof:id":1125863639,
+    "wof:lastmodified":1509396811,
+    "wof:name":"Vatneyri",
+    "wof:parent_id":85672497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.99517,
+    65.593239,
+    -23.99517,
+    65.593239
+],
+  "geometry": {"coordinates":[-23.99517,65.593239],"type":"Point"}
+}

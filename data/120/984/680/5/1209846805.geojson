@@ -1,0 +1,74 @@
+{
+  "id": 1209846805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.19437,65.53,-23.19437,65.53",
+    "geom:latitude":65.53,
+    "geom:longitude":-23.19437,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"4607",
+    "gn:asciiname":"Brjanslaekur",
+    "gn:country_code":"IS",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3417929,
+    "gn:latitude":65.53,
+    "gn:longitude":-23.19437,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Brj\u00e1nsl\u00e6kur",
+    "gn:population":10,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Brjanslaekur"
+    ],
+    "name:isl_x_preferred":[
+        "Brj\u00e1nsl\u00e6kur"
+    ],
+    "name:isl_x_variant":[
+        "Brj\u00e1nsl\u00e6k"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3417929
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"3307f5e2e406170bb930aa3e0c0fc56d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209846805,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209846805,
+    "wof:lastmodified":1537648805,
+    "wof:name":"Brjanslaekur",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.19437000000001,
+    65.53,
+    -23.19437000000001,
+    65.53
+],
+  "geometry": {"coordinates":[-23.19437000000001,65.53],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226783857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-20.60912,63.74256,-20.60912,63.74256",
+    "geom:latitude":63.74256,
+    "geom:longitude":-20.60912,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"8614",
+    "gn:asciiname":"THykkvibaer",
+    "gn:country_code":"IS",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3412460,
+    "gn:latitude":63.74256,
+    "gn:longitude":-20.60912,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"\u00deykkvib\u00e6r",
+    "gn:population":53,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00deykkvibaer"
+    ],
+    "name:isl_x_preferred":[
+        "\u00deykkvib\u00e6r"
+    ],
+    "name:isl_x_variant":[
+        "\u00deykkvab\u00e6",
+        "\u00deykkvab\u00e6jar"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3412460
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"aaeb0dd3c29cc899a98f158c8f4bb092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1226783857,
+            "region_id":85672519
+        }
+    ],
+    "wof:id":1226783857,
+    "wof:lastmodified":1537648805,
+    "wof:name":"THykkvibaer",
+    "wof:parent_id":85672519,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -20.60912,
+    63.74256,
+    -20.60912,
+    63.74256
+],
+  "geometry": {"coordinates":[-20.60912,63.74256],"type":"Point"}
+}

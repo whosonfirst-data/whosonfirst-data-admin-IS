@@ -1,0 +1,62 @@
+{
+  "id": 1209153171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.87524,64.18209,-15.87524,64.18209",
+    "geom:latitude":64.18209,
+    "geom:longitude":-15.87524,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"7708",
+    "gn:asciiname":"Kalfafellsstadur",
+    "gn:country_code":"IS",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10630198,
+    "gn:latitude":64.18209,
+    "gn:longitude":-15.87524,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"K\u00e1lfafellssta\u00f0ur",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10630198
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"459e91b05b0b0e6b868f9dcb3ac0b9f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633249,
+            "locality_id":1209153171
+        }
+    ],
+    "wof:id":1209153171,
+    "wof:lastmodified":1536296141,
+    "wof:name":"Kalfafellsstadur",
+    "wof:parent_id":85633249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.87524,
+    64.18209,
+    -15.87524,
+    64.18209
+],
+  "geometry": {"coordinates":[-15.87524,64.18209],"type":"Point"}
+}

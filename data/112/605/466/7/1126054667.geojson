@@ -1,0 +1,80 @@
+{
+  "id": 1126054667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-18.194389,65.462538,-18.194389,65.462538",
+    "geom:latitude":65.462538,
+    "geom:longitude":-18.194389,
+    "gn:gn_country":null,
+    "iso:country":"IS",
+    "lbl:latitude":65.462538,
+    "lbl:longitude":-18.194389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IS",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"M\u00f6\u00ffruvellir",
+    "qs_pg:name_adm0":"\u00cdsland",
+    "qs_pg:name_adm1":"Eyjafjardarsysla",
+    "qs_pg:photos":60,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":60,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1192200,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424845,
+    "qs_pg:woe_id":980341,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424845,
+    "woe:name_adm0":"\u00cdsland",
+    "woe:name_adm1":"Eyjafjardarsysla",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":980341,
+        "qs_pg:id":1192200
+    },
+    "wof:country":"IS",
+    "wof:created":1497303021,
+    "wof:geomhash":"6ab877117cda8184c520016a65095aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1126054667,
+            "region_id":85672511
+        }
+    ],
+    "wof:id":1126054667,
+    "wof:lastmodified":1509409528,
+    "wof:name":"M\u00f6\u00ffruvellir",
+    "wof:parent_id":85672511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -18.194389,
+    65.462538,
+    -18.194389,
+    65.462538
+],
+  "geometry": {"coordinates":[-18.194389,65.462538],"type":"Point"}
+}

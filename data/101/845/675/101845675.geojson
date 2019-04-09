@@ -1,0 +1,90 @@
+{
+  "id": 101845675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":417234.405645,
+    "geom:bbox":"-17.3763111175,65.7192149788,-17.3490853272,65.724961079",
+    "geom:latitude":65.72188,
+    "geom:longitude":-17.363087,
+    "iso:country":"IS",
+    "lbl:latitude":65.72202,
+    "lbl:longitude":-17.363086,
+    "mps:latitude":65.72202,
+    "mps:longitude":-17.363086,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Laugar"
+    ],
+    "name:eng_x_preferred":[
+        "Laugar"
+    ],
+    "name:fre_x_preferred":[
+        "Laugar"
+    ],
+    "name:ger_x_preferred":[
+        "Laugar"
+    ],
+    "name:ice_x_preferred":[
+        "Laugar"
+    ],
+    "name:isl_x_preferred":[
+        "Framhaldssk\u00f3linn \u00e1 Laugum"
+    ],
+    "qs:a0":"\u00cdsland",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"\u00cdsland",
+    "qs:id":0,
+    "qs:la":"\u00deingeyjarsveit",
+    "qs:la_lc":"*IS156612",
+    "qs:level":"locality",
+    "qs:loc":"Laugar",
+    "qs:loc_alt":"Laugar",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56769566,
+        "wd:id":"Q2747140"
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"c9e74f48bff3b493329139c661c9a78e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101845675,
+            "region_id":85672511
+        }
+    ],
+    "wof:id":101845675,
+    "wof:lastmodified":1514455576,
+    "wof:name":"Laugar",
+    "wof:parent_id":85672511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.37631111749255,
+    65.7192149787794,
+    -17.34908532720391,
+    65.7249610789587
+],
+  "geometry": {"coordinates":[[[-17.37431432504383,65.7249610789587],[-17.37159167558082,65.72249849689956],[-17.36160770109444,65.72423373964585],[-17.36070051947502,65.72341280807939],[-17.35470968973402,65.72445363366955],[-17.35198895916358,65.72199069852536],[-17.34999206279622,65.72233755699779],[-17.34908532720391,65.72151655584821],[-17.35108217516103,65.72116970939197],[-17.35017545424171,65.72034871488364],[-17.35217220463403,65.72000185677592],[-17.35307897395739,65.72082283926824],[-17.35707242406301,65.72012902802243],[-17.35797935326843,65.72094998110413],[-17.36796236004255,65.71921497877941],[-17.3688695942584,65.72003586638351],[-17.37286254948219,65.7193416757807],[-17.37467740072037,65.72098338675056],[-17.3726808509665,65.72133051792787],[-17.37631111749255,65.72461392334316],[-17.37431432504383,65.7249610789587]]],"type":"Polygon"}
+}

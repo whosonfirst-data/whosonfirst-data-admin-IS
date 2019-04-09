@@ -1,0 +1,76 @@
+{
+  "id": 1360118761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.49981,66.00371,-21.49981,66.00371",
+    "geom:latitude":66.00371,
+    "geom:longitude":-21.49981,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"4901",
+    "gn:asciiname":"Arneshreppur",
+    "gn:country_code":"IS",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11103248,
+    "gn:latitude":66.00371,
+    "gn:longitude":-21.49981,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"\u00c1rneshreppur",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00c1rneshreppur"
+    ],
+    "name:isl_x_preferred":[
+        "\u00c1rneshreppur"
+    ],
+    "name:und_x_variant":[
+        "\u00c1rneshreppur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11103248,
+        "wk:page":"%C3%81rneshreppur"
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"6022d5a69acdc1ddda391d680ed0462d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1360118761,
+            "region_id":85672497
+        }
+    ],
+    "wof:id":1360118761,
+    "wof:lastmodified":1537648806,
+    "wof:name":"Arneshreppur",
+    "wof:parent_id":85672497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.49981,
+    66.00371,
+    -21.49981,
+    66.00371
+],
+  "geometry": {"coordinates":[-21.49981,66.00371],"type":"Point"}
+}

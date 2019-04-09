@@ -1,0 +1,67 @@
+{
+  "id": 1276473259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.80376,65.24618,-21.80376,65.24618",
+    "geom:latitude":65.24618,
+    "geom:longitude":-21.80376,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"3811",
+    "gn:asciiname":"Saelingsdal",
+    "gn:country_code":"IS",
+    "gn:dem":77,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11049327,
+    "gn:latitude":65.24618,
+    "gn:longitude":-21.80376,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Saelingsdal",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11049327
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"d6f3184d785d77a9a1236347ddb2bac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1276473259,
+            "region_id":85672529
+        }
+    ],
+    "wof:id":1276473259,
+    "wof:lastmodified":1537085493,
+    "wof:name":"Saelingsdal",
+    "wof:parent_id":85672529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.80376,
+    65.24618000000001,
+    -21.80376,
+    65.24618000000001
+],
+  "geometry": {"coordinates":[-21.80376,65.24618000000001],"type":"Point"}
+}

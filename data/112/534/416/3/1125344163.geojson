@@ -1,0 +1,75 @@
+{
+  "id": 1125344163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.5,63.95,-21.5,63.95",
+    "geom:latitude":63.95,
+    "geom:longitude":-21.5,
+    "gn:gn_country":"IS",
+    "gn:gn_fcode":"ADMD",
+    "gn:gn_pop":0,
+    "iso:country":"IS",
+    "lbl:latitude":63.95,
+    "lbl:longitude":-21.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "\u00d6lfushreppur"
+    ],
+    "qs_pg:aaroncc":"IS",
+    "qs_pg:gn_country":"IS",
+    "qs_pg:gn_fcode":"ADMD",
+    "qs_pg:gn_id":3414073,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sveitarf\u00e9lagi\u00f0 \u00d6lfus",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":276820,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3414073,
+        "qs_pg:id":276820
+    },
+    "wof:country":"IS",
+    "wof:created":1497045824,
+    "wof:geomhash":"2d2776760f48607accdc502bfbe4dcd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "localadmin_id":1125344163,
+            "region_id":85672519
+        }
+    ],
+    "wof:id":1125344163,
+    "wof:lastmodified":1509388734,
+    "wof:name":"Sveitarf\u00e9lagi\u00f0 \u00d6lfus",
+    "wof:parent_id":85672519,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.5,
+    63.95,
+    -21.5,
+    63.95
+],
+  "geometry": {"coordinates":[-21.5,63.95],"type":"Point"}
+}

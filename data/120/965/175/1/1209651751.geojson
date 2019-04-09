@@ -1,0 +1,62 @@
+{
+  "id": 1209651751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-20.22308,65.55391,-20.22308,65.55391",
+    "geom:latitude":65.55391,
+    "geom:longitude":-20.22308,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"5612",
+    "gn:asciiname":"Reykir",
+    "gn:country_code":"IS",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11103193,
+    "gn:latitude":65.55391,
+    "gn:longitude":-20.22308,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Reykir",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11103193
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"123023c3daa8643bae244ef4acf3fba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633249,
+            "locality_id":1209651751
+        }
+    ],
+    "wof:id":1209651751,
+    "wof:lastmodified":1536280557,
+    "wof:name":"Reykir",
+    "wof:parent_id":85633249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -20.22308,
+    65.55391,
+    -20.22308,
+    65.55391
+],
+  "geometry": {"coordinates":[-20.22308,65.55391],"type":"Point"}
+}

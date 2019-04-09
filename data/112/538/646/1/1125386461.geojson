@@ -1,0 +1,102 @@
+{
+  "id": 1125386461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.9,64.08333,-21.9,64.08333",
+    "geom:latitude":64.08333,
+    "geom:longitude":-21.9,
+    "gn:gn_country":"IS",
+    "gn:gn_fcode":"ADMD",
+    "gn:gn_pop":0,
+    "iso:country":"IS",
+    "lbl:latitude":64.08333,
+    "lbl:longitude":-21.9,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0443\u043f\u0430\u0432\u043e\u0433\u044e\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "K\u00f3pavogur"
+    ],
+    "name:fra_x_preferred":[
+        "K\u00f3pavogur"
+    ],
+    "name:ido_x_preferred":[
+        "K\u00f3pavogur"
+    ],
+    "name:isl_x_preferred":[
+        "K\u00f3pavogur"
+    ],
+    "name:ita_x_preferred":[
+        "K\u00f3pavogur"
+    ],
+    "name:nor_x_preferred":[
+        "K\u00f3pavogur"
+    ],
+    "name:pol_x_preferred":[
+        "K\u00f3pavogur"
+    ],
+    "name:swe_x_preferred":[
+        "K\u00f3pavogur"
+    ],
+    "name:unk_x_variant":[
+        "K\u00f3pavogur"
+    ],
+    "qs_pg:aaroncc":"IS",
+    "qs_pg:gn_country":"IS",
+    "qs_pg:gn_fcode":"ADMD",
+    "qs_pg:gn_id":3415215,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"K\u00f3pavogsb\u00e6r",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1032220,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3415215,
+        "qs_pg:id":1032220
+    },
+    "wof:country":"IS",
+    "wof:created":1497048412,
+    "wof:geomhash":"72460938be2921df673d8c9abbbf55b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "localadmin_id":1125386461,
+            "region_id":85672493
+        }
+    ],
+    "wof:id":1125386461,
+    "wof:lastmodified":1509389729,
+    "wof:name":"K\u00f3pavogsb\u00e6r",
+    "wof:parent_id":85672493,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.9,
+    64.08333,
+    -21.9,
+    64.08333
+],
+  "geometry": {"coordinates":[-21.9,64.08333],"type":"Point"}
+}

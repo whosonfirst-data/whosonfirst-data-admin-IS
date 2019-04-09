@@ -1,0 +1,107 @@
+{
+  "id": 101803675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00013,
+    "geom:area_square_m":665606.355151,
+    "geom:bbox":"-22.2204596023,65.4428701087,-22.1953925087,65.4552107295",
+    "geom:latitude":65.44985,
+    "geom:longitude":-22.206202,
+    "gn:population":133,
+    "iso:country":"IS",
+    "lbl:latitude":65.449511,
+    "lbl:longitude":-22.205348,
+    "mps:latitude":65.449511,
+    "mps:longitude":-22.205348,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Reykh\u00f3lar"
+    ],
+    "name:eng_x_preferred":[
+        "Reykholar"
+    ],
+    "name:fra_x_preferred":[
+        "Reykh\u00f3lar"
+    ],
+    "name:isl_x_historical":[
+        "Reykjah\u00f3lar"
+    ],
+    "name:isl_x_preferred":[
+        "Reykh\u00f3lar"
+    ],
+    "name:isl_x_variant":[
+        "Reykh\u00f3la",
+        "Reykh\u00f3lum",
+        "Reykjah\u00f3lar"
+    ],
+    "name:nld_x_preferred":[
+        "Reykh\u00f3lar"
+    ],
+    "name:unk_x_variant":[
+        "Reykh\u00f3ar"
+    ],
+    "qs:a0":"\u00cdsland",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"\u00cdsland",
+    "qs:la":"Reykh\u00f3lahreppur",
+    "qs:la_lc":"*IS064502",
+    "qs:level":"locality",
+    "qs:loc":"Reykh\u00f3lar",
+    "qs:loc_alt":"Reykholar",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":90,
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3413877,
+        "qs:id":583066,
+        "qs_pg:id":583066,
+        "wd:id":"Q2786513",
+        "wk:page":"Reykh\u00f3lar"
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"049ec18328b6e8fca4efc49749e67ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101803675,
+            "region_id":85672497
+        }
+    ],
+    "wof:id":101803675,
+    "wof:lastmodified":1527642761,
+    "wof:name":"Reykh\u00f3lar",
+    "wof:parent_id":85672497,
+    "wof:placetype":"locality",
+    "wof:population":133,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.22045960228513,
+    65.44287010869539,
+    -22.19539250871071,
+    65.45521072950936
+],
+  "geometry": {"coordinates":[[[-22.19748146473438,65.45521072950936],[-22.19539250871071,65.45363182873314],[-22.19922258344315,65.45282348132599],[-22.19817813205759,65.45203404641961],[-22.20009304989105,65.45162985328056],[-22.19800427759014,65.45005098770912],[-22.19991906427288,65.4496467994266],[-22.19783049164198,65.44806793060371],[-22.19974514719462,65.4476637471771],[-22.19870092609534,65.44687431488563],[-22.20635885470347,65.44525741602922],[-22.20427031142941,65.4436786358267],[-22.20809879792284,65.44287010869539],[-22.2101874954742,65.44444883546851],[-22.20827320205007,65.44485313667576],[-22.21036209927667,65.4464318601847],[-22.20844767478553,65.44683616625582],[-22.21158142403016,65.44920423537633],[-22.2154104505056,65.44839552121454],[-22.21645524918722,65.44918483586838],[-22.21836972006827,65.44878043264282],[-22.22045960228513,65.45035901272098],[-22.20514170728563,65.45359384035129],[-22.20618644361184,65.45438322605014],[-22.20235635304289,65.4551917410825],[-22.20131169392971,65.45440232865838],[-22.19748146473438,65.45521072950936]]],"type":"Polygon"}
+}

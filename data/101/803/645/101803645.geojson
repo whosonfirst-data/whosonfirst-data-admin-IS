@@ -1,0 +1,90 @@
+{
+  "id": 101803645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000153,
+    "geom:bbox":"-20.4555069396,64.1710847787,-20.4304303915,64.1840639798",
+    "geom:latitude":64.177683,
+    "geom:longitude":-20.442937,
+    "iso:country":"IS",
+    "lbl:latitude":64.177195,
+    "lbl:longitude":-20.443792,
+    "mps:latitude":64.177195,
+    "mps:longitude":-20.443792,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Reykholt"
+    ],
+    "name:fra_x_preferred":[
+        "Reykholt"
+    ],
+    "name:isl_x_preferred":[
+        "Reykholt"
+    ],
+    "name:nld_x_preferred":[
+        "Reykholt"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0439\u043a\u0433\u043e\u043b\u044c\u0442"
+    ],
+    "qs:a0":"\u00cdsland",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"\u00cdsland",
+    "qs:la":"Bl\u00e1sk\u00f3gabygg\u00f0",
+    "qs:la_lc":"*IS238721",
+    "qs:level":"locality",
+    "qs:loc":"Reykholt",
+    "qs:loc_alt":"Reykholt",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3413876,
+        "qs:id":4,
+        "qs_pg:id":276819,
+        "wd:id":"Q360343"
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"db0db157cd5afb60d04298a4ece622e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101803645,
+            "region_id":85672519
+        }
+    ],
+    "wof:id":101803645,
+    "wof:lastmodified":1527642762,
+    "wof:name":"Reykholt",
+    "wof:parent_id":85672519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -20.45550693956289,
+    64.17108477865668,
+    -20.43043039151951,
+    64.18406397982153
+],
+  "geometry": {"coordinates":[[[-20.43698234833863,64.18406397982153],[-20.43604617466929,64.18326232656096],[-20.43419001375759,64.18364400776369],[-20.43044607094845,64.18043728321715],[-20.43230207948704,64.18005565055785],[-20.43043039151951,64.17845227478841],[-20.43599790918159,64.17730732106213],[-20.43506204083997,64.17650566013759],[-20.4406290251722,64.17536055000647],[-20.43969310254471,64.17455891918854],[-20.44711494417061,64.17303185434031],[-20.44617892924566,64.17223026576289],[-20.45174470742245,64.17108477865668],[-20.45361702543016,64.17268787669923],[-20.451761736528,64.17306975142117],[-20.45550693956289,64.17627592043641],[-20.45365145192443,64.17665782229426],[-20.45458786449547,64.17745936093098],[-20.44902100791376,64.1786049744133],[-20.44995736627925,64.17940654316544],[-20.44253408633853,64.18093377647574],[-20.44347035238917,64.18173538748215],[-20.43790228898899,64.18288062393054],[-20.43883850074917,64.18368226505328],[-20.43698234833863,64.18406397982153]]],"type":"Polygon"}
+}

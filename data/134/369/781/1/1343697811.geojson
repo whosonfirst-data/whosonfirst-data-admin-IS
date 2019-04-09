@@ -1,0 +1,66 @@
+{
+  "id": 1343697811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.62258,64.76936,-23.62258,64.76936",
+    "geom:latitude":64.76936,
+    "geom:longitude":-23.62258,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"3714",
+    "gn:asciiname":"Arnarstapi",
+    "gn:country_code":"IS",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3418526,
+    "gn:latitude":64.76936,
+    "gn:longitude":-23.62258,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Arnarstapi",
+    "gn:population":15,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3418526,
+        "wk:page":"Arnarstapi"
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"9a99030e32a3834edfd385754cb6c3d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343697811,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343697811,
+    "wof:lastmodified":1537566596,
+    "wof:name":"Arnarstapi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.62258,
+    64.76935999999999,
+    -23.62258,
+    64.76935999999999
+],
+  "geometry": {"coordinates":[-23.62258,64.76935999999999],"type":"Point"}
+}

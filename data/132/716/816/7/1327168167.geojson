@@ -1,0 +1,79 @@
+{
+  "id": 1327168167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-19.44609,65.55303,-19.44609,65.55303",
+    "geom:latitude":65.55303,
+    "geom:longitude":-19.44609,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"5200.0",
+    "gn:asciiname":"Varmahlid",
+    "gn:country_code":"IS",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2625499,
+    "gn:latitude":65.55303,
+    "gn:longitude":-19.44609,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Varmahl\u00ed\u00f0",
+    "gn:population":128,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Varmahlid"
+    ],
+    "name:isl_x_preferred":[
+        "Varmahl\u00ed\u00f0"
+    ],
+    "name:isl_x_variant":[
+        "Varmahl\u00ed\u00f0ar"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2625499,
+        "wk:page":"Varmahl%C3%AD%C3%B0"
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"7eb3b79a88a2cff630ccf7013971490d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1327168167,
+            "region_id":85672507
+        }
+    ],
+    "wof:id":1327168167,
+    "wof:lastmodified":1537648804,
+    "wof:name":"Varmahlid",
+    "wof:parent_id":85672507,
+    "wof:placetype":"locality",
+    "wof:population":128,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -19.44609,
+    65.55303,
+    -19.44609,
+    65.55303
+],
+  "geometry": {"coordinates":[-19.44609,65.55303000000001],"type":"Point"}
+}

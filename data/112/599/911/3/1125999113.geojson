@@ -1,0 +1,92 @@
+{
+  "id": 1125999113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.92667,65.37254,-22.92667,65.37254",
+    "geom:latitude":65.37254,
+    "geom:longitude":-22.92667,
+    "gn:gn_country":"IS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":10,
+    "iso:country":"IS",
+    "lbl:latitude":65.37254,
+    "lbl:longitude":-22.92667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Flatey"
+    ],
+    "name:isl_x_preferred":[
+        "Flatey"
+    ],
+    "qs_pg:aaroncc":"IS",
+    "qs_pg:gn_country":"IS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3417367,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Flatey",
+    "qs_pg:name_adm0":"\u00cdsland",
+    "qs_pg:name_adm1":"Vestur-Bardastrandarsysla",
+    "qs_pg:photos":1129,
+    "qs_pg:photos_1k":229,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1129,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":241127,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424845,
+    "qs_pg:woe_id":980126,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424845,
+    "woe:name_adm0":"\u00cdsland",
+    "woe:name_adm1":"Vestur-Bardastrandarsysla",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3417367,
+        "gp:id":980126,
+        "qs_pg:id":241127
+    },
+    "wof:country":"IS",
+    "wof:created":1497299539,
+    "wof:geomhash":"aa4e71ef11fe28f814b0ede1303d4bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125999113,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125999113,
+    "wof:lastmodified":1509406000,
+    "wof:name":"Flatey",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.92667,
+    65.37254,
+    -22.92667,
+    65.37254
+],
+  "geometry": {"coordinates":[-22.92667,65.37254],"type":"Point"}
+}

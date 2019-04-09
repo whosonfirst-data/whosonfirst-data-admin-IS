@@ -1,0 +1,89 @@
+{
+  "id": 1260131309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.80376,65.52548,-13.80376,65.52548",
+    "geom:latitude":65.52548,
+    "geom:longitude":-13.80376,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"7509",
+    "gn:asciiname":"Bakkagerdi",
+    "gn:country_code":"IS",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3228381,
+    "gn:latitude":65.52548,
+    "gn:longitude":-13.80376,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Bakkager\u00f0i",
+    "gn:population":86,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bakkager\u00f0i"
+    ],
+    "name:eng_x_variant":[
+        "Borgarfj\u00f6r\u00f0ur Eystri"
+    ],
+    "name:isl_x_preferred":[
+        "Bakkager\u00f0i"
+    ],
+    "name:isl_x_variant":[
+        "Borgarfj\u00f6r\u00f0ur eystri",
+        "Borgarfj\u00f6r\u00f0ur",
+        "Bakkager\u00f0is",
+        "Borgarfj\u00f6r\u00f0 eystri",
+        "Borgarfjar\u00f0ar eystri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043a\u043a\u0430\u0433\u0435\u0440\u0434\u0438"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3228381,
+        "wk:page":"Bakkager%C3%B0i"
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"bde3821776b77c3e43d5625561be721f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1260131309,
+            "region_id":85672501
+        }
+    ],
+    "wof:id":1260131309,
+    "wof:lastmodified":1537648805,
+    "wof:name":"Bakkagerdi",
+    "wof:parent_id":85672501,
+    "wof:placetype":"locality",
+    "wof:population":86,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.80376,
+    65.52548,
+    -13.80376,
+    65.52548
+],
+  "geometry": {"coordinates":[-13.80376,65.52548],"type":"Point"}
+}

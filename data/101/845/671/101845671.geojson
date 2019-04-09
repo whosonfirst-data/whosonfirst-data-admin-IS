@@ -1,0 +1,127 @@
+{
+  "id": 101845671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000103,
+    "geom:area_square_m":536504.21124,
+    "geom:bbox":"-21.7736310986,65.1039443294,-21.7553989108,65.1134687741",
+    "geom:latitude":65.109033,
+    "geom:longitude":-21.765563,
+    "gn:population":252,
+    "iso:country":"IS",
+    "lbl:latitude":65.108873,
+    "lbl:longitude":-21.767386,
+    "mps:latitude":65.108873,
+    "mps:longitude":-21.767386,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "B\u00fa\u00f0ardalur"
+    ],
+    "name:deu_x_variant":[
+        "Dalabygg\u00f0"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00fa\u00f0ardalur"
+    ],
+    "name:eng_x_variant":[
+        "Budardalur"
+    ],
+    "name:epo_x_preferred":[
+        "B\u00fa\u00f0ardalur"
+    ],
+    "name:fra_x_preferred":[
+        "B\u00fa\u00f0ardalur"
+    ],
+    "name:isl_x_preferred":[
+        "B\u00fa\u00f0ardalur"
+    ],
+    "name:isl_x_variant":[
+        "Dalabygg\u00f0",
+        "B\u00fa\u00f0ardal"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00fa\u00f0ardalur"
+    ],
+    "name:nld_x_preferred":[
+        "B\u00fa\u00f0ardalur"
+    ],
+    "name:nld_x_variant":[
+        "Dalabygg\u00f0"
+    ],
+    "name:pol_x_preferred":[
+        "B\u00fa\u00f0ardalur"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00fa\u00f0ardalur"
+    ],
+    "name:vol_x_preferred":[
+        "B\u00fa\u00f0ardalur"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u624e\u9054\u5442\u723e"
+    ],
+    "qs:a0":"\u00cdsland",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"\u00cdsland",
+    "qs:la":"Dalabygg\u00f0",
+    "qs:la_lc":"*IS053811",
+    "qs:level":"locality",
+    "qs:loc":"B\u00fa\u00f0ardalur",
+    "qs:loc_alt":"Budardalur",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":65.1072,
+    "wd:longitude":-21.7803,
+    "wd:wordcount":273,
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3417878,
+        "gp:id":980090,
+        "qs:id":192618,
+        "wd:id":"Q1020276",
+        "wk:page":"B\u00fa\u00f0ardalur"
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"8049046cbb33621e877f0bcbe644111f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101845671,
+            "region_id":85672529
+        }
+    ],
+    "wof:id":101845671,
+    "wof:lastmodified":1527642316,
+    "wof:name":"B\u00fa\u00f0ardalur",
+    "wof:parent_id":85672529,
+    "wof:placetype":"locality",
+    "wof:population":252,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.77363109856014,
+    65.10394432940325,
+    -21.75539891079944,
+    65.11346877413285
+],
+  "geometry": {"coordinates":[[[-21.76705397282063,65.11346877413285],[-21.76502285272807,65.11188374145354],[-21.75932788359432,65.11307950765388],[-21.7583125388548,65.11228694145382],[-21.75641415043731,65.11268547368383],[-21.75539891079944,65.11189288728195],[-21.7572972607723,65.11149436808444],[-21.75628204934156,65.1107017875463],[-21.75818030897551,65.11030325964566],[-21.75716512575161,65.10951068497099],[-21.75906329505636,65.10911214836818],[-21.75804814003862,65.10831957955634],[-21.76184424612205,65.10752246721574],[-21.76082908088591,65.10672991729712],[-21.76272701767829,65.10633134156166],[-21.76171188065325,65.10553879750444],[-21.76930295536687,65.10394432940325],[-21.7703182460217,65.10473682133664],[-21.77221592339947,65.10433813696437],[-21.7732313190827,65.10513060869278],[-21.77133360330868,65.10552930609748],[-21.77234902723319,65.10632178368502],[-21.77045122116976,65.10672047239694],[-21.77349777762282,65.10909790121661],[-21.77159980444628,65.10949660730381],[-21.77363109856014,65.11108155004655],[-21.76983484282948,65.11187894917583],[-21.77085051306068,65.1126714358569],[-21.76705397282063,65.11346877413285]]],"type":"Polygon"}
+}

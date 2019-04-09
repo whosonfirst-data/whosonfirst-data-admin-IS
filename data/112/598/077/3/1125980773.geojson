@@ -1,0 +1,102 @@
+{
+  "id": 1125980773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.6570755,63.9075195,-16.6570755,63.9075195",
+    "geom:latitude":63.907519,
+    "geom:longitude":-16.657076,
+    "gn:gn_country":null,
+    "iso:country":"IS",
+    "lbl:latitude":63.907519,
+    "lbl:longitude":-16.657076,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Fagurh\u00f3lsm\u00fdri"
+    ],
+    "name:eng_x_preferred":[
+        "Fagurh\u00f3lsm\u00fdri"
+    ],
+    "name:fre_x_preferred":[
+        "Fagurh\u00f3lsm\u00fdri"
+    ],
+    "name:ger_x_preferred":[
+        "Fagurh\u00f3lsm\u00fdri"
+    ],
+    "name:ice_x_preferred":[
+        "Fagurh\u00f3lsm\u00fdri"
+    ],
+    "name:pol_x_preferred":[
+        "Fagurh\u00f3lsm\u00fdri"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u06af\u0648\u0631\u06c1\u0648\u0644\u0633\u0645\u00fd\u0631\u06cc"
+    ],
+    "qs_pg:aaroncc":"IS",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Fagurholsmyri",
+    "qs_pg:name_adm0":"\u00cdsland",
+    "qs_pg:name_adm1":"Auster-Skaftafellssysla",
+    "qs_pg:photos":336,
+    "qs_pg:photos_1k":68,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":336,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":236182,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424845,
+    "qs_pg:woe_id":980121,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424845,
+    "woe:name_adm0":"\u00cdsland",
+    "woe:name_adm1":"Auster-Skaftafellssysla",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":980121,
+        "qs_pg:id":236182,
+        "wd:id":"Q1392022"
+    },
+    "wof:country":"IS",
+    "wof:created":1497298546,
+    "wof:geomhash":"0c9ec77035aabf3f2c92d9e3e533d4fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1125980773,
+            "region_id":85672501
+        }
+    ],
+    "wof:id":1125980773,
+    "wof:lastmodified":1514455564,
+    "wof:name":"Fagurholsmyri",
+    "wof:parent_id":85672501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.6570755,
+    63.9075195,
+    -16.6570755,
+    63.9075195
+],
+  "geometry": {"coordinates":[-16.6570755,63.9075195],"type":"Point"}
+}

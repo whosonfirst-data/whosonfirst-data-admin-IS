@@ -1,0 +1,112 @@
+{
+  "id": 1125903431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.10292,65.20817,-21.10292,65.20817",
+    "geom:latitude":65.20817,
+    "geom:longitude":-21.10292,
+    "gn:gn_country":"IS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":27,
+    "gn:population":27,
+    "iso:country":"IS",
+    "lbl:latitude":65.20817,
+    "lbl:longitude":-21.10292,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0411\u043e\u0440\u0434\u044d\u0439\u0440\u044b"
+    ],
+    "name:dut_x_preferred":[
+        "Bor\u00f0eyri"
+    ],
+    "name:eng_x_preferred":[
+        "Bordeyri"
+    ],
+    "name:fre_x_preferred":[
+        "Bor\u00f0eyri"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05d3\u05d9\u05e8\u05d9"
+    ],
+    "name:ice_x_preferred":[
+        "Bor\u00f0eyri"
+    ],
+    "name:isl_x_preferred":[
+        "Bor\u00f0eyri"
+    ],
+    "name:isl_x_variant":[
+        "Bor\u00f0eyrar"
+    ],
+    "name:pol_x_preferred":[
+        "Bor\u00f0eyri"
+    ],
+    "qs_pg:aaroncc":"IS",
+    "qs_pg:gn_country":"IS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3418105,
+    "qs_pg:gn_pop":27,
+    "qs_pg:name":"Bordheyri",
+    "qs_pg:name_adm0":"\u00cdsland",
+    "qs_pg:name_adm1":"Dalasysla",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":213088,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424845,
+    "qs_pg:woe_id":980065,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424845,
+    "woe:name_adm0":"\u00cdsland",
+    "woe:name_adm1":"Dalasysla",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3418105,
+        "gp:id":980065,
+        "qs_pg:id":213088,
+        "wd:id":"Q2911415"
+    },
+    "wof:country":"IS",
+    "wof:created":1497295898,
+    "wof:geomhash":"42d3c2192e416c250cb4f6f707823363",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125903431,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125903431,
+    "wof:lastmodified":1514455560,
+    "wof:name":"Bordheyri",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.10292,
+    65.20817,
+    -21.10292,
+    65.20817
+],
+  "geometry": {"coordinates":[-21.10292,65.20817],"type":"Point"}
+}

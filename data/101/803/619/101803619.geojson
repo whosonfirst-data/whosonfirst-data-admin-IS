@@ -1,0 +1,123 @@
+{
+  "id": 101803619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000194,
+    "geom:area_square_m":1063383.602811,
+    "geom:bbox":"-20.2412004079,63.7451098948,-20.2119074397,63.7573976675",
+    "geom:latitude":63.752152,
+    "geom:longitude":-20.227094,
+    "gn:population":902,
+    "iso:country":"IS",
+    "lbl:latitude":63.751414,
+    "lbl:longitude":-20.228537,
+    "mps:latitude":63.751414,
+    "mps:longitude":-20.228537,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Hvolsv\u00f6llur"
+    ],
+    "name:ces_x_preferred":[
+        "Hvolsv\u00f6llur"
+    ],
+    "name:dan_x_preferred":[
+        "Hvolsv\u00f6llur"
+    ],
+    "name:deu_x_preferred":[
+        "Hvolsv\u00f6llur"
+    ],
+    "name:eng_x_preferred":[
+        "Hvolsvollur"
+    ],
+    "name:eus_x_preferred":[
+        "Hvolsv\u00f6llur"
+    ],
+    "name:fra_x_preferred":[
+        "Hvolsv\u00f6llur"
+    ],
+    "name:isl_x_preferred":[
+        "Hvolsv\u00f6llur"
+    ],
+    "name:isl_x_variant":[
+        "Hvolsvelli",
+        "Hvolsv\u00f6ll",
+        "Hvolsvallar",
+        "Rang\u00e1r\u00feing eystra"
+    ],
+    "name:nld_x_preferred":[
+        "Hvolsv\u00f6llur"
+    ],
+    "name:pol_x_preferred":[
+        "Hvolsv\u00f6llur"
+    ],
+    "name:spa_x_preferred":[
+        "Hvolsv\u00f6llur"
+    ],
+    "qs:a0":"\u00cdsland",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"\u00cdsland",
+    "qs:la":"Rang\u00e1r\u00feing eystra",
+    "qs:la_lc":"*IS218613",
+    "qs:level":"locality",
+    "qs:loc":"Hvolsv\u00f6llur",
+    "qs:loc_alt":"Hvolsvollur",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":63.749722,
+    "wd:longitude":-20.233889,
+    "wd:wordcount":267,
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3415720,
+        "gp:id":980260,
+        "qs:id":1250480,
+        "qs_pg:id":1250480,
+        "wd:id":"Q938046",
+        "wk:page":"Hvolsv\u00f6llur"
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"43083735e938f682bd035c8a1a4fde61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101803619,
+            "region_id":85672519
+        }
+    ],
+    "wof:id":101803619,
+    "wof:lastmodified":1527642762,
+    "wof:name":"Hvolsv\u00f6llur",
+    "wof:parent_id":85672519,
+    "wof:placetype":"locality",
+    "wof:population":902,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -20.24120040789944,
+    63.74510989479512,
+    -20.2119074396976,
+    63.75739766753475
+],
+  "geometry": {"coordinates":[[[-20.22837265177674,63.75739766753475],[-20.22745961545252,63.75659457163152],[-20.22562693707164,63.75697322016964],[-20.22471399564955,63.75617010631811],[-20.22104857914286,63.75692731617812],[-20.22013576988411,63.75612417252768],[-20.21830303177012,63.75650273384917],[-20.21556506157594,63.75409323080174],[-20.21373239052366,63.75447173539936],[-20.2119074396976,63.75286534589299],[-20.21374003621418,63.75248686499395],[-20.2128276099487,63.7516836729589],[-20.22198973533,63.7497910101813],[-20.22107718039706,63.74898787130218],[-20.22290943405346,63.74860928709728],[-20.22199689948116,63.74780615397782],[-20.2256611981523,63.74704894577536],[-20.22474864670772,63.74624583026366],[-20.23024464763535,63.74510989479512],[-20.24120040789944,63.75474645209857],[-20.22837265177674,63.75739766753475]]],"type":"Polygon"}
+}

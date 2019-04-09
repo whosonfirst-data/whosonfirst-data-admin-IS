@@ -1,0 +1,155 @@
+{
+  "id": 1125989799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.125,64.25806,-21.125,64.25806",
+    "geom:latitude":64.25806,
+    "geom:longitude":-21.125,
+    "gn:gn_country":"IS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IS",
+    "lbl:latitude":64.25806,
+    "lbl:longitude":-21.125,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "Tinqvedlir"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u044b\u043d\u0433\u0432\u0435\u043b\u0456\u0440"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a5\u09bf\u0982\u09ad\u09c7\u09ce\u09b2\u09bf\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Thingvellir"
+    ],
+    "name:fas_x_preferred":[
+        "\u0630\u06cc\u0646\u06af\u0648\u0644\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Parc national de \u00deingvellir"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e4\u05d0\u05e8\u05e7 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9 \u05ea\u05d9\u05e0\u05d2\u05d5\u05d5\u05dc\u05d9\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "\u00deingvellir Nemzeti Park"
+    ],
+    "name:ita_x_preferred":[
+        "Parco nazionale \u00deingvellir"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30f3\u30af\u30f4\u30a7\u30c8\u30ea\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d8\u10dc\u10d2\u10d5\u10d4\u10da\u10d8\u10e0\u10d8\u10e1 \u10d4\u10e0\u10dd\u10d5\u10dc\u10e3\u10da\u10d8 \u10de\u10d0\u10e0\u10d9\u10d8"
+    ],
+    "name:kir_x_preferred":[
+        "\u0422\u0438\u043d\u0433\u0432\u0435\u0434\u043b\u0438\u0440"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2f1\ubca8\ub9ac\ub974"
+    ],
+    "name:nor_x_preferred":[
+        "\u00deingvellir nasjonalpark"
+    ],
+    "name:oss_x_preferred":[
+        "\u0422\u0438\u043d\u0433\u0432\u0435\u0442\u043b\u0438\u0440"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062a\u06be\u0646\u06af\u0641\u0646\u06cc\u0644\u0631 \u0646\u06cc\u0634\u0646\u0644 \u067e\u0627\u0631\u06a9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043d\u0433\u0432\u0435\u0442\u043b\u0438\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0438\u043d\u0433\u0432\u0435\u0434\u043b\u0438\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "N\u00e1rodn\u00fd park \u00deingvellir"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0438\u043d\u0433\u0432\u0435\u043b\u0438\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "\u00deingvellir nationalpark"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u043d\u0491\u0432\u0435\u0442\u043b\u0456\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u8f9b\u683c\u97e6\u5fb7\u5229"
+    ],
+    "qs_pg:aaroncc":"IS",
+    "qs_pg:gn_country":"IS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3412645,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Thingvellir",
+    "qs_pg:name_adm0":"\u00cdsland",
+    "qs_pg:name_adm1":"Arnessysla",
+    "qs_pg:photos":5000,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5000,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":484570,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424845,
+    "qs_pg:woe_id":980497,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424845,
+    "woe:name_adm0":"\u00cdsland",
+    "woe:name_adm1":"Arnessysla",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3412645,
+        "gp:id":980497,
+        "qs_pg:id":484570
+    },
+    "wof:country":"IS",
+    "wof:created":1497299004,
+    "wof:geomhash":"2aafa5957309983959ed27e578fd077d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1125989799,
+            "region_id":85672519
+        }
+    ],
+    "wof:id":1125989799,
+    "wof:lastmodified":1509405321,
+    "wof:name":"Thingvellir",
+    "wof:parent_id":85672519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.125,
+    64.25806,
+    -21.125,
+    64.25806
+],
+  "geometry": {"coordinates":[-21.125,64.25806],"type":"Point"}
+}

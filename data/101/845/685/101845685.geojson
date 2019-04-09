@@ -1,0 +1,115 @@
+{
+  "id": 101845685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:area_square_m":317868.24649,
+    "geom:bbox":"-19.4628760803,65.5479671201,-19.4404815136,65.5564184045",
+    "geom:latitude":65.551958,
+    "geom:longitude":-19.450134,
+    "geonames:id":"2625499,7117225",
+    "iso:country":"IS",
+    "lbl:latitude":65.551983,
+    "lbl:longitude":-19.448437,
+    "mps:latitude":65.551983,
+    "mps:longitude":-19.448437,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Varmahl\u00ed\u00f0"
+    ],
+    "name:dut_x_preferred":[
+        "Varmahl\u00ed\u00f0"
+    ],
+    "name:eng_x_preferred":[
+        "Varmahl\u00ed\u00f0"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0645\u0647\u0644\u06cc\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Varmahl\u00ed\u00f0"
+    ],
+    "name:fre_x_preferred":[
+        "Varmahl\u00ed\u00f0"
+    ],
+    "name:ger_x_preferred":[
+        "Varmahl\u00ed\u00f0"
+    ],
+    "name:ice_x_preferred":[
+        "Varmahl\u00ed\u00f0"
+    ],
+    "name:isl_x_preferred":[
+        "Varmahl\u00ed\u00f0"
+    ],
+    "name:nld_x_preferred":[
+        "Varmahl\u00ed\u00f0"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0631\u0645\u0647\u0644\u06cc\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Varmahl\u00ed\u00f0"
+    ],
+    "name:swe_x_preferred":[
+        "Varmahl\u00ed\u00f0"
+    ],
+    "qs:a0":"\u00cdsland",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"\u00cdsland",
+    "qs:la":"Sveitarf\u00e9lagi\u00f0 Skagafj\u00f6r\u00f0ur",
+    "qs:la_lc":"*IS115200",
+    "qs:level":"locality",
+    "qs:loc":"Varmahl\u00ed\u00f0",
+    "qs:loc_alt":"Varmahlid",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":205,
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7117225,
+        "gp:id":10645002,
+        "qs:id":1084844,
+        "wd:id":"Q419691",
+        "wk:page":"Varmahl\u00ed\u00f0"
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"e917d214e240e738de0352c2c9b86f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101845685,
+            "region_id":85672507
+        }
+    ],
+    "wof:id":101845685,
+    "wof:lastmodified":1527642316,
+    "wof:name":"Varmahl\u00ed\u00f0",
+    "wof:parent_id":85672507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -19.46287608030161,
+    65.54796712005856,
+    -19.44048151358032,
+    65.5564184045054
+],
+  "geometry": {"coordinates":[[[-19.45013014053211,65.55641840450539],[-19.44048151358032,65.54833884070285],[-19.44243999880462,65.54796712005856],[-19.44340461014235,65.54877509195148],[-19.44536308828816,65.54840333585145],[-19.44632780931778,65.54921128889794],[-19.44828628037635,65.54883949734165],[-19.45118096949977,65.55126328118638],[-19.45509802246625,65.55051955389297],[-19.45606313825323,65.55132744413265],[-19.45802163203621,65.55095553359916],[-19.45898685753536,65.55176340498053],[-19.46094534418933,65.55139145898721],[-19.46287608030161,65.55300715777298],[-19.4609175055657,65.55337912898096],[-19.45995214870976,65.55257127010799],[-19.45799356683767,65.55294320585404],[-19.45702831970834,65.5521353281199],[-19.45115239919738,65.5532509604044],[-19.45404794113063,65.5556746883035],[-19.45013014053211,65.55641840450539]]],"type":"Polygon"}
+}

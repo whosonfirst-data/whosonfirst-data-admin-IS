@@ -1,0 +1,89 @@
+{
+  "id": 1125825029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.45189,65.53381,-24.45189,65.53381",
+    "geom:latitude":65.53381,
+    "geom:longitude":-24.45189,
+    "gn:gn_country":"IS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IS",
+    "lbl:latitude":65.53381,
+    "lbl:longitude":-24.45189,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Hvall\u00e1tr"
+    ],
+    "qs_pg:aaroncc":"IS",
+    "qs_pg:gn_country":"IS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3415838,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hvall\u00e1tur",
+    "qs_pg:name_adm0":"\u00cdsland",
+    "qs_pg:name_adm1":"Vestur-Bardastrandarsysla",
+    "qs_pg:photos":1179,
+    "qs_pg:photos_1k":239,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1179,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1002330,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424845,
+    "qs_pg:woe_id":980248,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424845,
+    "woe:name_adm0":"\u00cdsland",
+    "woe:name_adm1":"Vestur-Bardastrandarsysla",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3415838,
+        "gp:id":980248,
+        "qs_pg:id":1002330
+    },
+    "wof:country":"IS",
+    "wof:created":1497292238,
+    "wof:geomhash":"c66822c4c9cd67034d8eac36e378c845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1125825029,
+            "region_id":85672497
+        }
+    ],
+    "wof:id":1125825029,
+    "wof:lastmodified":1509394348,
+    "wof:name":"Hvall\u00e1tur",
+    "wof:parent_id":85672497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.45189,
+    65.53381,
+    -24.45189,
+    65.53381
+],
+  "geometry": {"coordinates":[-24.45189,65.53381],"type":"Point"}
+}

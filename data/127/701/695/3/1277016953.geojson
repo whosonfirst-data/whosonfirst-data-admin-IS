@@ -1,0 +1,79 @@
+{
+  "id": 1277016953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-20.89295,65.32624,-20.89295,65.32624",
+    "geom:latitude":65.32624,
+    "geom:longitude":-20.89295,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"5508",
+    "gn:asciiname":"Laugarbakki",
+    "gn:country_code":"IS",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8450332,
+    "gn:latitude":65.32624,
+    "gn:longitude":-20.89295,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Laugarbakki",
+    "gn:population":48,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Laugarbakki"
+    ],
+    "name:isl_x_preferred":[
+        "Laugarbakki"
+    ],
+    "name:isl_x_variant":[
+        "Laugabakki",
+        "Laugarbakka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8450332
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"0a666da71feb62ba66d90c1d68e876ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1277016953,
+            "region_id":85672507
+        }
+    ],
+    "wof:id":1277016953,
+    "wof:lastmodified":1537648805,
+    "wof:name":"Laugarbakki",
+    "wof:parent_id":85672507,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -20.89295,
+    65.32624,
+    -20.89295,
+    65.32624
+],
+  "geometry": {"coordinates":[-20.89295,65.32624],"type":"Point"}
+}

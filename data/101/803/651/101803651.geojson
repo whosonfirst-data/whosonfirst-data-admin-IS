@@ -1,0 +1,126 @@
+{
+  "id": 101803651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000125,
+    "geom:area_square_m":625769.584795,
+    "geom:bbox":"-15.3437225322,66.1919955855,-15.3250246038,66.2048100425",
+    "geom:latitude":66.19805,
+    "geom:longitude":-15.33545,
+    "gn:population":379,
+    "iso:country":"IS",
+    "lbl:latitude":66.198082,
+    "lbl:longitude":-15.335308,
+    "mps:latitude":66.198082,
+    "mps:longitude":-15.335308,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "\u00de\u00f3rsh\u00f6fn"
+    ],
+    "name:cze_x_preferred":[
+        "\u00de\u00f3rsh\u00f6fn"
+    ],
+    "name:dut_x_preferred":[
+        "\u00de\u00f3rsh\u00f6fn"
+    ],
+    "name:eng_x_preferred":[
+        "\u00de\u00f3rsh\u00f6fn"
+    ],
+    "name:fra_x_preferred":[
+        "\u00de\u00f3rsh\u00f6fn"
+    ],
+    "name:fre_x_preferred":[
+        "\u00de\u00f3rsh\u00f6fn"
+    ],
+    "name:ice_x_preferred":[
+        "\u00de\u00f3rsh\u00f6fn"
+    ],
+    "name:isl_x_preferred":[
+        "\u00de\u00f3rsh\u00f6fn"
+    ],
+    "name:isl_x_variant":[
+        "\u00de\u00f3rshafnar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30a5\u30eb\u30b9\u30db\u30d7\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "\u00de\u00f3rsh\u00f6fn"
+    ],
+    "name:oss_x_preferred":[
+        "\u0422\u043e\u0443\u0440\u0441\u0445\u0451\u0431\u043d"
+    ],
+    "name:pol_x_preferred":[
+        "\u00de\u00f3rsh\u00f6fn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0443\u0440\u0441\u0445\u0451\u0431\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "\u00de\u00f3rsh\u00f6fn"
+    ],
+    "name:swe_x_preferred":[
+        "\u00de\u00f3rsh\u00f6fn"
+    ],
+    "name:vol_x_preferred":[
+        "\u00de\u00f3rsh\u00f6fn"
+    ],
+    "qs:a0":"\u00cdsland",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"\u00cdsland",
+    "qs:la":"Langanesbygg\u00f0",
+    "qs:la_lc":"*IS156709",
+    "qs:level":"locality",
+    "qs:loc":"\u00de\u00f3rsh\u00f6fn",
+    "qs:loc_alt":"Thorshofn",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":112,
+    "wof:belongsto":[
+        85633249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2626002,
+        "gp:id":980503,
+        "qs:id":4979,
+        "wd:id":"Q923224",
+        "wk:page":"\u00de\u00f3rsh\u00f6fn"
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"2755e4758a2729c81e875a44bb9c16af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633249,
+            "locality_id":101803651
+        }
+    ],
+    "wof:id":101803651,
+    "wof:lastmodified":1527642763,
+    "wof:name":"\u00de\u00f3rsh\u00f6fn",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":379,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.34372253218487,
+    66.1919955855393,
+    -15.32502460381943,
+    66.2048100425074
+],
+  "geometry": {"coordinates":[[[-15.33795077785066,66.2048100425074],[-15.33708859902606,66.20397730110886],[-15.33503209901573,66.20430028712957],[-15.3264142591259,66.19597250220517],[-15.32847022036742,66.19564963188481],[-15.32502460381943,66.1923184343309],[-15.32708030132471,66.1919955855393],[-15.32966458239395,66.1944939559645],[-15.33788753558599,66.19320217472784],[-15.33874930187955,66.1940349093249],[-15.34286059626146,66.19338884720463],[-15.34372253218487,66.19422155402032],[-15.34166685532205,66.19454460901409],[-15.34339080541508,66.19621003185944],[-15.3413349725451,66.1965330852687],[-15.34305906287165,66.1981985126867],[-15.3410030739679,66.19852156451145],[-15.3427273045499,66.20018699650291],[-15.33861496626986,66.20083307225008],[-15.34206374055282,66.2041639731039],[-15.33795077785066,66.2048100425074]]],"type":"Polygon"}
+}

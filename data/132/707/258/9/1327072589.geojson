@@ -1,0 +1,69 @@
+{
+  "id": 1327072589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.31908,65.62849,-17.31908,65.62849",
+    "geom:latitude":65.62849,
+    "geom:longitude":-17.31908,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"6612.0",
+    "gn:asciiname":"Stafn",
+    "gn:country_code":"IS",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":2626637,
+    "gn:latitude":65.62849,
+    "gn:longitude":-17.31908,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Stafn",
+    "gn:population":25,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2626637
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"a376d00543e696de8516536f2d1702a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1327072589,
+            "region_id":85672511
+        }
+    ],
+    "wof:id":1327072589,
+    "wof:lastmodified":1536702801,
+    "wof:name":"Stafn",
+    "wof:parent_id":85672511,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.31908,
+    65.62849,
+    -17.31908,
+    65.62849
+],
+  "geometry": {"coordinates":[-17.31908,65.62849],"type":"Point"}
+}

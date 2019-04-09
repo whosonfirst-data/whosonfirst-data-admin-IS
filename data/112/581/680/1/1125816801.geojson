@@ -1,0 +1,114 @@
+{
+  "id": 1125816801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.64669,64.74763,-23.64669,64.74763",
+    "geom:latitude":64.74763,
+    "geom:longitude":-23.64669,
+    "gn:gn_country":"IS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":10,
+    "iso:country":"IS",
+    "lbl:latitude":64.74763,
+    "lbl:longitude":-23.64669,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Hellnar"
+    ],
+    "name:dut_x_preferred":[
+        "Hellnar"
+    ],
+    "name:eng_x_preferred":[
+        "Hellnar"
+    ],
+    "name:fre_x_preferred":[
+        "Hellnar"
+    ],
+    "name:ger_x_preferred":[
+        "Hellnar"
+    ],
+    "name:ice_x_preferred":[
+        "Hellnar"
+    ],
+    "name:pol_x_preferred":[
+        "Hellnar"
+    ],
+    "name:rum_x_preferred":[
+        "Hellnar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u0434\u043b\u044c\u043d\u0430\u0440"
+    ],
+    "qs_pg:aaroncc":"IS",
+    "qs_pg:gn_country":"IS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3416434,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hellnar",
+    "qs_pg:name_adm0":"\u00cdsland",
+    "qs_pg:name_adm1":"Snaefellsnesog Hnappadalssysla",
+    "qs_pg:photos":2061,
+    "qs_pg:photos_1k":418,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2061,
+    "qs_pg:photos_sr":16,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1250481,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424845,
+    "qs_pg:woe_id":980193,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424845,
+    "woe:name_adm0":"\u00cdsland",
+    "woe:name_adm1":"Snaefellsnesog Hnappadalssysla",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3416434,
+        "gp:id":980193,
+        "qs_pg:id":1250481,
+        "wd:id":"Q1366915"
+    },
+    "wof:country":"IS",
+    "wof:created":1497291877,
+    "wof:geomhash":"ab81685dafa92484f4fd4abd39eea58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125816801,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125816801,
+    "wof:lastmodified":1514455570,
+    "wof:name":"Hellnar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.64669,
+    64.74763,
+    -23.64669,
+    64.74763
+],
+  "geometry": {"coordinates":[-23.64669,64.74763],"type":"Point"}
+}

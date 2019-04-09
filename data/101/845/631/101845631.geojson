@@ -1,0 +1,193 @@
+{
+  "id": 101845631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":278272.022888,
+    "geom:bbox":"-19.0167104749,63.4156068911,-19.0040193401,63.4234659478",
+    "geom:latitude":63.419027,
+    "geom:longitude":-19.009926,
+    "gn:population":276,
+    "iso:country":"IS",
+    "lbl:latitude":63.419132,
+    "lbl:longitude":-19.009397,
+    "mps:latitude":63.419132,
+    "mps:longitude":-19.009397,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054e\u056b\u0584"
+    ],
+    "name:baq_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0451\u0441\u043a\u0430 \u0412\u0456\u043a"
+    ],
+    "name:bel_x_variant":[
+        "\u0412\u0456\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:ces_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:chi_x_preferred":[
+        "\u7dad\u514b"
+    ],
+    "name:cze_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:dan_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:deu_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:dut_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:eng_x_preferred":[
+        "Vik"
+    ],
+    "name:eng_x_variant":[
+        "Vik in Myrdal",
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:eus_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:fra_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:fre_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:ger_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u0584"
+    ],
+    "name:ice_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:isl_x_preferred":[
+        "V\u00edk"
+    ],
+    "name:isl_x_variant":[
+        "V\u00edk \u00ed M\u00fdrdal",
+        "V\u00edkur"
+    ],
+    "name:ita_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30fc\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\ud06c\uc774\ubb88\ub974\ub2ec"
+    ],
+    "name:lit_x_preferred":[
+        "Vikas"
+    ],
+    "name:nob_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:oss_x_preferred":[
+        "\u0412\u0438\u043a"
+    ],
+    "name:pms_x_preferred":[
+        "V\u00edk"
+    ],
+    "name:pol_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:por_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:swe_x_preferred":[
+        "V\u00edk"
+    ],
+    "name:tur_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043a \u0456 \u041c\u0456\u0440\u0434\u0430\u043b"
+    ],
+    "name:unk_x_variant":[
+        "V\u00edk-Handelssted"
+    ],
+    "name:vol_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "qs:a0":"\u00cdsland",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"\u00cdsland",
+    "qs:la":"M\u00fdrdalshreppur",
+    "qs:la_lc":"*IS208508",
+    "qs:level":"locality",
+    "qs:loc":"V\u00edk",
+    "qs:loc_alt":"Vik",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2625252,
+        "gp:id":980551,
+        "qs:id":394525,
+        "qs_pg:id":394525,
+        "wd:id":"Q685369",
+        "wk:page":"V\u00edk \u00ed M\u00fdrdal"
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"c4cfd4f2f65e80514462c19a3e67c665",
+    "wof:hierarchy":[
+        {
+            "country_id":85633249,
+            "locality_id":101845631
+        }
+    ],
+    "wof:id":101845631,
+    "wof:lastmodified":1553815541,
+    "wof:name":"V\u00edk",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":276,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -19.01671047488406,
+    63.41560689110793,
+    -19.00401934005168,
+    63.42346594783703
+],
+  "geometry": {"coordinates":[[[-19.00680736651196,63.4166982037741],[-19.0122871027919,63.41560689110793],[-19.0131526360812,63.41641778575712],[-19.01497916851912,63.41605396099766],[-19.01671047488406,63.41767571108653],[-19.01488386607656,63.4180395585168],[-19.01574956279194,63.41885043662597],[-19.01209614200116,63.41957809035046],[-19.0129618168155,63.42038898561799],[-19.01113500482154,63.42075279191027],[-19.01200069592426,63.42156369300073],[-19.00834686871752,63.42229126444118],[-19.00921253790005,63.42310218269103],[-19.00738552267717,63.42346594783703],[-19.00478879322424,63.42103314254473],[-19.00661569381612,63.42066941140496],[-19.00401934005168,63.41823659051818],[-19.00767278522869,63.41750913242419],[-19.00680736651196,63.4166982037741]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1225883139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.55637,65.18108,-14.55637,65.18108",
+    "geom:latitude":65.18108,
+    "geom:longitude":-14.55637,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"7620",
+    "gn:asciiname":"Vallanes",
+    "gn:country_code":"IS",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10792556,
+    "gn:latitude":65.18108,
+    "gn:longitude":-14.55637,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Vallanes",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Reykjavik",
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10792556
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"4813fc9982bc87db9c2b8a8019362a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1225883139,
+            "region_id":85672501
+        }
+    ],
+    "wof:id":1225883139,
+    "wof:lastmodified":1536959694,
+    "wof:name":"Vallanes",
+    "wof:parent_id":85672501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.55637,
+    65.18108000000001,
+    -14.55637,
+    65.18108000000001
+],
+  "geometry": {"coordinates":[-14.55637,65.18108000000001],"type":"Point"}
+}

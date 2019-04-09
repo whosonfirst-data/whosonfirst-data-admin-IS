@@ -1,0 +1,80 @@
+{
+  "id": 1125991637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.391338,65.883178,-22.391338,65.883178",
+    "geom:latitude":65.883178,
+    "geom:longitude":-22.391338,
+    "gn:gn_country":null,
+    "iso:country":"IS",
+    "lbl:latitude":65.883178,
+    "lbl:longitude":-22.391338,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IS",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Rauoamyrl",
+    "qs_pg:name_adm0":"\u00cdsland",
+    "qs_pg:name_adm1":"Nordur-Isafjardarsysla",
+    "qs_pg:photos":59,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":59,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":281370,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424845,
+    "qs_pg:woe_id":980381,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424845,
+    "woe:name_adm0":"\u00cdsland",
+    "woe:name_adm1":"Nordur-Isafjardarsysla",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":980381,
+        "qs_pg:id":281370
+    },
+    "wof:country":"IS",
+    "wof:created":1497299085,
+    "wof:geomhash":"e4446e5eb241610a3fa88cd84d2117f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1125991637,
+            "region_id":85672497
+        }
+    ],
+    "wof:id":1125991637,
+    "wof:lastmodified":1509405440,
+    "wof:name":"Rauoamyrl",
+    "wof:parent_id":85672497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.391338,
+    65.883178,
+    -22.391338,
+    65.883178
+],
+  "geometry": {"coordinates":[-22.391338,65.883178],"type":"Point"}
+}

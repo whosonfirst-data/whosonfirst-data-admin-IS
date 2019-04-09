@@ -1,0 +1,80 @@
+{
+  "id": 1125863517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.4841,64.787875,-14.4841,64.787875",
+    "geom:latitude":64.787875,
+    "geom:longitude":-14.4841,
+    "gn:gn_country":null,
+    "iso:country":"IS",
+    "lbl:latitude":64.787875,
+    "lbl:longitude":-14.4841,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IS",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Berufjorour",
+    "qs_pg:name_adm0":"\u00cdsland",
+    "qs_pg:name_adm1":"Sudur-Mulasysla",
+    "qs_pg:photos":247,
+    "qs_pg:photos_1k":50,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":247,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1104552,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424845,
+    "qs_pg:woe_id":980055,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424845,
+    "woe:name_adm0":"\u00cdsland",
+    "woe:name_adm1":"Sudur-Mulasysla",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":980055,
+        "qs_pg:id":1104552
+    },
+    "wof:country":"IS",
+    "wof:created":1497293933,
+    "wof:geomhash":"5ce0faf014ad0c900c6254724ea3eccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1125863517,
+            "region_id":85672501
+        }
+    ],
+    "wof:id":1125863517,
+    "wof:lastmodified":1509396802,
+    "wof:name":"Berufjorour",
+    "wof:parent_id":85672501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.4841,
+    64.787875,
+    -14.4841,
+    64.787875
+],
+  "geometry": {"coordinates":[-14.4841,64.787875],"type":"Point"}
+}

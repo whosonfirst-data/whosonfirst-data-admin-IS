@@ -1,0 +1,97 @@
+{
+  "id": 101845677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:bbox":"-18.360971353,65.9414945127,-18.333275663,65.9457349502",
+    "geom:latitude":65.944012,
+    "geom:longitude":-18.347081,
+    "iso:country":"IS",
+    "lbl:latitude":65.943405,
+    "lbl:longitude":-18.346871,
+    "mps:latitude":65.943405,
+    "mps:longitude":-18.346871,
+    "mz:hierarchy_label":1,
+    "name:ces_x_preferred":[
+        "Hr\u00edsey"
+    ],
+    "name:dan_x_preferred":[
+        "Hr\u00edsey"
+    ],
+    "name:deu_x_preferred":[
+        "Hr\u00edsey"
+    ],
+    "name:fin_x_preferred":[
+        "Hr\u00edsey"
+    ],
+    "name:fra_x_preferred":[
+        "Hr\u00edsey"
+    ],
+    "name:isl_x_preferred":[
+        "Hr\u00edsey"
+    ],
+    "name:ita_x_preferred":[
+        "Hr\u00edsey"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10e0\u10d8\u10e1\u10d4\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Hr\u00edsey"
+    ],
+    "name:spa_x_preferred":[
+        "Hr\u00edsey"
+    ],
+    "qs:a0":"\u00cdsland",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"\u00cdsland",
+    "qs:id":0,
+    "qs:la":"Dalv\u00edkurbygg\u00f0",
+    "qs:la_lc":"*IS146400",
+    "qs:level":"locality",
+    "qs:loc":"\u00c1rsk\u00f3gssandur",
+    "qs:loc_alt":"Arskogssandur",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"IS",
+    "wof:geomhash":"6594ab7fca99320ed65df8187c6e6de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101845677,
+            "region_id":85672511
+        }
+    ],
+    "wof:id":101845677,
+    "wof:lastmodified":1467242757,
+    "wof:name":"\u00c1rsk\u00f3gssandur",
+    "wof:parent_id":85672511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -18.36097135302072,
+    65.94149451265042,
+    -18.33327566301836,
+    65.94573495023974
+],
+  "geometry": {"coordinates":[[[-18.34212113168098,65.94573495023974],[-18.34117340501865,65.94492000176109],[-18.33717160858691,65.94563811653848],[-18.33622404299916,65.94482313724393],[-18.33422311504108,65.94518214680807],[-18.33327566301836,65.9443671491764],[-18.34928126468498,65.94149451265042],[-18.3511769947213,65.94312430244349],[-18.35317755813162,65.9427650918949],[-18.35412556972335,65.94357996550826],[-18.35612612909216,65.94322071892128],[-18.35707425423129,65.94403557418366],[-18.35907480954859,65.9436762915571],[-18.36097135302072,65.94530595949954],[-18.35897070276548,65.94566526708894],[-18.35802244545391,65.94485042357286],[-18.35402108529797,65.94556894310745],[-18.35307298902757,65.94475406875705],[-18.34907151773814,65.94547246908559],[-18.34812358251702,65.9446575639065],[-18.34212113168098,65.94573495023974]]],"type":"Polygon"}
+}

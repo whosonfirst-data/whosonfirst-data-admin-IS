@@ -1,0 +1,109 @@
+{
+  "id": 85802115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":22900322.270385,
+    "geom:bbox":"-21.935983,64.145205,-21.935983,64.145205",
+    "geom:latitude":64.145205,
+    "geom:longitude":-21.935983,
+    "gn:id":"",
+    "iso:country":"IS",
+    "lbl:latitude":64.145205,
+    "lbl:longitude":-21.935983,
+    "mps:latitude":64.137951,
+    "mps:longitude":-21.943404,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:und_x_colloquial":[
+        "Grimsstadhaholt",
+        "Grimsstayaholt",
+        "Grimsstayuaholt"
+    ],
+    "name:und_x_preferred":[
+        "Gr\u00edmssta\u00ffaholt"
+    ],
+    "name:unk_x_variant":[
+        "Gr\u00edmssta\u00ffaholt"
+    ],
+    "qs:gn_adm0_cc":"IS",
+    "qs:gn_id":0,
+    "qs:gn_local":3413829,
+    "qs:gn_nam_loc":"Reykjavik, Reykjav\u00edk, IS",
+    "qs:gn_namadm1":"39",
+    "qs:local_max":38809,
+    "qs:local_sum":38809,
+    "qs:localhoods":1,
+    "qs:name":"Gr\u00edmssta\u00ffaholt",
+    "qs:name_adm0":"\u00cdsland",
+    "qs:name_adm1":"Gullbringusysla",
+    "qs:name_local":"Reykjav\u00edk",
+    "qs:photo_max":4617,
+    "qs:photo_sum":38809,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":229,
+    "qs:woe_adm0":23424845,
+    "qs:woe_adm1":2345694,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":980389,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":980156,
+        "qs:id":533763,
+        "qs_pg:id":533763
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"62e5d76f328264c9f6763d18c259f5ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":85802115,
+            "region_id":85672493
+        }
+    ],
+    "wof:id":85802115,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531862133,
+    "wof:name":"Gr\u00edmssta\u00ffaholt",
+    "wof:parent_id":101751753,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.935983,
+    64.145205,
+    -21.935983,
+    64.145205
+],
+  "geometry": {"coordinates":[-21.935983,64.145205],"type":"Point"}
+}

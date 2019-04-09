@@ -1,0 +1,95 @@
+{
+  "id": 102553079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.1352777778,66.0580555556,-23.1352777778,66.0580555556",
+    "geom:latitude":66.058056,
+    "geom:longitude":-23.135278,
+    "iso:country":"IS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flughafen \u00cdsafj\u00f6r\u00f0ur"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0633\u0627\u0641\u06cc\u0648\u0631\u062f\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9rodrome d'\u00cdsafj\u00f6r\u00f0ur"
+    ],
+    "name:isl_x_preferred":[
+        "\u00cdsafjar\u00f0arflugv\u00f6llur"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30fc\u30b5\u30d5\u30a3\u30e8\u30eb\u30ba\u30a5\u30eb\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Isafjordur"
+    ],
+    "name:nld_x_preferred":[
+        "\u00cdsafjar\u00f0arflugv\u00f6llur"
+    ],
+    "name:nor_x_preferred":[
+        "\u00cdsafj\u00f6r\u00f0ur lufthavn"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy \u00cdsafj\u00f6r\u00f0ur"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de \u00cdsafj\u00f6r\u00f0ur"
+    ],
+    "oa:elevation_ft":"8",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":184,
+    "woe:hierarchy":{
+        "country_id":23424845,
+        "planet_id":1,
+        "state_id":20070104
+    },
+    "wof:belongsto":[
+        85633249,
+        85672497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513444,
+        "iata:code":"IFJ",
+        "icao:code":"BIIS",
+        "oa:id":"122",
+        "wd:id":"Q1433313"
+    },
+    "wof:country":"IS",
+    "wof:geomhash":"59f3f2d513f2c0452280da4ebcfd6657",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553079,
+            "country_id":85633249,
+            "region_id":85672497
+        }
+    ],
+    "wof:id":102553079,
+    "wof:lastmodified":1543846096,
+    "wof:name":"Isafjordur Airport",
+    "wof:parent_id":85672497,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -23.135277777778,
+    66.058055555556,
+    -23.135277777778,
+    66.058055555556
+],
+  "geometry": {"coordinates":[-23.135277777778,66.058055555556],"type":"Point"}
+}
