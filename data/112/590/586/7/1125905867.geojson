@@ -22,16 +22,13 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u043b\u0430\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u4faf\u62c9\u723e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "H\u00f3lar"
     ],
     "name:dan_x_preferred":[
         "H\u00f3lar"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "H\u00f3lar"
     ],
     "name:eng_x_preferred":[
@@ -44,14 +41,8 @@
     "name:epo_x_preferred":[
         "H\u00f3lar en Hjaltadalur"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "H\u00f3lar"
-    ],
-    "name:ger_x_preferred":[
-        "H\u00f3lar"
-    ],
-    "name:ice_x_preferred":[
-        "H\u00f3lar \u00ed Hjaltadal"
     ],
     "name:isl_x_preferred":[
         "H\u00f3lar"
@@ -69,6 +60,9 @@
     ],
     "name:lat_x_preferred":[
         "Hola"
+    ],
+    "name:nld_x_preferred":[
+        "H\u00f3lar"
     ],
     "name:nob_x_preferred":[
         "H\u00f3lar"
@@ -93,6 +87,9 @@
     ],
     "name:vol_x_preferred":[
         "H\u00f3lar"
+    ],
+    "name:zho_x_preferred":[
+        "\u4faf\u62c9\u723e"
     ],
     "qs_pg:aaroncc":"IS",
     "qs_pg:gn_country":"IS",
@@ -131,7 +128,7 @@
         }
     ],
     "wof:id":1125905867,
-    "wof:lastmodified":1514455571,
+    "wof:lastmodified":1561769503,
     "wof:name":"H\u00f3lar",
     "wof:parent_id":85672507,
     "wof:placetype":"locality",

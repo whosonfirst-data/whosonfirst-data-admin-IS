@@ -22,22 +22,16 @@
     "name:cat_x_preferred":[
         "Bakkafj\u00f6r\u00f0ur"
     ],
-    "name:dut_x_preferred":[
-        "Bakkafj\u00f6r\u00f0ur"
-    ],
     "name:eng_x_preferred":[
         "Bakkafjordur"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bakkafj\u00f6r\u00f0ur"
     ],
     "name:gle_x_preferred":[
         "Bakkafj\u00f6r\u00f0ur"
     ],
     "name:glg_x_preferred":[
-        "Bakkafj\u00f6r\u00f0ur"
-    ],
-    "name:ice_x_preferred":[
         "Bakkafj\u00f6r\u00f0ur"
     ],
     "name:isl_x_preferred":[
@@ -47,6 +41,9 @@
         "Bakkafj\u00f6r\u00f0",
         "Bakkafir\u00f0i",
         "Bakkafjar\u00f0ar"
+    ],
+    "name:nld_x_preferred":[
+        "Bakkafj\u00f6r\u00f0ur"
     ],
     "name:spa_x_preferred":[
         "Bakkafj\u00f6r\u00f0ur"
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":1125843313,
-    "wof:lastmodified":1514455559,
+    "wof:lastmodified":1561769504,
     "wof:name":"Bakkafj\u00f6r\u00f0ur",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

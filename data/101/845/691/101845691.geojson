@@ -23,31 +23,13 @@
     "name:ces_x_preferred":[
         "Flateyri"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u62c9\u6cf0\u91cc"
-    ],
-    "name:cze_x_preferred":[
-        "Flateyri"
-    ],
     "name:deu_x_preferred":[
-        "Flateyri"
-    ],
-    "name:dut_x_preferred":[
         "Flateyri"
     ],
     "name:eng_x_preferred":[
         "Flateyri"
     ],
     "name:fra_x_preferred":[
-        "Flateyri"
-    ],
-    "name:fre_x_preferred":[
-        "Flateyri"
-    ],
-    "name:ger_x_preferred":[
-        "Flateyri"
-    ],
-    "name:ice_x_preferred":[
         "Flateyri"
     ],
     "name:isl_x_preferred":[
@@ -70,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "Flateyri"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u62c9\u6cf0\u91cc"
     ],
     "qs:a0":"\u00cdsland",
     "qs:a1":"*",
@@ -111,7 +96,7 @@
         }
     ],
     "wof:id":101845691,
-    "wof:lastmodified":1527642318,
+    "wof:lastmodified":1561769498,
     "wof:name":"Flateyri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

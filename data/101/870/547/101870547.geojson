@@ -17,28 +17,13 @@
     "mps:longitude":-23.605268,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6bd4\u723e\u5fb7\u9054\u52d2"
-    ],
     "name:deu_x_preferred":[
-        "B\u00edldudalur"
-    ],
-    "name:dut_x_preferred":[
         "B\u00edldudalur"
     ],
     "name:eng_x_preferred":[
         "Bildudalur"
     ],
     "name:fra_x_preferred":[
-        "B\u00edldudalur"
-    ],
-    "name:fre_x_preferred":[
-        "B\u00edldudalur"
-    ],
-    "name:ger_x_preferred":[
-        "B\u00edldudalur"
-    ],
-    "name:ice_x_preferred":[
         "B\u00edldudalur"
     ],
     "name:isl_x_preferred":[
@@ -111,7 +96,7 @@
         }
     ],
     "wof:id":101870547,
-    "wof:lastmodified":1544750697,
+    "wof:lastmodified":1561769501,
     "wof:name":"B\u00edldudalur",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

@@ -20,13 +20,7 @@
     "name:ces_x_preferred":[
         "Hafnir"
     ],
-    "name:cze_x_preferred":[
-        "Hafnir"
-    ],
     "name:deu_x_preferred":[
-        "Hafnir"
-    ],
-    "name:dut_x_preferred":[
         "Hafnir"
     ],
     "name:eng_x_preferred":[
@@ -36,15 +30,6 @@
         "Hafnir"
     ],
     "name:fra_x_preferred":[
-        "Hafnir"
-    ],
-    "name:fre_x_preferred":[
-        "Hafnir"
-    ],
-    "name:ger_x_preferred":[
-        "Hafnir"
-    ],
-    "name:ice_x_preferred":[
         "Hafnir"
     ],
     "name:isl_x_preferred":[
@@ -126,7 +111,7 @@
         }
     ],
     "wof:id":101870531,
-    "wof:lastmodified":1553815559,
+    "wof:lastmodified":1561769501,
     "wof:name":"Hafnir",
     "wof:parent_id":85672515,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000773,
-    "geom:area_square_m":4213520.793171,
+    "geom:area_square_m":4213520.79317,
     "geom:bbox":"-22.4772797174,63.833916347,-22.4083673036,63.8552386189",
     "geom:latitude":63.845083,
     "geom:longitude":-22.447184,
@@ -17,12 +17,6 @@
     "mps:longitude":-22.453449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Grindav\u00edk"
-    ],
-    "name:baq_x_preferred":[
-        "Grindav\u00edk"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0413\u0440\u044b\u043d\u0434\u0430\u0432\u0456\u043a"
     ],
@@ -32,17 +26,11 @@
     "name:ces_x_preferred":[
         "Grindav\u00edk"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u6797\u8fbe\u7ef4\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Grindav\u00edk"
-    ],
     "name:deu_x_preferred":[
         "Grindav\u00edk"
     ],
-    "name:dut_x_preferred":[
-        "Grindav\u00edk"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03af\u03bd\u03c4\u03b1\u03b2\u03b9\u03ba"
     ],
     "name:eng_x_preferred":[
         "Grindavik"
@@ -57,18 +45,6 @@
         "Grindav\u00edk"
     ],
     "name:fra_x_preferred":[
-        "Grindav\u00edk"
-    ],
-    "name:fre_x_preferred":[
-        "Grindav\u00edk"
-    ],
-    "name:ger_x_preferred":[
-        "Grindav\u00edk"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03c1\u03af\u03bd\u03c4\u03b1\u03b2\u03b9\u03ba"
-    ],
-    "name:ice_x_preferred":[
         "Grindav\u00edk"
     ],
     "name:ido_x_preferred":[
@@ -98,10 +74,10 @@
     "name:lit_x_preferred":[
         "Grindavikas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0413\u0440\u0438\u043d\u0434\u0430\u0432\u0438\u043a"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Grindav\u00edk"
     ],
     "name:nan_x_preferred":[
@@ -125,7 +101,7 @@
     "name:por_x_preferred":[
         "Grindav\u00edk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Grindav\u00edk"
     ],
     "name:rus_x_preferred":[
@@ -138,6 +114,9 @@
         "Grindav\u00edkurb\u00e6r"
     ],
     "name:spa_x_preferred":[
+        "Grindav\u00edk"
+    ],
+    "name:sqi_x_preferred":[
         "Grindav\u00edk"
     ],
     "name:srp_x_preferred":[
@@ -204,7 +183,7 @@
         }
     ],
     "wof:id":101845645,
-    "wof:lastmodified":1527642311,
+    "wof:lastmodified":1561769497,
     "wof:name":"Grindav\u00edk",
     "wof:parent_id":85672515,
     "wof:placetype":"locality",

@@ -17,25 +17,13 @@
     "mps:longitude":-21.146878,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Eyrarbakki"
-    ],
     "name:bul_x_preferred":[
         "\u0415\u0439\u0440\u0430\u0440\u0431\u0430\u043a\u0438"
     ],
     "name:ces_x_preferred":[
         "Eyrarbakki"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u62c9\u5df4\u57fa"
-    ],
-    "name:cze_x_preferred":[
-        "Eyrarbakki"
-    ],
     "name:deu_x_preferred":[
-        "Eyrarbakki"
-    ],
-    "name:dut_x_preferred":[
         "Eyrarbakki"
     ],
     "name:eng_x_preferred":[
@@ -45,15 +33,6 @@
         "Eyrarbakki"
     ],
     "name:fra_x_preferred":[
-        "Eyrarbakki"
-    ],
-    "name:fre_x_preferred":[
-        "Eyrarbakki"
-    ],
-    "name:ger_x_preferred":[
-        "Eyrarbakki"
-    ],
-    "name:ice_x_preferred":[
         "Eyrarbakki"
     ],
     "name:isl_x_preferred":[
@@ -125,7 +104,7 @@
         }
     ],
     "wof:id":101845635,
-    "wof:lastmodified":1527642313,
+    "wof:lastmodified":1561769497,
     "wof:name":"Eyrarbakki",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

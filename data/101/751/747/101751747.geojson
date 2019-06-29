@@ -17,17 +17,8 @@
     "mps:longitude":-21.914485,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Gar\u00f0ab\u00e6r"
-    ],
     "name:ara_x_preferred":[
         "\u063a\u0627\u0631\u0630\u0627\u0628\u0627\u064a\u0631"
-    ],
-    "name:arm_x_preferred":[
-        "\u0533\u0561\u0580\u0564\u0561\u0562\u0561\u0575\u0580"
-    ],
-    "name:baq_x_preferred":[
-        "Gar\u00f0ab\u00e6r"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0413\u0430\u0440\u0434\u0430\u0431\u0430\u0439\u0440"
@@ -44,19 +35,10 @@
     "name:ces_x_preferred":[
         "Gar\u00f0ab\u00e6r"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u5c14\u624e\u62dc\u5c14"
-    ],
-    "name:cze_x_preferred":[
-        "Gar\u00f0ab\u00e6r"
-    ],
     "name:dan_x_preferred":[
         "Gar\u00f0ab\u00e6r"
     ],
     "name:deu_x_preferred":[
-        "Gar\u00f0ab\u00e6r"
-    ],
-    "name:dut_x_preferred":[
         "Gar\u00f0ab\u00e6r"
     ],
     "name:eng_x_preferred":[
@@ -80,15 +62,6 @@
     "name:fra_x_preferred":[
         "Gar\u00f0ab\u00e6r"
     ],
-    "name:fre_x_preferred":[
-        "Gar\u00f0ab\u00e6r"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d0\u10e0\u10d3\u10d0\u10d1\u10d0\u10d8\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Gar\u00f0ab\u00e6r"
-    ],
     "name:heb_x_preferred":[
         "\u05d2\u05d0\u05e8\u05d3\u05d1\u05d0\u05d9\u05e8"
     ],
@@ -97,9 +70,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0533\u0561\u0580\u0564\u0561\u0562\u0561\u0575\u0580"
-    ],
-    "name:ice_x_preferred":[
-        "Gar\u00f0ab\u00e6r"
     ],
     "name:ido_x_preferred":[
         "Gar\u00f0ab\u00e6r"
@@ -141,10 +111,10 @@
     "name:ltz_x_preferred":[
         "Gar\u00f0ab\u00e6r"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0413\u0430\u0440\u0434\u0430\u0431\u0430\u0458\u0440"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gar\u00f0ab\u00e6r"
     ],
     "name:nan_x_preferred":[
@@ -162,16 +132,13 @@
     "name:oss_x_preferred":[
         "\u0413\u0430\u0440\u0434\u0430\u0431\u0430\u0439\u0440"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0627\u0631\u0630\u0627\u0628\u0627\u06cc\u0631"
-    ],
     "name:pol_x_preferred":[
         "Gar\u00f0ab\u00e6r"
     ],
     "name:por_x_preferred":[
         "Gar\u00f0ab\u00e6r"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gar\u00f0ab\u00e6r"
     ],
     "name:rus_x_preferred":[
@@ -184,6 +151,9 @@
         "Gar\u00f0ab\u00e6r"
     ],
     "name:spa_x_preferred":[
+        "Gar\u00f0ab\u00e6r"
+    ],
+    "name:sqi_x_preferred":[
         "Gar\u00f0ab\u00e6r"
     ],
     "name:swe_x_preferred":[
@@ -250,7 +220,7 @@
         }
     ],
     "wof:id":101751747,
-    "wof:lastmodified":1527714360,
+    "wof:lastmodified":1561769500,
     "wof:name":"Gar\u00f0ab\u00e6r",
     "wof:parent_id":85672493,
     "wof:placetype":"locality",

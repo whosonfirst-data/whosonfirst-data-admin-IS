@@ -17,28 +17,13 @@
     "mps:longitude":-22.701676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Sandger\u00f0i"
-    ],
-    "name:baq_x_preferred":[
-        "Sandger\u00f0i"
-    ],
     "name:ces_x_preferred":[
-        "Sandger\u00f0i"
-    ],
-    "name:chi_x_preferred":[
-        "\u6851\u5fb7\u84cb\u723e\u6fdf"
-    ],
-    "name:cze_x_preferred":[
         "Sandger\u00f0i"
     ],
     "name:dan_x_preferred":[
         "Sandger\u00f0i"
     ],
     "name:deu_x_preferred":[
-        "Sandger\u00f0i"
-    ],
-    "name:dut_x_preferred":[
         "Sandger\u00f0i"
     ],
     "name:eng_x_preferred":[
@@ -48,15 +33,6 @@
         "Sandger\u00f0i"
     ],
     "name:fra_x_preferred":[
-        "Sandger\u00f0i"
-    ],
-    "name:fre_x_preferred":[
-        "Sandger\u00f0i"
-    ],
-    "name:ger_x_preferred":[
-        "Sandger\u00f0i"
-    ],
-    "name:ice_x_preferred":[
         "Sandger\u00f0i"
     ],
     "name:ind_x_preferred":[
@@ -80,11 +56,14 @@
     "name:lit_x_preferred":[
         "Sandgerdis"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0430\u043d\u0434\u0433\u0435\u0440\u0434\u0438"
     ],
     "name:nan_x_preferred":[
         "Sandger\u00f0isb\u00e6r"
+    ],
+    "name:nld_x_preferred":[
+        "Sandger\u00f0i"
     ],
     "name:pol_x_preferred":[
         "Sandger\u00f0i"
@@ -95,11 +74,17 @@
     "name:spa_x_preferred":[
         "Sandger\u00f0i"
     ],
+    "name:sqi_x_preferred":[
+        "Sandger\u00f0i"
+    ],
     "name:swe_x_preferred":[
         "Sandger\u00f0isb\u00e6r"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0434\u0491\u0435\u0440\u0434\u0456"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u5fb7\u84cb\u723e\u6fdf"
     ],
     "qs:a0":"\u00cdsland",
     "qs:a1":"*",
@@ -144,7 +129,7 @@
         }
     ],
     "wof:id":101803637,
-    "wof:lastmodified":1527642769,
+    "wof:lastmodified":1561769500,
     "wof:name":"Sandger\u00f0i",
     "wof:parent_id":85672515,
     "wof:placetype":"locality",

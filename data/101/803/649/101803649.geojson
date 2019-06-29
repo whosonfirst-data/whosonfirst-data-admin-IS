@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000344,
-    "geom:area_square_m":1828269.457042,
+    "geom:area_square_m":1828269.457043,
     "geom:bbox":"-21.931541313,64.532518846,-21.8926478441,64.5650880515",
     "geom:latitude":64.549296,
     "geom:longitude":-21.90884,
@@ -21,14 +21,8 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u063a\u0627\u0631\u0646\u064a\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u0580\u0563\u0561\u0580\u0576\u0565\u057d"
-    ],
     "name:aze_x_preferred":[
         "Borqarnes"
-    ],
-    "name:baq_x_preferred":[
-        "Borgarnes"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u043e\u0440\u0433\u0430\u0440\u043d\u0435\u0441"
@@ -45,19 +39,10 @@
     "name:ces_x_preferred":[
         "Borgarnes"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u5c14\u52a0\u5185\u65af"
-    ],
-    "name:cze_x_preferred":[
-        "Borgarnes"
-    ],
     "name:dan_x_preferred":[
         "Borgarnes"
     ],
     "name:deu_x_preferred":[
-        "Borgarnes"
-    ],
-    "name:dut_x_preferred":[
         "Borgarnes"
     ],
     "name:eng_x_preferred":[
@@ -75,15 +60,6 @@
     "name:fra_x_preferred":[
         "Borgarnes"
     ],
-    "name:fre_x_preferred":[
-        "Borgarnes"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10dd\u10e0\u10d2\u10d0\u10e0\u10dc\u10d4\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Borgarnes"
-    ],
     "name:hbs_x_preferred":[
         "Borgarnes"
     ],
@@ -92,9 +68,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u0578\u0580\u0563\u0561\u0580\u0576\u0565\u057d"
-    ],
-    "name:ice_x_preferred":[
-        "Borgarnes"
     ],
     "name:ind_x_preferred":[
         "Borgarnes"
@@ -123,12 +96,6 @@
     ],
     "name:lit_x_preferred":[
         "Borgarnesas"
-    ],
-    "name:mac_x_preferred":[
-        "\u0411\u043e\u0440\u0433\u0430\u0440\u043d\u0435\u0441"
-    ],
-    "name:may_x_preferred":[
-        "Borgarbygg\u00f0"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u043e\u0440\u0433\u0430\u0440\u043d\u0435\u0441"
@@ -312,7 +279,7 @@
         }
     ],
     "wof:id":101803649,
-    "wof:lastmodified":1527642767,
+    "wof:lastmodified":1561769499,
     "wof:name":"Borgarnes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

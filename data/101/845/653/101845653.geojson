@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00484,
-    "geom:area_square_m":26257635.407161,
+    "geom:area_square_m":26257635.407157,
     "geom:bbox":"-22.6808596868,63.9550791831,-22.5053998353,64.0119740195",
     "geom:latitude":63.978079,
     "geom:longitude":-22.609839,
@@ -16,9 +16,6 @@
     "mps:longitude":-22.608578,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Njar\u00f0v\u00edk"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d'\u044f\u0440\u0434\u0432\u0456\u043a"
     ],
@@ -31,16 +28,10 @@
     "name:ces_x_preferred":[
         "Njar\u00f0v\u00edk"
     ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u4e9a\u5179\u7ef4\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Njar\u00f0v\u00edk"
-    ],
     "name:dan_x_preferred":[
         "Njar\u00f0v\u00edk"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Njar\u00f0v\u00edk"
     ],
     "name:eng_x_preferred":[
@@ -50,15 +41,6 @@
         "Njar\u00f0v\u00edk"
     ],
     "name:fra_x_preferred":[
-        "Njar\u00f0v\u00edk"
-    ],
-    "name:fre_x_preferred":[
-        "Njar\u00f0v\u00edk"
-    ],
-    "name:ger_x_preferred":[
-        "Njar\u00f0v\u00edk"
-    ],
-    "name:ice_x_preferred":[
         "Njar\u00f0v\u00edk"
     ],
     "name:isl_x_preferred":[
@@ -76,9 +58,6 @@
     ],
     "name:lit_x_preferred":[
         "Njardvikas"
-    ],
-    "name:mac_x_preferred":[
-        "\u040a\u0430\u0440\u0434\u0432\u0438\u043a"
     ],
     "name:mkd_x_preferred":[
         "\u040a\u0430\u0440\u0434\u0432\u0438\u043a"
@@ -106,6 +85,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u044f\u0440\u0434\u0432\u0456\u043a"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u4e9a\u5179\u7ef4\u514b"
     ],
     "qs:a0":"\u00cdsland",
     "qs:a1":"*",
@@ -149,7 +131,7 @@
         }
     ],
     "wof:id":101845653,
-    "wof:lastmodified":1527642318,
+    "wof:lastmodified":1561769498,
     "wof:name":"Njar\u00f0v\u00edk",
     "wof:parent_id":85672515,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
-    "geom:area_square_m":417214.113641,
+    "geom:area_square_m":417214.11364,
     "geom:bbox":"-18.187532437,65.9429190445,-18.1715079937,65.9532214585",
     "geom:latitude":65.947959,
     "geom:longitude":-18.179644,
@@ -17,17 +17,8 @@
     "mps:longitude":-18.178308,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Gr\u00fdtubakkahreppur"
-    ],
-    "name:baq_x_preferred":[
-        "Gr\u00fdtubakkahreppur"
-    ],
     "name:deu_x_preferred":[
         "Gr\u00fdtubakki"
-    ],
-    "name:dut_x_preferred":[
-        "Gr\u00fdtubakkahreppur"
     ],
     "name:eng_x_preferred":[
         "Grenvik"
@@ -39,15 +30,6 @@
         "Gr\u00fdtubakkahreppur"
     ],
     "name:fra_x_preferred":[
-        "Gr\u00fdtubakkahreppur"
-    ],
-    "name:fre_x_preferred":[
-        "Gr\u00fdtubakkahreppur"
-    ],
-    "name:ger_x_preferred":[
-        "Gr\u00fdtubakki"
-    ],
-    "name:ice_x_preferred":[
         "Gr\u00fdtubakkahreppur"
     ],
     "name:isl_x_preferred":[
@@ -126,7 +108,7 @@
         }
     ],
     "wof:id":101845679,
-    "wof:lastmodified":1514455567,
+    "wof:lastmodified":1561769498,
     "wof:name":"Greniv\u00edk",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",
