@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000054,
-    "geom:area_square_m":268195.746334,
+    "geom:area_square_m":268195.746333,
     "geom:bbox":"-23.131947773,66.1066185681,-23.1150042403,66.1130277577",
     "geom:latitude":66.109509,
     "geom:longitude":-23.123003,
@@ -17,19 +17,10 @@
     "mps:longitude":-23.123131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Hn\u00edfsdalur"
-    ],
     "name:eng_x_preferred":[
         "Hn\u00edfsdalur"
     ],
     "name:fra_x_preferred":[
-        "Hn\u00edfsdalur"
-    ],
-    "name:fre_x_preferred":[
-        "Hn\u00edfsdalur"
-    ],
-    "name:ice_x_preferred":[
         "Hn\u00edfsdalur"
     ],
     "name:isl_x_preferred":[
@@ -95,7 +86,7 @@
         }
     ],
     "wof:id":101803681,
-    "wof:lastmodified":1553815513,
+    "wof:lastmodified":1561769499,
     "wof:name":"Hn\u00edfsdalur",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

@@ -22,19 +22,13 @@
     "name:afr_x_preferred":[
         "Sk\u00e1lholt"
     ],
-    "name:baq_x_preferred":[
-        "Sk\u00e1lholt"
-    ],
     "name:bel_x_preferred":[
         "\u0421\u043a\u0430\u043b\u0445\u043e\u043b\u044c\u0442"
     ],
     "name:cat_x_preferred":[
         "Sk\u00e1lholt"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u8003\u723e\u970d\u7279"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sk\u00e1lholt"
     ],
     "name:dan_x_preferred":[
@@ -43,22 +37,13 @@
     "name:deu_x_preferred":[
         "Sk\u00e1lholt"
     ],
-    "name:dut_x_preferred":[
-        "Sk\u00e1lholt"
-    ],
     "name:eng_x_preferred":[
         "Sk\u00e1lholt"
     ],
+    "name:eus_x_preferred":[
+        "Sk\u00e1lholt"
+    ],
     "name:fra_x_preferred":[
-        "Sk\u00e1lholt"
-    ],
-    "name:fre_x_preferred":[
-        "Sk\u00e1lholt"
-    ],
-    "name:ger_x_preferred":[
-        "Sk\u00e1lholt"
-    ],
-    "name:ice_x_preferred":[
         "Sk\u00e1lholt"
     ],
     "name:isl_x_preferred":[
@@ -105,6 +90,9 @@
     ],
     "name:vol_x_preferred":[
         "Sk\u00e1lholt"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u8003\u723e\u970d\u7279"
     ],
     "qs_pg:aaroncc":"IS",
     "qs_pg:gn_country":"IS",
@@ -157,7 +145,7 @@
         }
     ],
     "wof:id":1126039189,
-    "wof:lastmodified":1514455595,
+    "wof:lastmodified":1561769502,
     "wof:name":"Sk\u00e1lholt",
     "wof:parent_id":85672519,
     "wof:placetype":"locality",

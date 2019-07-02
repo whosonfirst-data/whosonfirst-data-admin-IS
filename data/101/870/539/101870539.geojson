@@ -16,19 +16,10 @@
     "mps:longitude":-18.307813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Hauganes"
-    ],
     "name:eng_x_preferred":[
         "Hauganes"
     ],
     "name:fra_x_preferred":[
-        "Hauganes"
-    ],
-    "name:fre_x_preferred":[
-        "Hauganes"
-    ],
-    "name:ice_x_preferred":[
         "Hauganes"
     ],
     "name:isl_x_preferred":[
@@ -79,7 +70,7 @@
         }
     ],
     "wof:id":101870539,
-    "wof:lastmodified":1544750693,
+    "wof:lastmodified":1561769501,
     "wof:name":"Hauganes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

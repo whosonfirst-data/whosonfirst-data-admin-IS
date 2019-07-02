@@ -25,23 +25,14 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.0,
-    "name:alb_x_preferred":[
-        "Rajoni Lindor"
-    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0634\u0631\u0642\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u0537\u0575\u057d\u057f\u0575\u0578\u0582\u0580\u056c\u0561\u0576\u0564"
     ],
     "name:ast_x_preferred":[
         "Austurland"
     ],
     "name:aze_x_preferred":[
         "Eyst\u00fcrland"
-    ],
-    "name:baq_x_preferred":[
-        "Austurland"
     ],
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09cd\u099f\u09be\u09b0\u09cd\u09a8 \u0985\u099e\u09cd\u099a\u09b2"
@@ -55,14 +46,14 @@
     "name:cat_x_preferred":[
         "Austurland"
     ],
-    "name:chi_x_preferred":[
-        "\u6771\u90e8\u5340"
-    ],
     "name:dan_x_preferred":[
         "Austurland"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Austurland"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae \u0399\u03c3\u03bb\u03b1\u03bd\u03b4\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Austurland"
@@ -75,19 +66,19 @@
     "name:est_x_preferred":[
         "Austurland"
     ],
+    "name:eus_x_preferred":[
+        "Austurland"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0634\u0631\u0642\u06cc \u0627\u06cc\u0633\u0644\u0646\u062f"
+    ],
     "name:fin_x_preferred":[
         "Austurland"
     ],
     "name:fra_x_preferred":[
         "Est"
     ],
-    "name:fre_x_preferred":[
-        "Austurland"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e3\u10e1\u10e2\u10e3\u10e0\u10da\u10d0\u10dc\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Austurland"
     ],
     "name:gle_x_preferred":[
@@ -95,9 +86,6 @@
     ],
     "name:glg_x_preferred":[
         "Austurland"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae \u0399\u03c3\u03bb\u03b1\u03bd\u03b4\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac2\u0ab0\u0acd\u0ab5\u0ac0\u0aaf \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -108,8 +96,8 @@
     "name:hin_x_preferred":[
         "\u092a\u0942\u0930\u094d\u0935\u0940 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
     ],
-    "name:ice_x_preferred":[
-        "Austurland"
+    "name:hye_x_preferred":[
+        "\u0537\u0575\u057d\u057f\u0575\u0578\u0582\u0580\u056c\u0561\u0576\u0564"
     ],
     "name:ind_x_preferred":[
         "Austurland"
@@ -126,6 +114,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0cc2\u0cb0\u0ccd\u0cb5 \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e3\u10e1\u10e2\u10e3\u10e0\u10da\u10d0\u10dc\u10d3\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc678\uc774\uc2a4\ud280\ub97c\ub780\ub4dc"
     ],
@@ -141,17 +132,17 @@
     "name:mar_x_preferred":[
         "\u0907\u0938\u094d\u091f\u0930\u094d\u0928 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Eastern Region"
     ],
     "name:nan_x_preferred":[
         "Austurland"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Austurland"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0634\u0631\u0642\u06cc \u0627\u06cc\u0633\u0644\u0646\u062f"
+    "name:nob_x_preferred":[
+        "Austurland"
     ],
     "name:pol_x_preferred":[
         "Okr\u0119g Wschodni"
@@ -170,6 +161,9 @@
     ],
     "name:spa_x_preferred":[
         "Oriental"
+    ],
+    "name:sqi_x_preferred":[
+        "Rajoni Lindor"
     ],
     "name:srp_x_preferred":[
         "\u0415\u0458\u0441\u0442\u0438\u0440\u0442\u043b\u0430\u043d\u0434"
@@ -200,6 +194,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Eastern"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u90e8\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ISL",
@@ -318,7 +315,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1553550408,
+    "wof:lastmodified":1561769494,
     "wof:name":"Austurland",
     "wof:parent_id":85633249,
     "wof:placetype":"region",

@@ -23,22 +23,10 @@
     "name:ces_x_preferred":[
         "Fl\u00fa\u00f0ir"
     ],
-    "name:cze_x_preferred":[
-        "Fl\u00fa\u00f0ir"
-    ],
-    "name:dut_x_preferred":[
-        "Fl\u00fa\u00f0ir"
-    ],
     "name:eng_x_preferred":[
         "Fl\u00fa\u00f0ir"
     ],
     "name:fra_x_preferred":[
-        "Fl\u00fa\u00f0ir"
-    ],
-    "name:fre_x_preferred":[
-        "Fl\u00fa\u00f0ir"
-    ],
-    "name:ice_x_preferred":[
         "Fl\u00fa\u00f0ir"
     ],
     "name:isl_x_preferred":[
@@ -104,7 +92,7 @@
         }
     ],
     "wof:id":101845655,
-    "wof:lastmodified":1527642317,
+    "wof:lastmodified":1561769498,
     "wof:name":"Fl\u00fa\u00f0ir",
     "wof:parent_id":85672519,
     "wof:placetype":"locality",

@@ -20,28 +20,13 @@
     "name:ces_x_preferred":[
         "K\u00f3pasker"
     ],
-    "name:cze_x_preferred":[
-        "K\u00f3pasker"
-    ],
     "name:deu_x_preferred":[
-        "K\u00f3pasker"
-    ],
-    "name:dut_x_preferred":[
         "K\u00f3pasker"
     ],
     "name:eng_x_preferred":[
         "K\u00f3pasker"
     ],
     "name:fra_x_preferred":[
-        "K\u00f3pasker"
-    ],
-    "name:fre_x_preferred":[
-        "K\u00f3pasker"
-    ],
-    "name:ger_x_preferred":[
-        "K\u00f3pasker"
-    ],
-    "name:ice_x_preferred":[
         "K\u00f3pasker"
     ],
     "name:isl_x_preferred":[
@@ -58,9 +43,6 @@
         "K\u00f3pasker"
     ],
     "name:ron_x_preferred":[
-        "K\u00f3pasker"
-    ],
-    "name:rum_x_preferred":[
         "K\u00f3pasker"
     ],
     "name:rus_x_preferred":[
@@ -113,7 +95,7 @@
         }
     ],
     "wof:id":101870543,
-    "wof:lastmodified":1544750694,
+    "wof:lastmodified":1561769501,
     "wof:name":"K\u00f3pasker",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -19,22 +19,10 @@
     "name:deu_x_preferred":[
         "Svalbar\u00f0seyri"
     ],
-    "name:dut_x_preferred":[
-        "Svalbar\u00f0seyri"
-    ],
     "name:eng_x_preferred":[
         "Svalbar\u00f0seyri"
     ],
     "name:fra_x_preferred":[
-        "Svalbar\u00f0seyri"
-    ],
-    "name:fre_x_preferred":[
-        "Svalbar\u00f0seyri"
-    ],
-    "name:ger_x_preferred":[
-        "Svalbar\u00f0seyri"
-    ],
-    "name:ice_x_preferred":[
         "Svalbar\u00f0seyri"
     ],
     "name:isl_x_preferred":[
@@ -88,7 +76,7 @@
         }
     ],
     "wof:id":101870527,
-    "wof:lastmodified":1544750686,
+    "wof:lastmodified":1561769501,
     "wof:name":"Svalbar\u00f0seyri",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

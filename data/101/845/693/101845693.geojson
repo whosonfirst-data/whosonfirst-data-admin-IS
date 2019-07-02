@@ -20,13 +20,7 @@
     "name:ces_x_preferred":[
         "Su\u00f0ureyri"
     ],
-    "name:cze_x_preferred":[
-        "Su\u00f0ureyri"
-    ],
     "name:deu_x_preferred":[
-        "Su\u00f0ureyri"
-    ],
-    "name:dut_x_preferred":[
         "Su\u00f0ureyri"
     ],
     "name:eng_x_preferred":[
@@ -36,15 +30,6 @@
         "Su\u00f0ureyri"
     ],
     "name:fra_x_preferred":[
-        "Su\u00f0ureyri"
-    ],
-    "name:fre_x_preferred":[
-        "Su\u00f0ureyri"
-    ],
-    "name:ger_x_preferred":[
-        "Su\u00f0ureyri"
-    ],
-    "name:ice_x_preferred":[
         "Su\u00f0ureyri"
     ],
     "name:isl_x_preferred":[
@@ -114,7 +99,7 @@
         }
     ],
     "wof:id":101845693,
-    "wof:lastmodified":1553815541,
+    "wof:lastmodified":1561769497,
     "wof:name":"Su\u00f0ureyri",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

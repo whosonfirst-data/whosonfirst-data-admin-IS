@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001781,
-    "geom:area_square_m":9066810.586081,
+    "geom:area_square_m":9066810.586076,
     "geom:bbox":"-18.1505385,65.651543,-18.073612,65.7013495",
     "geom:latitude":65.682549,
     "geom:longitude":-18.108389,
@@ -21,20 +21,11 @@
     "name:afr_x_preferred":[
         "Akureyri"
     ],
-    "name:alb_x_preferred":[
-        "Akureyri"
-    ],
     "name:ara_x_preferred":[
         "\u0623\u0643\u0648\u0631\u064a\u0631\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0584\u0578\u0582\u0580\u0565\u0575\u0580\u056b"
-    ],
     "name:aze_x_preferred":[
         "Ak\u00fcreyri"
-    ],
-    "name:baq_x_preferred":[
-        "Akureyri"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043a\u0443\u0440\u044d\u0439\u0440\u044b"
@@ -50,25 +41,16 @@
     "name:ces_x_preferred":[
         "Akureyri"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u514b\u96f7\u91cc"
-    ],
     "name:csb_x_preferred":[
         "Akureyri"
     ],
     "name:cym_x_preferred":[
         "Akureyri"
     ],
-    "name:cze_x_preferred":[
-        "Akureyri"
-    ],
     "name:dan_x_preferred":[
         "Akureyri"
     ],
     "name:deu_x_preferred":[
-        "Akureyri"
-    ],
-    "name:dut_x_preferred":[
         "Akureyri"
     ],
     "name:ell_x_preferred":[
@@ -101,15 +83,6 @@
     "name:fra_x_preferred":[
         "Akureyri"
     ],
-    "name:fre_x_preferred":[
-        "Akureyri"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d9\u10e3\u10e0\u10d4\u10d8\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Akureyri"
-    ],
     "name:gle_x_preferred":[
         "Akureyri"
     ],
@@ -118,9 +91,6 @@
     ],
     "name:glv_x_preferred":[
         "Akureyri"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03ba\u03bf\u03c5\u03c1\u03b5\u03cb\u03c1\u03b9"
     ],
     "name:hbs_x_preferred":[
         "Akureyri"
@@ -136,9 +106,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u0584\u0578\u0582\u0580\u0565\u0575\u0580\u056b"
-    ],
-    "name:ice_x_preferred":[
-        "Akureyri"
     ],
     "name:ido_x_preferred":[
         "Akureyri"
@@ -182,12 +149,6 @@
     "name:lit_x_preferred":[
         "Akureiris"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043a\u0438\u0440\u0435\u0458\u0440\u0438"
-    ],
-    "name:may_x_preferred":[
-        "Akureyri"
-    ],
     "name:mkd_x_preferred":[
         "\u0410\u043a\u0438\u0440\u0435\u0458\u0440\u0438"
     ],
@@ -218,9 +179,6 @@
     "name:oss_x_preferred":[
         "\u0410\u043a\u044e\u0440\u0435\u0439\u0440\u0438"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u06a9\u0648\u0631\u06cc\u0631\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Akureyri"
     ],
@@ -228,9 +186,6 @@
         "Akureyri"
     ],
     "name:ron_x_preferred":[
-        "Akureyri"
-    ],
-    "name:rum_x_preferred":[
         "Akureyri"
     ],
     "name:rup_x_preferred":[
@@ -246,9 +201,6 @@
         "Akureyri"
     ],
     "name:slk_x_preferred":[
-        "Akureyri"
-    ],
-    "name:slo_x_preferred":[
         "Akureyri"
     ],
     "name:slv_x_preferred":[
@@ -291,9 +243,6 @@
         "Ak\u00fcreiri"
     ],
     "name:vol_x_preferred":[
-        "Akureyri"
-    ],
-    "name:wel_x_preferred":[
         "Akureyri"
     ],
     "name:xmf_x_preferred":[
@@ -448,7 +397,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714362,
+    "wof:lastmodified":1561769501,
     "wof:name":"Akureyri",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

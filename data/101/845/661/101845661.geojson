@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000265,
-    "geom:area_square_m":1351075.714335,
+    "geom:area_square_m":1351075.714336,
     "geom:bbox":"-16.9279112107,65.6389479451,-16.8886008815,65.6610449777",
     "geom:latitude":65.647232,
     "geom:longitude":-16.907941,
@@ -23,19 +23,10 @@
     "name:ces_x_preferred":[
         "Reykjahl\u00ed\u00f0"
     ],
-    "name:chi_x_preferred":[
-        "\u96f7\u6070\u5229\u8332"
-    ],
-    "name:cze_x_preferred":[
-        "Reykjahl\u00ed\u00f0"
-    ],
     "name:dan_x_preferred":[
         "Reykjahl\u00ed\u00f0"
     ],
     "name:deu_x_preferred":[
-        "Reykjahl\u00ed\u00f0"
-    ],
-    "name:dut_x_preferred":[
         "Reykjahl\u00ed\u00f0"
     ],
     "name:eng_x_preferred":[
@@ -47,15 +38,6 @@
         "M\u00fdvatn"
     ],
     "name:fra_x_preferred":[
-        "Reykjahl\u00ed\u00f0"
-    ],
-    "name:fre_x_preferred":[
-        "Reykjahl\u00ed\u00f0"
-    ],
-    "name:ger_x_preferred":[
-        "Reykjahl\u00ed\u00f0"
-    ],
-    "name:ice_x_preferred":[
         "Reykjahl\u00ed\u00f0"
     ],
     "name:isl_x_preferred":[
@@ -91,6 +73,9 @@
     ],
     "name:vol_x_preferred":[
         "Reykjahl\u00ed\u00f0"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u6070\u5229\u8332"
     ],
     "qs:a0":"\u00cdsland",
     "qs:a1":"*",
@@ -138,7 +123,7 @@
         }
     ],
     "wof:id":101845661,
-    "wof:lastmodified":1527642313,
+    "wof:lastmodified":1561769498,
     "wof:name":"Reykjahl\u00ed\u00f0",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

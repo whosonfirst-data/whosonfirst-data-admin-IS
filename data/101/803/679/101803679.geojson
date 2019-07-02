@@ -20,10 +20,10 @@
     "name:ara_x_preferred":[
         "\u062b\u0646\u063a\u064a\u0631\u064a"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u00deingeyri"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u00deingeyri"
     ],
     "name:eng_x_preferred":[
@@ -32,13 +32,7 @@
     "name:eng_x_variant":[
         "Thingeyri"
     ],
-    "name:fre_x_preferred":[
-        "\u00deingeyri"
-    ],
-    "name:ger_x_preferred":[
-        "\u00deingeyri"
-    ],
-    "name:ice_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00deingeyri"
     ],
     "name:isl_x_preferred":[
@@ -49,6 +43,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30f3\u30af\u30a8\u30a4\u30ea"
+    ],
+    "name:nld_x_preferred":[
+        "\u00deingeyri"
     ],
     "name:pol_x_preferred":[
         "\u00deingeyri"
@@ -104,7 +101,7 @@
         }
     ],
     "wof:id":101803679,
-    "wof:lastmodified":1527642768,
+    "wof:lastmodified":1561769500,
     "wof:name":"\u00deingeyri",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

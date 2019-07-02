@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0001,
-    "geom:area_square_m":546562.507241,
+    "geom:area_square_m":546562.507242,
     "geom:bbox":"-21.0759974285,63.8312072622,-21.044567045,63.8408394714",
     "geom:latitude":63.836413,
     "geom:longitude":-21.061396,
@@ -17,22 +17,10 @@
     "mps:longitude":-21.062944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Stokkseyri"
-    ],
     "name:bul_x_preferred":[
         "\u0421\u0442\u043e\u043a\u0441\u0435\u0439\u0440\u0438"
     ],
     "name:ces_x_preferred":[
-        "Stokkseyri"
-    ],
-    "name:chi_x_preferred":[
-        "\u65af\u6258\u514b\u585e\u91cc"
-    ],
-    "name:cze_x_preferred":[
-        "Stokkseyri"
-    ],
-    "name:dut_x_preferred":[
         "Stokkseyri"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +30,6 @@
         "Stokkseyri"
     ],
     "name:fra_x_preferred":[
-        "Stokkseyri"
-    ],
-    "name:fre_x_preferred":[
-        "Stokkseyri"
-    ],
-    "name:ice_x_preferred":[
         "Stokkseyri"
     ],
     "name:isl_x_preferred":[
@@ -122,7 +104,7 @@
         }
     ],
     "wof:id":101803623,
-    "wof:lastmodified":1527642768,
+    "wof:lastmodified":1561769500,
     "wof:name":"Stokkseyri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

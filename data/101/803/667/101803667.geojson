@@ -17,9 +17,6 @@
     "mps:longitude":-18.907635,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Siglufj\u00f6r\u00f0ur"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0456\u0433\u043b\u0443\u0444\u0456\u0451\u0440\u0434\u0443\u0440"
     ],
@@ -29,16 +26,7 @@
     "name:ces_x_preferred":[
         "Siglufj\u00f6r\u00f0ur"
     ],
-    "name:chi_x_preferred":[
-        "\u932b\u683c\u5442\u83f2\u5384\u6fa4"
-    ],
-    "name:cze_x_preferred":[
-        "Siglufj\u00f6r\u00f0ur"
-    ],
     "name:deu_x_preferred":[
-        "Siglufj\u00f6r\u00f0ur"
-    ],
-    "name:dut_x_preferred":[
         "Siglufj\u00f6r\u00f0ur"
     ],
     "name:eng_x_preferred":[
@@ -51,18 +39,6 @@
         "Siglufj\u00f6r\u00f0ur"
     ],
     "name:fra_x_preferred":[
-        "Siglufj\u00f6r\u00f0ur"
-    ],
-    "name:fre_x_preferred":[
-        "Siglufj\u00f6r\u00f0ur"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10d2\u10da\u10e3\u10e4\u10d8\u10dd\u10e0\u10d3\u10e3\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Siglufj\u00f6r\u00f0ur"
-    ],
-    "name:ice_x_preferred":[
         "Siglufj\u00f6r\u00f0ur"
     ],
     "name:isl_x_preferred":[
@@ -85,11 +61,11 @@
     "name:lit_x_preferred":[
         "Siglufjorduras"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0438\u0433\u043b\u0438\u0444\u0458\u0435\u0440\u0434\u0438\u0440"
-    ],
     "name:mkd_x_preferred":[
         "\u0421\u0438\u0433\u043b\u0438\u0444\u0458\u0435\u0440\u0434\u0438\u0440"
+    ],
+    "name:nld_x_preferred":[
+        "Siglufj\u00f6r\u00f0ur"
     ],
     "name:nno_x_preferred":[
         "Siglufj\u00f6r\u00f0ur"
@@ -164,7 +140,7 @@
         }
     ],
     "wof:id":101803667,
-    "wof:lastmodified":1527642763,
+    "wof:lastmodified":1561769499,
     "wof:name":"Siglufj\u00f6r\u00f0ur",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000103,
-    "geom:area_square_m":506611.347157,
+    "geom:area_square_m":506611.347156,
     "geom:bbox":"-15.957053826,66.4448076786,-15.9375412747,66.459893821",
     "geom:latitude":66.453197,
     "geom:longitude":-15.947919,
@@ -23,13 +23,7 @@
     "name:ces_x_preferred":[
         "Raufarh\u00f6fn"
     ],
-    "name:cze_x_preferred":[
-        "Raufarh\u00f6fn"
-    ],
     "name:deu_x_preferred":[
-        "Raufarh\u00f6fn"
-    ],
-    "name:dut_x_preferred":[
         "Raufarh\u00f6fn"
     ],
     "name:eng_x_preferred":[
@@ -38,23 +32,11 @@
     "name:fra_x_preferred":[
         "Raufarh\u00f6fn"
     ],
-    "name:fre_x_preferred":[
-        "Raufarh\u00f6fn"
-    ],
-    "name:ger_x_preferred":[
-        "Raufarh\u00f6fn"
-    ],
-    "name:ice_x_preferred":[
-        "Raufarh\u00f6fn"
-    ],
     "name:isl_x_preferred":[
         "Raufarh\u00f6fn"
     ],
     "name:isl_x_variant":[
         "Raufarhafnar"
-    ],
-    "name:mac_x_preferred":[
-        "\u0420\u0435\u0458\u0432\u0430\u0440\u0445\u0435\u0431\u043d"
     ],
     "name:mkd_x_preferred":[
         "\u0420\u0435\u0458\u0432\u0430\u0440\u0445\u0435\u0431\u043d"
@@ -121,7 +103,7 @@
         }
     ],
     "wof:id":101803665,
-    "wof:lastmodified":1553815513,
+    "wof:lastmodified":1561769500,
     "wof:name":"Raufarh\u00f6fn",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

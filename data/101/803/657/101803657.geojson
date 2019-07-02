@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000063,
-    "geom:area_square_m":327878.428601,
+    "geom:area_square_m":327878.4286,
     "geom:bbox":"-23.8934153942,64.9139500365,-23.8745717189,64.9204444396",
     "geom:latitude":64.917039,
     "geom:longitude":-23.883224,
@@ -23,31 +23,13 @@
     "name:ces_x_preferred":[
         "Hellissandur"
     ],
-    "name:chi_x_preferred":[
-        "\u6d77\u5fb7\u5229\u6851\u5fb7"
-    ],
-    "name:cze_x_preferred":[
-        "Hellissandur"
-    ],
     "name:deu_x_preferred":[
-        "Hellissandur"
-    ],
-    "name:dut_x_preferred":[
         "Hellissandur"
     ],
     "name:eng_x_preferred":[
         "Hellissandur"
     ],
     "name:fra_x_preferred":[
-        "Hellissandur"
-    ],
-    "name:fre_x_preferred":[
-        "Hellissandur"
-    ],
-    "name:ger_x_preferred":[
-        "Hellissandur"
-    ],
-    "name:ice_x_preferred":[
         "Hellissandur"
     ],
     "name:isl_x_preferred":[
@@ -69,9 +51,6 @@
         "Hellissandur"
     ],
     "name:slk_x_preferred":[
-        "Hellissandur"
-    ],
-    "name:slo_x_preferred":[
         "Hellissandur"
     ],
     "name:spa_x_preferred":[
@@ -133,7 +112,7 @@
         }
     ],
     "wof:id":101803657,
-    "wof:lastmodified":1527642764,
+    "wof:lastmodified":1561769499,
     "wof:name":"Hellissandur",
     "wof:parent_id":85672529,
     "wof:placetype":"locality",
