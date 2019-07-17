@@ -12,6 +12,21 @@
     "iso:country":"IS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Fagurh\u00f3lsm\u00fdri Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Fagurh\u00f3lsm\u00fdri Airport"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Fagurh\u00f3lsm\u00fdri"
+    ],
+    "name:swe_x_preferred":[
+        "Fagurh\u00f3lsm\u00fdri flygplats"
+    ],
+    "name:zho_x_preferred":[
+        "Fagurh\u00f3lsm\u00fdri\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"56",
     "oa:type":"small_airport",
     "src:geom":"wikidata",
@@ -44,7 +59,7 @@
         }
     ],
     "wof:id":102553131,
-    "wof:lastmodified":1543846097,
+    "wof:lastmodified":1563364048,
     "wof:name":"Fagurholsmyri Airport",
     "wof:parent_id":85672501,
     "wof:placetype":"campus",

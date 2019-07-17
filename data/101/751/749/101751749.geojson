@@ -17,11 +17,17 @@
     "mps:longitude":-21.694096,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0633\u0641\u0644\u0633\u0628\u064a\u0631"
+    ],
     "name:bel_x_variant":[
         "\u041c\u043e\u0441\u0444\u044d\u043b\u044c\u0441\u0431\u0430\u0439\u0440"
     ],
     "name:cat_x_preferred":[
         "Mosfellsb\u00e6r"
+    ],
+    "name:ceb_x_preferred":[
+        "Mosfellsbaer"
     ],
     "name:ces_x_preferred":[
         "Mosfellsb\u00e6r"
@@ -40,6 +46,9 @@
     ],
     "name:eng_x_preferred":[
         "Mosfellsbaer"
+    ],
+    "name:eng_x_variant":[
+        "Mosfellsb\u00e6r"
     ],
     "name:eus_x_preferred":[
         "Mosfellsb\u00e6r"
@@ -89,6 +98,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041c\u043e\u0441\u0444\u0435\u0434\u043b\u0441\u0431\u0430\u0458\u0440"
+    ],
+    "name:mkd_x_variant":[
+        "\u041c\u043e\u0441\u0444\u0435\u0434\u043b\u0441\u043f\u0430\u0458\u0440"
     ],
     "name:msa_x_preferred":[
         "Mosfellsb\u00e6r"
@@ -181,7 +193,7 @@
         }
     ],
     "wof:id":101751749,
-    "wof:lastmodified":1561769500,
+    "wof:lastmodified":1563364110,
     "wof:name":"Mosfellsb\u00e6r",
     "wof:parent_id":85672493,
     "wof:placetype":"locality",

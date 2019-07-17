@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Bildudalur"
     ],
+    "name:eng_x_variant":[
+        "B\u00edldudalur"
+    ],
     "name:fra_x_preferred":[
         "B\u00edldudalur"
     ],
@@ -43,6 +46,9 @@
         "B\u00edldudalur"
     ],
     "name:spa_x_preferred":[
+        "B\u00edldudalur"
+    ],
+    "name:swe_x_preferred":[
         "B\u00edldudalur"
     ],
     "name:zho_x_preferred":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":101870547,
-    "wof:lastmodified":1561769501,
+    "wof:lastmodified":1563364118,
     "wof:name":"B\u00edldudalur",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

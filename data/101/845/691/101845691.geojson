@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0424\u043b\u0430\u0442\u0435\u0439\u0440\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Flateyri"
+    ],
     "name:ces_x_preferred":[
         "Flateyri"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101845691,
-    "wof:lastmodified":1561769498,
+    "wof:lastmodified":1563364082,
     "wof:name":"Flateyri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -44,6 +44,9 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30a1\u30a6\u30b9\u30af\u30eb\u30fc\u30ba\u30b9\u30d5\u30a3\u30e8\u30eb\u30ba\u30eb"
     ],
+    "name:lit_x_preferred":[
+        "Fauskrudsfjorduras"
+    ],
     "name:nld_x_preferred":[
         "F\u00e1skr\u00fa\u00f0sfj\u00f6r\u00f0ur"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101845639,
-    "wof:lastmodified":1561769498,
+    "wof:lastmodified":1563364082,
     "wof:name":"F\u00e1skr\u00fa\u00f0sfj\u00f6r\u00f0ur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

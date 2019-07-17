@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Varmahl\u00ed\u00f0"
+    ],
     "name:deu_x_preferred":[
         "Varmahl\u00ed\u00f0"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125815907,
-    "wof:lastmodified":1561769503,
+    "wof:lastmodified":1563364128,
     "wof:name":"Varmahlid",
     "wof:parent_id":85672507,
     "wof:placetype":"locality",

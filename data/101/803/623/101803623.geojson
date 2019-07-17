@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u043e\u043a\u0441\u0435\u0439\u0440\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Stokkseyri"
+    ],
     "name:ces_x_preferred":[
         "Stokkseyri"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u043e\u043a\u0441\u0435\u0439\u0440\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0442\u043e\u043a\u043a\u0441\u0435\u0439\u0440\u0438"
     ],
     "name:spa_x_preferred":[
         "Stokkseyri"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":101803623,
-    "wof:lastmodified":1561769500,
+    "wof:lastmodified":1563364097,
     "wof:name":"Stokkseyri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

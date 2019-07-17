@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0641\u0646"
     ],
+    "name:ast_x_preferred":[
+        "H\u00f6fn"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0451\u0431\u043d"
     ],
@@ -30,7 +33,13 @@
     "name:cat_x_preferred":[
         "H\u00f6fn"
     ],
+    "name:ceb_x_preferred":[
+        "H\u00f6fn"
+    ],
     "name:ces_x_preferred":[
+        "H\u00f6fn"
+    ],
+    "name:cym_x_preferred":[
         "H\u00f6fn"
     ],
     "name:deu_x_preferred":[
@@ -39,11 +48,17 @@
     "name:eng_x_preferred":[
         "Hofn"
     ],
+    "name:eng_x_variant":[
+        "H\u00f6fn"
+    ],
     "name:epo_x_preferred":[
         "H\u00f6fn \u00ed Hornafir\u00f0i"
     ],
     "name:eus_x_preferred":[
         "H\u00f6fn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u067e\u0646"
     ],
     "name:fin_x_preferred":[
         "H\u00f6fn"
@@ -56,6 +71,9 @@
     ],
     "name:hun_x_preferred":[
         "H\u00f6fn"
+    ],
+    "name:ind_x_preferred":[
+        "Hornafj\u00f6r\u00f0ur"
     ],
     "name:isl_x_preferred":[
         "H\u00f6fn"
@@ -85,6 +103,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0425\u0435\u0431\u043d"
+    ],
+    "name:mkd_x_variant":[
+        "\u0425\u0435\u043f\u043d"
     ],
     "name:nan_x_preferred":[
         "Sveitarf\u00e9lagi\u00f0 Hornafj\u00f6r\u00f0ur"
@@ -260,7 +281,7 @@
         }
     ],
     "wof:id":101803621,
-    "wof:lastmodified":1561769499,
+    "wof:lastmodified":1563364087,
     "wof:name":"H\u00f6fn",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

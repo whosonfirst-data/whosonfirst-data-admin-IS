@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Reykjahl\u00ed\u00f0"
     ],
+    "name:ceb_x_preferred":[
+        "Reykjahl\u00ed\u00f0"
+    ],
     "name:ces_x_preferred":[
         "Reykjahl\u00ed\u00f0"
     ],
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101845661,
-    "wof:lastmodified":1561769498,
+    "wof:lastmodified":1563364077,
     "wof:name":"Reykjahl\u00ed\u00f0",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

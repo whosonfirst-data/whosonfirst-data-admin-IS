@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u063a\u0627\u0631\u0646\u064a\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Borgarnes"
+    ],
     "name:aze_x_preferred":[
         "Borqarnes"
     ],
@@ -36,7 +39,13 @@
     "name:cat_x_preferred":[
         "Borgarnes"
     ],
+    "name:ceb_x_preferred":[
+        "Borgarnes"
+    ],
     "name:ces_x_preferred":[
+        "Borgarnes"
+    ],
+    "name:cym_x_preferred":[
         "Borgarnes"
     ],
     "name:dan_x_preferred":[
@@ -56,6 +65,9 @@
     ],
     "name:eus_x_preferred":[
         "Borgarnes"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u06a9\u0627\u0631\u0646\u0633"
     ],
     "name:fra_x_preferred":[
         "Borgarnes"
@@ -99,6 +111,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0411\u043e\u0440\u0433\u0430\u0440\u043d\u0435\u0441"
+    ],
+    "name:mkd_x_variant":[
+        "\u041f\u043e\u0440\u0433\u0430\u0440\u043d\u0435\u0441"
     ],
     "name:msa_x_preferred":[
         "Borgarbygg\u00f0"
@@ -144,6 +159,9 @@
     ],
     "name:zho_x_preferred":[
         "\u535a\u5c14\u52a0\u5185\u65af"
+    ],
+    "name:zho_x_variant":[
+        "\u535a\u5c14\u560e\u5185\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Iceland",
@@ -279,7 +297,7 @@
         }
     ],
     "wof:id":101803649,
-    "wof:lastmodified":1561769499,
+    "wof:lastmodified":1563364096,
     "wof:name":"Borgarnes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

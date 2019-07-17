@@ -17,6 +17,12 @@
     "mps:longitude":-22.062703,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0643\u0631\u0627\u0646\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Akranes"
+    ],
     "name:bel_x_variant":[
         "\u0410\u043a\u0440\u0430\u043d\u044d\u0441"
     ],
@@ -24,6 +30,9 @@
         "\u0410\u043a\u0440\u0430\u043d\u0435\u0441"
     ],
     "name:cat_x_preferred":[
+        "Akranes"
+    ],
+    "name:ceb_x_preferred":[
         "Akranes"
     ],
     "name:ces_x_preferred":[
@@ -262,7 +271,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561769500,
+    "wof:lastmodified":1563364105,
     "wof:name":"Akranes",
     "wof:parent_id":85672529,
     "wof:placetype":"locality",

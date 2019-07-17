@@ -20,6 +20,9 @@
     "name:ces_x_preferred":[
         "Grundarfj\u00f6r\u00f0ur"
     ],
+    "name:cym_x_preferred":[
+        "Grundarfjar\u00f0arb\u00e6r"
+    ],
     "name:dan_x_preferred":[
         "Grundarfj\u00f6r\u00f0ur"
     ],
@@ -29,6 +32,9 @@
     "name:eng_x_preferred":[
         "Grundarfjordur"
     ],
+    "name:eng_x_variant":[
+        "Grundarfj\u00f6r\u00f0ur"
+    ],
     "name:est_x_preferred":[
         "Grundarfj\u00f6r\u00f0ur"
     ],
@@ -37,6 +43,12 @@
     ],
     "name:fra_x_preferred":[
         "Grundarfj\u00f6r\u00f0ur"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e8\u05d5\u05e0\u05d3\u05e8\u05e4\u05d9\u05d5\u05e8\u05d3\u05d5\u05e8"
+    ],
+    "name:ind_x_preferred":[
+        "Grundarfjar\u00f0arb\u00e6r"
     ],
     "name:isl_x_preferred":[
         "Grundarfj\u00f6r\u00f0ur"
@@ -63,8 +75,14 @@
     "name:pol_x_preferred":[
         "Grundarfj\u00f6r\u00f0ur"
     ],
+    "name:ron_x_preferred":[
+        "Grundarfj\u00f6r\u00f0ur"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0443\u043d\u0434\u0430\u0440\u0444\u044c\u043e\u0440\u0434\u044e\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0440\u044e\u043d\u0434\u0430\u0440\u0444\u044c\u0451\u0440\u0434\u044e\u0440"
     ],
     "name:spa_x_preferred":[
         "Grundarfj\u00f6r\u00f0ur"
@@ -127,7 +145,7 @@
         }
     ],
     "wof:id":101803687,
-    "wof:lastmodified":1561769499,
+    "wof:lastmodified":1563364089,
     "wof:name":"Grundarfj\u00f6r\u00f0ur",
     "wof:parent_id":85672529,
     "wof:placetype":"locality",

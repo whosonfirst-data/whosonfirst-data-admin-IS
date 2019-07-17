@@ -17,11 +17,17 @@
     "mps:longitude":-18.178308,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gr\u00fdtubakkahreppur"
+    ],
     "name:deu_x_preferred":[
         "Gr\u00fdtubakki"
     ],
     "name:eng_x_preferred":[
         "Grenvik"
+    ],
+    "name:eng_x_variant":[
+        "Gr\u00fdtubakkahreppur"
     ],
     "name:epo_x_preferred":[
         "Gr\u00fdtubakkahreppur"
@@ -30,6 +36,9 @@
         "Gr\u00fdtubakkahreppur"
     ],
     "name:fra_x_preferred":[
+        "Gr\u00fdtubakkahreppur"
+    ],
+    "name:ind_x_preferred":[
         "Gr\u00fdtubakkahreppur"
     ],
     "name:isl_x_preferred":[
@@ -42,6 +51,12 @@
     "name:ita_x_preferred":[
         "Gr\u00fdtubakki"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30ea\u30fc\u30c8\u30a5\u30d0\u30c3\u30ab\u30d5\u30ec\u30c3\u30d7\u30eb"
+    ],
+    "name:lit_x_preferred":[
+        "Grenivikas"
+    ],
     "name:nan_x_preferred":[
         "Gr\u00fdtubakkahreppur"
     ],
@@ -52,6 +67,9 @@
         "Gr\u00fdtubakkahreppur"
     ],
     "name:nor_x_preferred":[
+        "Gr\u00fdtubakkahreppur"
+    ],
+    "name:pol_x_preferred":[
         "Gr\u00fdtubakkahreppur"
     ],
     "name:sme_x_preferred":[
@@ -108,7 +126,7 @@
         }
     ],
     "wof:id":101845679,
-    "wof:lastmodified":1561769498,
+    "wof:lastmodified":1563364080,
     "wof:name":"Greniv\u00edk",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

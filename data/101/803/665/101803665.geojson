@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0420\u044c\u043e\u0439\u0432\u0430\u0440\u0445\u044c\u043e\u043f\u044a\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Raufarh\u00f6fn"
+    ],
     "name:ces_x_preferred":[
         "Raufarh\u00f6fn"
     ],
@@ -29,6 +32,9 @@
     "name:eng_x_preferred":[
         "Raufarhofn"
     ],
+    "name:eng_x_variant":[
+        "Raufarh\u00f6fn"
+    ],
     "name:fra_x_preferred":[
         "Raufarh\u00f6fn"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:isl_x_variant":[
         "Raufarhafnar"
+    ],
+    "name:ita_x_preferred":[
+        "Raufarh\u00f6fn"
     ],
     "name:mkd_x_preferred":[
         "\u0420\u0435\u0458\u0432\u0430\u0440\u0445\u0435\u0431\u043d"
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":101803665,
-    "wof:lastmodified":1561769500,
+    "wof:lastmodified":1563364103,
     "wof:name":"Raufarh\u00f6fn",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

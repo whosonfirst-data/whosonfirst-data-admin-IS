@@ -70,6 +70,9 @@
     "name:kor_x_preferred":[
         "\ube44\ud06c\uc774\ubb88\ub974\ub2ec"
     ],
+    "name:kor_x_variant":[
+        "\ube44\ud06c"
+    ],
     "name:lit_x_preferred":[
         "Vikas"
     ],
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101845631,
-    "wof:lastmodified":1561769498,
+    "wof:lastmodified":1563364084,
     "wof:name":"V\u00edk",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

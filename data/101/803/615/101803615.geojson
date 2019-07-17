@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u064a\u0633\u062a\u0645\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Islles Vestman"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0435\u0441\u0442\u043c\u0430\u043d\u0430\u044d\u044f\u0440"
+    ],
     "name:bel_x_variant":[
         "\u0412\u044d\u0441\u0442\u043c\u0430\u043d\u0430\u044d\u044f\u0440"
     ],
@@ -32,13 +38,25 @@
     "name:cat_x_preferred":[
         "Vestmannaeyjar"
     ],
+    "name:ceb_x_preferred":[
+        "Vestmannaeyjar"
+    ],
     "name:ces_x_preferred":[
+        "Vestmannaeyjar"
+    ],
+    "name:cym_x_preferred":[
         "Vestmannaeyjar"
     ],
     "name:dan_x_preferred":[
         "Vestmannaeyjar"
     ],
     "name:deu_x_preferred":[
+        "Vestmannaeyjar"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03ad\u03c3\u03c4\u03bc\u03b1\u03bd\u03b1\u03b5\u03b3\u03b9\u03b1\u03c1"
+    ],
+    "name:eng_x_preferred":[
         "Vestmannaeyjar"
     ],
     "name:epo_x_preferred":[
@@ -52,6 +70,9 @@
     ],
     "name:fao_x_preferred":[
         "Vestmannaoyggjarnar"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u0627\u06cc\u0631 \u0648\u0633\u062a\u0645\u0646"
     ],
     "name:fin_x_preferred":[
         "Vestmannasaaret"
@@ -70,6 +91,9 @@
     ],
     "name:hun_x_preferred":[
         "Vestmannaeyjar"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u057d\u057f\u0574\u0561\u0576\u0576\u0561\u0565\u056b\u0575\u0561\u0580"
     ],
     "name:ido_x_preferred":[
         "Vestmannaeyjar"
@@ -101,13 +125,22 @@
     "name:mkd_x_preferred":[
         "\u0412\u0435\u0441\u0442\u043c\u0430\u043d\u0435\u0458\u0430\u0440"
     ],
+    "name:mkd_x_variant":[
+        "\u0412\u0435\u0441\u0442\u043c\u0430\u043d\u0430\u0435\u0458\u0430\u0440"
+    ],
     "name:msa_x_preferred":[
         "Vestmannaeyjar"
+    ],
+    "name:nan_x_preferred":[
+        "Vestmannaeyjab\u00e6r"
     ],
     "name:nld_x_preferred":[
         "Vestmannaeyjar"
     ],
     "name:nno_x_preferred":[
+        "Vestmannaeyjar"
+    ],
+    "name:nob_x_preferred":[
         "Vestmannaeyjar"
     ],
     "name:nor_x_preferred":[
@@ -131,8 +164,14 @@
     "name:rus_x_preferred":[
         "\u0412\u0435\u0441\u0442\u043c\u0430\u043d\u043d\u0430\u044d\u0439\u044f\u0440"
     ],
+    "name:sco_x_preferred":[
+        "Vestmannaeyjar"
+    ],
     "name:slv_x_preferred":[
         "Vestmanski otoki"
+    ],
+    "name:sme_x_preferred":[
+        "Vestmannaeyjab\u00e6r"
     ],
     "name:spa_x_preferred":[
         "Islas Vestman"
@@ -142,6 +181,9 @@
     ],
     "name:swe_x_preferred":[
         "V\u00e4stmanna\u00f6arna"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e27\u0e2a\u0e21\u0e32\u0e23\u0e4c\u0e19\u0e32\u0e22\u0e32\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Vestmann Adalar\u0131"
@@ -222,7 +264,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642768,
+    "wof:lastmodified":1563364098,
     "wof:name":"Vestmannaeyjar",
     "wof:parent_id":85672519,
     "wof:placetype":"locality",

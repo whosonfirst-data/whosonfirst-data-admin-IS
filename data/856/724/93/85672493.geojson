@@ -40,8 +40,14 @@
     "name:cat_x_preferred":[
         "Gran Reykjavik"
     ],
+    "name:ceb_x_preferred":[
+        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i"
+    ],
     "name:ces_x_preferred":[
         "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
+    ],
+    "name:cym_x_preferred":[
+        "Reykjav\u00edk Fawr"
     ],
     "name:dan_x_preferred":[
         "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
@@ -57,6 +63,9 @@
     ],
     "name:epo_x_preferred":[
         "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
+    ],
+    "name:epo_x_variant":[
+        "\u0108efurba Regiono"
     ],
     "name:est_x_preferred":[
         "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i"
@@ -124,6 +133,9 @@
     "name:mar_x_preferred":[
         "\u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u0442\u043e\u043b\u043d\u0438\u043d\u0441\u043a\u0438 \u0440\u0435\u0433\u0438\u043e\u043d"
+    ],
     "name:msa_x_preferred":[
         "Capital Region"
     ],
@@ -186,6 +198,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Th\u1ee7 \u0111\u00f4"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10f0\u10d8\u10dd\u10d5\u10e3\u10d3\u10d1\u10dd\u10e0\u10d2\u10d0\u10e0\u10e1\u10d5\u10d0\u10d8\u10d3\u10d8\u10d3\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u5927\u96f7\u514b\u96c5\u672a\u514b\u533a"
@@ -293,7 +308,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1561769495,
+    "wof:lastmodified":1563364055,
     "wof:name":"Reykjav\u00edk",
     "wof:parent_id":85633249,
     "wof:placetype":"region",

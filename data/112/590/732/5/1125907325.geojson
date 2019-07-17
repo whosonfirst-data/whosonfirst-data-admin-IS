@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Seltjarnarnes"
     ],
+    "name:cym_x_preferred":[
+        "Seltjarnarnes"
+    ],
     "name:dan_x_preferred":[
         "Seltjarnarnes"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eus_x_preferred":[
         "Seltjarnarnes"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u062a\u06cc\u0627\u0631\u0646\u0627\u0631\u0646\u0633"
     ],
     "name:fin_x_preferred":[
         "Seltjarnarnes"
@@ -175,7 +181,7 @@
         }
     ],
     "wof:id":1125907325,
-    "wof:lastmodified":1561769503,
+    "wof:lastmodified":1563364131,
     "wof:name":"Seltjarnarnes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

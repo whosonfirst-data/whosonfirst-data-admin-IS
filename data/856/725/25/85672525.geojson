@@ -43,8 +43,14 @@
     "name:cat_x_preferred":[
         "Gran Reykjavik"
     ],
+    "name:ceb_x_preferred":[
+        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i"
+    ],
     "name:ces_x_preferred":[
         "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
+    ],
+    "name:cym_x_preferred":[
+        "Reykjav\u00edk Fawr"
     ],
     "name:dan_x_preferred":[
         "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
@@ -63,6 +69,9 @@
     ],
     "name:epo_x_preferred":[
         "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
+    ],
+    "name:epo_x_variant":[
+        "\u0108efurba Regiono"
     ],
     "name:est_x_preferred":[
         "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i"
@@ -112,6 +121,9 @@
     "name:ita_x_preferred":[
         "Regione della capitale"
     ],
+    "name:ita_x_variant":[
+        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
+    ],
     "name:jpn_x_preferred":[
         "\u5927\u30ec\u30a4\u30ad\u30e3\u30f4\u30a3\u30fc\u30af"
     ],
@@ -136,6 +148,9 @@
     "name:mar_x_preferred":[
         "\u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u0442\u043e\u043b\u043d\u0438\u043d\u0441\u043a\u0438 \u0440\u0435\u0433\u0438\u043e\u043d"
+    ],
     "name:msa_x_preferred":[
         "Capital Region"
     ],
@@ -154,6 +169,9 @@
     "name:por_x_preferred":[
         "Distrito da Capital"
     ],
+    "name:por_x_variant":[
+        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0451\u0432\u044e\u0434\u0431\u043e\u0440\u0433\u0430\u0440\u0441\u0432\u0430\u0439\u0434\u0438\u0434"
     ],
@@ -169,6 +187,9 @@
     "name:spa_x_preferred":[
         "Regi\u00f3n de la capital"
     ],
+    "name:spa_x_variant":[
+        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i"
+    ],
     "name:sqi_x_preferred":[
         "Rajoni i Kryeqytetit"
     ],
@@ -177,6 +198,9 @@
     ],
     "name:swe_x_preferred":[
         "Huvudstadsregion"
+    ],
+    "name:swe_x_variant":[
+        "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bc7\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bb2\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
@@ -201,6 +225,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Th\u1ee7 \u0111\u00f4"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10f0\u10d8\u10dd\u10d5\u10e3\u10d3\u10d1\u10dd\u10e0\u10d2\u10d0\u10e0\u10e1\u10d5\u10d0\u10d8\u10d3\u10d8\u10d3\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u5927\u96f7\u514b\u96c5\u672a\u514b\u533a"
@@ -320,7 +347,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1561769495,
+    "wof:lastmodified":1563364052,
     "wof:name":"H\u00f6fu\u00f0borgarsv\u00e6\u00f0i",
     "wof:parent_id":85633249,
     "wof:placetype":"region",

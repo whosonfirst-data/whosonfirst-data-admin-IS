@@ -17,10 +17,25 @@
     "mps:longitude":-13.681776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Neskaupsta\u00f0ur"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0435\u0441\u043a\u0451\u0439\u043f\u0441\u0442\u0430\u0434\u0437\u044e\u0440"
+    ],
     "name:cat_x_preferred":[
         "Neskaupsta\u00f0ur"
     ],
+    "name:ceb_x_preferred":[
+        "Neskaupsta\u00f0ur"
+    ],
     "name:ces_x_preferred":[
+        "Neskaupsta\u00f0ur"
+    ],
+    "name:cym_x_preferred":[
+        "Neskaupsta\u00f0ur"
+    ],
+    "name:dan_x_preferred":[
         "Neskaupsta\u00f0ur"
     ],
     "name:deu_x_preferred":[
@@ -28,6 +43,9 @@
     ],
     "name:eng_x_preferred":[
         "Neskaupstadur"
+    ],
+    "name:eng_x_variant":[
+        "Neskaupsta\u00f0ur"
     ],
     "name:eus_x_preferred":[
         "Neskaupsta\u00f0ur"
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":101845637,
-    "wof:lastmodified":1561769498,
+    "wof:lastmodified":1563364081,
     "wof:name":"Neskaupsta\u00f0ur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
