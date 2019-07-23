@@ -37,7 +37,13 @@
     "name:bre_x_preferred":[
         "Vesturland"
     ],
+    "name:bul_x_preferred":[
+        "\u0412\u0435\u0441\u0442\u044e\u0440\u043b\u0430\u043d\u0434"
+    ],
     "name:cat_x_preferred":[
+        "Vesturland"
+    ],
+    "name:ceb_x_preferred":[
         "Vesturland"
     ],
     "name:dan_x_preferred":[
@@ -105,6 +111,9 @@
     "name:ita_x_preferred":[
         "Ovest"
     ],
+    "name:ita_x_variant":[
+        "Vesturland"
+    ],
     "name:jpn_x_preferred":[
         "\u897f\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9"
     ],
@@ -129,6 +138,9 @@
     "name:mar_x_preferred":[
         "\u092a\u0936\u094d\u091a\u093f\u092e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
+    "name:mkd_x_preferred":[
+        "\u0417\u0430\u043f\u0430\u0434\u0435\u043d \u0440\u0435\u0433\u0438\u043e\u043d"
+    ],
     "name:msa_x_preferred":[
         "Western Region"
     ],
@@ -147,6 +159,9 @@
     "name:por_x_preferred":[
         "Oeste"
     ],
+    "name:por_x_variant":[
+        "Vesturland"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0435\u0441\u0442\u044e\u0440\u043b\u0430\u043d\u0434"
     ],
@@ -159,6 +174,9 @@
     "name:spa_x_preferred":[
         "Occidental"
     ],
+    "name:spa_x_variant":[
+        "Vesturland"
+    ],
     "name:sqi_x_preferred":[
         "Rajoni Per\u00ebndimor"
     ],
@@ -167,6 +185,9 @@
     ],
     "name:swe_x_preferred":[
         "V\u00e4stra"
+    ],
+    "name:swe_x_variant":[
+        "Vesturland"
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1    \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
@@ -312,7 +333,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1561769494,
+    "wof:lastmodified":1563364050,
     "wof:name":"Vesturland",
     "wof:parent_id":85633249,
     "wof:placetype":"region",

@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0415\u0439\u0440\u0430\u0440\u0431\u0430\u043a\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Eyrarbakki"
+    ],
     "name:ces_x_preferred":[
         "Eyrarbakki"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101845635,
-    "wof:lastmodified":1561769497,
+    "wof:lastmodified":1563364075,
     "wof:name":"Eyrarbakki",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

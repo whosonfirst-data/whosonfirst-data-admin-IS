@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Kirkjub\u00e6jarklaustur"
     ],
+    "name:ceb_x_preferred":[
+        "Kirkjub\u00e6jarklaustur"
+    ],
     "name:ces_x_preferred":[
         "Kirkjub\u00e6jarklaustur"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:eng_x_preferred":[
         "Kirkjubaejarklaustur"
+    ],
+    "name:eng_x_variant":[
+        "Kirkjub\u00e6jarklaustur"
     ],
     "name:epo_x_preferred":[
         "Kirkjub\u00e6jarklaustur"
@@ -67,6 +73,9 @@
         "Kirkjub\u00e6jarklaustur"
     ],
     "name:por_x_preferred":[
+        "Kirkjub\u00e6jarklaustur"
+    ],
+    "name:ron_x_preferred":[
         "Kirkjub\u00e6jarklaustur"
     ],
     "name:rus_x_preferred":[
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":101803627,
-    "wof:lastmodified":1561769499,
+    "wof:lastmodified":1563364089,
     "wof:name":"Kirkjub\u00e6jarklaustur",
     "wof:parent_id":85672519,
     "wof:placetype":"locality",

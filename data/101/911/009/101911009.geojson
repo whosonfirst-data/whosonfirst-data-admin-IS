@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
+    "geom:area_square_m":347688.357485,
     "geom:bbox":"-23.8331595794,65.6232003853,-23.8121234612,65.6305542607",
     "geom:latitude":65.626894,
     "geom:longitude":-23.823371,
@@ -19,6 +20,9 @@
         "T\u00e1lknafj\u00f6r\u00f0ur"
     ],
     "name:deu_x_preferred":[
+        "T\u00e1lknafj\u00f6r\u00f0ur"
+    ],
+    "name:eng_x_preferred":[
         "T\u00e1lknafj\u00f6r\u00f0ur"
     ],
     "name:fas_x_preferred":[
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101911009,
-    "wof:lastmodified":1527715545,
+    "wof:lastmodified":1563364118,
     "wof:name":"Talknafjordur",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

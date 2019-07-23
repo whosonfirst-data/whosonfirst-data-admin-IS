@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000196,
-    "geom:area_square_m":1003377.516037,
+    "geom:area_square_m":1003377.516033,
     "geom:bbox":"-24.0124190323,65.5867943874,-23.954403442,65.6028779503",
     "geom:latitude":65.594859,
     "geom:longitude":-23.98555,
@@ -22,6 +22,9 @@
     ],
     "name:eng_x_preferred":[
         "Patreksfjordur"
+    ],
+    "name:eng_x_variant":[
+        "Patreksfj\u00f6r\u00f0ur"
     ],
     "name:eus_x_preferred":[
         "Patreksfj\u00f6r\u00f0ur"
@@ -44,7 +47,13 @@
     "name:ita_x_preferred":[
         "Patreksfj\u00f6r\u00f0ur"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30c8\u30ec\u30af\u30b9\u30d5\u30a3\u30e8\u30eb\u30ba\u30eb"
+    ],
     "name:nld_x_preferred":[
+        "Patreksfj\u00f6r\u00f0ur"
+    ],
+    "name:nob_x_preferred":[
         "Patreksfj\u00f6r\u00f0ur"
     ],
     "name:pol_x_preferred":[
@@ -61,6 +70,9 @@
     ],
     "name:unk_x_variant":[
         "Vatneyri"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u7279\u96f7\u514b\u65af\u83f2\u5384\u6fa4"
     ],
     "qs:a0":"\u00cdsland",
     "qs:a1":"*",
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":101845689,
-    "wof:lastmodified":1527642311,
+    "wof:lastmodified":1563364071,
     "wof:name":"Patreksfj\u00f6r\u00f0ur",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

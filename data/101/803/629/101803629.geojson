@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000572,
-    "geom:area_square_m":3100411.712289,
+    "geom:area_square_m":3100411.71229,
     "geom:bbox":"-21.2113745876,63.9912060921,-21.171841256,64.021025876",
     "geom:latitude":64.005359,
     "geom:longitude":-21.191167,
@@ -24,6 +24,9 @@
         "\u041a\u0432\u044d\u0440\u0430\u0433\u0435\u0440\u0434\u0437\u0456"
     ],
     "name:ces_x_preferred":[
+        "Hverager\u00f0i"
+    ],
+    "name:cym_x_preferred":[
         "Hverager\u00f0i"
     ],
     "name:dan_x_preferred":[
@@ -50,6 +53,9 @@
     "name:fra_x_preferred":[
         "Hverager\u00f0i"
     ],
+    "name:ind_x_preferred":[
+        "Hverager\u00f0i"
+    ],
     "name:isl_x_preferred":[
         "Hverager\u00f0isb\u00e6r"
     ],
@@ -66,14 +72,59 @@
     "name:jpn_x_variant":[
         "\u30af\u30f4\u30a7\u30e9\u30b2\u30eb\u30b8"
     ],
+    "name:kor_x_preferred":[
+        "\ud06c\ubca0\ub77c\uac8c\ub974\ub514"
+    ],
+    "name:lat_x_preferred":[
+        "Hverager\u00f0i"
+    ],
+    "name:lit_x_preferred":[
+        "Kveragerdis"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0432\u0435\u0440\u0430\u0433\u0435\u0440\u0434\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Hverager\u00f0i"
+    ],
+    "name:nan_x_preferred":[
+        "Hverager\u00f0isb\u00e6r"
+    ],
     "name:nld_x_preferred":[
         "Hverager\u00f0i"
+    ],
+    "name:nld_x_variant":[
+        "Hverager\u00f0isb\u00e6r"
+    ],
+    "name:nob_x_preferred":[
+        "Hverager\u00f0isb\u00e6r"
     ],
     "name:pol_x_preferred":[
         "Hverager\u00f0i"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0432\u0435\u0440\u0430\u0433\u0435\u0440\u0434\u0438"
+    ],
+    "name:sme_x_preferred":[
+        "Hverager\u00f0isb\u00e6r"
+    ],
     "name:spa_x_preferred":[
         "Hverager\u00f0i"
+    ],
+    "name:sqi_x_preferred":[
+        "Hveragerdi"
+    ],
+    "name:swe_x_preferred":[
+        "Hverager\u00f0i"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0432\u0435\u0440\u0430\u0491\u0435\u0440\u0434\u0456"
+    ],
+    "name:vol_x_preferred":[
+        "Hverager\u00f0i"
+    ],
+    "name:zho_x_preferred":[
+        "\u60e0\u62c9\u84cb\u723e\u6fdf"
     ],
     "qs:a0":"\u00cdsland",
     "qs:a1":"*",
@@ -118,7 +169,7 @@
         }
     ],
     "wof:id":101803629,
-    "wof:lastmodified":1527642762,
+    "wof:lastmodified":1563364090,
     "wof:name":"Hverager\u00f0i",
     "wof:parent_id":85672519,
     "wof:placetype":"locality",

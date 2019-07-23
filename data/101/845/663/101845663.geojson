@@ -23,6 +23,9 @@
     "name:bel_x_variant":[
         "\u041e\u045e\u043b\u0430\u0444\u0441\u044c\u0432\u0456\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "\u00d3lafsv\u00edk"
+    ],
     "name:ces_x_preferred":[
         "\u00d3lafsv\u00edk"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:eng_x_preferred":[
         "Olafsvik"
+    ],
+    "name:eng_x_variant":[
+        "\u00d3lafsv\u00edk"
     ],
     "name:eus_x_preferred":[
         "\u00d3lafsv\u00edk"
@@ -138,7 +144,7 @@
         }
     ],
     "wof:id":101845663,
-    "wof:lastmodified":1561769498,
+    "wof:lastmodified":1563364081,
     "wof:name":"\u00d3lafsv\u00edk",
     "wof:parent_id":85672529,
     "wof:placetype":"locality",

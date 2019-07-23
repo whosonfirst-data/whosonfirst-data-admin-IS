@@ -27,6 +27,9 @@
     "name:ces_x_preferred":[
         "Njar\u00f0v\u00edk"
     ],
+    "name:cym_x_preferred":[
+        "Njar\u00f0v\u00edk"
+    ],
     "name:dan_x_preferred":[
         "Njar\u00f0v\u00edk"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:eng_x_preferred":[
         "Njardvik"
+    ],
+    "name:eng_x_variant":[
+        "Njar\u00f0v\u00edk"
     ],
     "name:eus_x_preferred":[
         "Njar\u00f0v\u00edk"
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":1125989311,
-    "wof:lastmodified":1561769503,
+    "wof:lastmodified":1563364134,
     "wof:name":"Njardv\u00edk",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -32,11 +32,17 @@
     "name:ces_x_preferred":[
         "\u00c1lftanes"
     ],
+    "name:cym_x_preferred":[
+        "\u00c1lftanes"
+    ],
     "name:deu_x_preferred":[
         "\u00c1lftanes"
     ],
     "name:eng_x_preferred":[
         "Alftanes"
+    ],
+    "name:eng_x_variant":[
+        "\u00c1lftanes"
     ],
     "name:epo_x_preferred":[
         "\u00c1lftanes"
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":101845651,
-    "wof:lastmodified":1561769497,
+    "wof:lastmodified":1563364073,
     "wof:name":"\u00c1lftanes",
     "wof:parent_id":85672493,
     "wof:placetype":"locality",

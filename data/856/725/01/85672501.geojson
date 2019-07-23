@@ -46,6 +46,12 @@
     "name:cat_x_preferred":[
         "Austurland"
     ],
+    "name:ceb_x_preferred":[
+        "Austurland"
+    ],
+    "name:cym_x_preferred":[
+        "Austurland"
+    ],
     "name:dan_x_preferred":[
         "Austurland"
     ],
@@ -62,6 +68,9 @@
         "East",
         "Eastland",
         "Eastern Region"
+    ],
+    "name:epo_x_preferred":[
+        "Eostolando"
     ],
     "name:est_x_preferred":[
         "Austurland"
@@ -108,6 +117,9 @@
     "name:ita_x_preferred":[
         "Est"
     ],
+    "name:ita_x_variant":[
+        "Austurland"
+    ],
     "name:jpn_x_preferred":[
         "\u6771\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9"
     ],
@@ -132,6 +144,9 @@
     "name:mar_x_preferred":[
         "\u0907\u0938\u094d\u091f\u0930\u094d\u0928 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
+    "name:mkd_x_preferred":[
+        "\u0418\u0441\u0442\u043e\u0447\u0435\u043d \u0440\u0435\u0433\u0438\u043e\u043d"
+    ],
     "name:msa_x_preferred":[
         "Eastern Region"
     ],
@@ -150,6 +165,9 @@
     "name:por_x_preferred":[
         "Leste"
     ],
+    "name:por_x_variant":[
+        "Austurland"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u0439\u0441\u0442\u044e\u0440\u043b\u0430\u043d\u0434"
     ],
@@ -162,6 +180,9 @@
     "name:spa_x_preferred":[
         "Oriental"
     ],
+    "name:spa_x_variant":[
+        "Austurland"
+    ],
     "name:sqi_x_preferred":[
         "Rajoni Lindor"
     ],
@@ -170,6 +191,9 @@
     ],
     "name:swe_x_preferred":[
         "\u00d6st"
+    ],
+    "name:swe_x_variant":[
+        "Austurland"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1   \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
@@ -315,7 +339,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1561769494,
+    "wof:lastmodified":1563364052,
     "wof:name":"Austurland",
     "wof:parent_id":85633249,
     "wof:placetype":"region",

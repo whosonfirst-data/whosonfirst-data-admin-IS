@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Bor\u00f0eyri"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u043e\u0440\u0434\u044d\u0439\u0440\u044b"
     ],
     "name:eng_x_preferred":[
         "Bordeyri"
+    ],
+    "name:eng_x_variant":[
+        "Bor\u00f0eyri"
     ],
     "name:fra_x_preferred":[
         "Bor\u00f0eyri"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1125903431,
-    "wof:lastmodified":1561769503,
+    "wof:lastmodified":1563364132,
     "wof:name":"Bordheyri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

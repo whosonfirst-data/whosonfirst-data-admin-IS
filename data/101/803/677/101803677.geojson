@@ -17,11 +17,23 @@
     "mps:longitude":-21.684225,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "H\u00f3lmav\u00edk"
+    ],
+    "name:ceb_x_preferred":[
+        "H\u00f3lmav\u00edk"
+    ],
     "name:ces_x_preferred":[
         "H\u00f3lmav\u00edk"
     ],
     "name:eng_x_preferred":[
         "Holmavik"
+    ],
+    "name:eng_x_variant":[
+        "H\u00f3lmav\u00edk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0644\u0645\u0627\u0648\u06cc\u06a9"
     ],
     "name:fin_x_preferred":[
         "H\u00f3lmav\u00edk"
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":101803677,
-    "wof:lastmodified":1561769500,
+    "wof:lastmodified":1563364100,
     "wof:name":"H\u00f3lmav\u00edk",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",
