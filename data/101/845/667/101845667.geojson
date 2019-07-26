@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0001,
-    "geom:area_square_m":526586.615497,
+    "geom:area_square_m":526586.615496,
     "geom:bbox":"-23.8320936457,64.9182775127,-23.802332975,64.9260573371",
     "geom:latitude":64.922265,
     "geom:longitude":-23.815622,
@@ -22,10 +22,10 @@
     "name:ara_x_preferred":[
         "\u062c\u0628\u0627\u0644 \u0627\u0644\u0631\u064a\u0641"
     ],
-    "name:bel_x_preferred":[
-        "\u042d\u0440-\u0420\u044b\u0444"
+    "name:ast_x_preferred":[
+        "Rif"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u042d\u0440-\u0420\u044b\u0444"
     ],
     "name:ben_x_preferred":[
@@ -39,6 +39,9 @@
     ],
     "name:cat_x_preferred":[
         "Rif"
+    ],
+    "name:ceb_x_preferred":[
+        "Er Rif"
     ],
     "name:ces_x_preferred":[
         "R\u00edf"
@@ -88,6 +91,9 @@
     "name:kab_x_preferred":[
         "Arrif"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10e0\u10d8\u10e4\u10d8"
+    ],
     "name:lad_x_preferred":[
         "Rif"
     ],
@@ -118,8 +124,14 @@
     "name:swe_x_preferred":[
         "Rifbergen"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0bbf\u0baa\u0bcd \u0bae\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bca\u0b9f\u0bb0\u0bcd"
+    ],
     "name:ukr_x_preferred":[
         "\u0415\u0440-\u0420\u0438\u0444"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0641"
     ],
     "name:zho_x_preferred":[
         "\u91cc\u592b\u5c71\u8108"
@@ -164,7 +176,7 @@
         }
     ],
     "wof:id":101845667,
-    "wof:lastmodified":1527642313,
+    "wof:lastmodified":1564124937,
     "wof:name":"Rif",
     "wof:parent_id":85672529,
     "wof:placetype":"locality",

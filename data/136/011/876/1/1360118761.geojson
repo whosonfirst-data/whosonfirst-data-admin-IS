@@ -26,10 +26,52 @@
     "iso:country":"IS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u00c1rneshreppur"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0443\u0440\u043d\u0435\u0441\u0445\u0440\u0435\u043f\u043f\u044e\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "\u00c1rnes"
+    ],
     "name:eng_x_preferred":[
         "\u00c1rneshreppur"
     ],
+    "name:eus_x_preferred":[
+        "\u00c1rneshreppur"
+    ],
+    "name:fin_x_preferred":[
+        "\u00c1rnes"
+    ],
+    "name:fra_x_preferred":[
+        "\u00c1rnes"
+    ],
     "name:isl_x_preferred":[
+        "\u00c1rneshreppur"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c1rnes"
+    ],
+    "name:nld_x_preferred":[
+        "\u00c1rneshreppur"
+    ],
+    "name:nor_x_preferred":[
+        "\u00c1rneshreppur"
+    ],
+    "name:pol_x_preferred":[
+        "\u00c1rneshreppur"
+    ],
+    "name:sme_x_preferred":[
+        "\u00c1rneshreppur"
+    ],
+    "name:spa_x_preferred":[
+        "\u00c1rneshreppur"
+    ],
+    "name:sqi_x_preferred":[
+        "\u00c1rneshreppur"
+    ],
+    "name:swe_x_preferred":[
         "\u00c1rneshreppur"
     ],
     "name:und_x_variant":[
@@ -57,7 +99,7 @@
         }
     ],
     "wof:id":1360118761,
-    "wof:lastmodified":1537648806,
+    "wof:lastmodified":1564124936,
     "wof:name":"Arneshreppur",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",
