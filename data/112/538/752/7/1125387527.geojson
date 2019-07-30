@@ -18,8 +18,101 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u064a\u0643\u064a\u0627\u0646\u0633\u0628\u064a\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09c7\u0987\u0995\u09bf\u09af\u09bc\u09be\u09a8\u09c7\u09b8\u09aa\u09be\u09af\u09bc\u09c7\u09b0"
+    ],
+    "name:cat_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:ces_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:cym_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:dan_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:deu_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:est_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:eus_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:fin_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:fra_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:glv_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:ido_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:ind_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
     "name:isl_x_preferred":[
         "Reykjanesb\u00e6r"
+    ],
+    "name:ita_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:kal_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d4\u10d8\u10d9\u10d8\u10d0\u10dc\u10d4\u10e1\u10d1\u10d4\u10e0\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub808\uc774\uceac\ub124\uc2a4\ubc14\uc774\ub974"
+    ],
+    "name:msa_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:nld_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:nor_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:pol_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:por_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:ron_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0439\u043a\u044c\u044f\u043d\u0435\u0441\u0431\u0430\u0439\u0440"
+    ],
+    "name:sme_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:sqi_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:swa_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:swe_x_preferred":[
+        "Reykjanesb\u00e6r"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0439\u043a'\u044f\u043d\u0435\u0441\u0431\u0430\u0457\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u6070\u5185\u65af\u62dc\u5c14"
     ],
     "qs_pg:aaroncc":"IS",
     "qs_pg:gn_country":"IS",
@@ -56,7 +149,7 @@
         }
     ],
     "wof:id":1125387527,
-    "wof:lastmodified":1509389746,
+    "wof:lastmodified":1564124948,
     "wof:name":"Reykjanesb\u00e6r",
     "wof:parent_id":85672515,
     "wof:placetype":"localadmin",

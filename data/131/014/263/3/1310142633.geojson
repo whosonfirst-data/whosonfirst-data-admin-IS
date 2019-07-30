@@ -27,6 +27,90 @@
     "iso:country":"IS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0435\u0439\u0441\u0456\u0440"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0435\u0439\u0441\u0438\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Geysir"
+    ],
+    "name:ceb_x_preferred":[
+        "Geysir"
+    ],
+    "name:ces_x_preferred":[
+        "Geysir"
+    ],
+    "name:dan_x_preferred":[
+        "Geysir"
+    ],
+    "name:deu_x_preferred":[
+        "Gro\u00dfer Geysir"
+    ],
+    "name:epo_x_preferred":[
+        "Geysir"
+    ],
+    "name:fao_x_preferred":[
+        "Geysir"
+    ],
+    "name:fra_x_preferred":[
+        "Geysir"
+    ],
+    "name:hrv_x_preferred":[
+        "Geysir"
+    ],
+    "name:ind_x_preferred":[
+        "Geysir"
+    ],
+    "name:isl_x_preferred":[
+        "Geysir"
+    ],
+    "name:ita_x_preferred":[
+        "Geysir"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b2\u30a4\u30b7\u30fc\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uac8c\uc774\uc2dc\ub974"
+    ],
+    "name:nld_x_preferred":[
+        "Geysir"
+    ],
+    "name:nor_x_preferred":[
+        "Geysir"
+    ],
+    "name:oci_x_preferred":[
+        "Geysir"
+    ],
+    "name:pol_x_preferred":[
+        "Geysir"
+    ],
+    "name:por_x_preferred":[
+        "Geysir"
+    ],
+    "name:ron_x_preferred":[
+        "Geysir"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0413\u0435\u0439\u0437\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Geysir"
+    ],
+    "name:swe_x_preferred":[
+        "Geysir"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0435\u0439\u0441\u0456\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Geysir"
+    ],
+    "name:zho_x_preferred":[
+        "\u76d6\u9521\u5c14\u4e0e\u65af\u7279\u7f57\u67ef\u95f4\u6b47\u6cc9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +132,7 @@
         }
     ],
     "wof:id":1310142633,
-    "wof:lastmodified":1536943418,
+    "wof:lastmodified":1564124935,
     "wof:name":"Geysir",
     "wof:parent_id":85672519,
     "wof:placetype":"locality",

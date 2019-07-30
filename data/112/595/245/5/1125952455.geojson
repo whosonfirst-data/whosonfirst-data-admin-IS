@@ -18,6 +18,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Gufunes skulpturpark"
+    ],
+    "name:fra_x_preferred":[
+        "Gufunes"
+    ],
+    "name:isl_x_preferred":[
+        "Gufunes"
+    ],
+    "name:swe_x_preferred":[
+        "Gufunes skulpturpark"
+    ],
     "name:unk_x_variant":[
         "Gufnas"
     ],
@@ -70,7 +82,7 @@
         }
     ],
     "wof:id":1125952455,
-    "wof:lastmodified":1509402782,
+    "wof:lastmodified":1564124941,
     "wof:name":"Gufunes",
     "wof:parent_id":85672493,
     "wof:placetype":"locality",

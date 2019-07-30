@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000163,
+    "geom:area_square_m":844465.697546,
     "geom:bbox":"-14.4364978496,65.2789018721,-14.4105190175,65.2896416045",
     "geom:latitude":65.284632,
     "geom:longitude":-14.423044,
@@ -14,6 +15,34 @@
     "mps:latitude":65.284479,
     "mps:longitude":-14.420683,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fellabaer"
+    ],
+    "name:ces_x_preferred":[
+        "Fellab\u00e6r"
+    ],
+    "name:deu_x_preferred":[
+        "Fellab\u00e6r"
+    ],
+    "name:fra_x_preferred":[
+        "Fellab\u00e6r"
+    ],
+    "name:isl_x_preferred":[
+        "Fellab\u00e6r"
+    ],
+    "name:nld_x_preferred":[
+        "Fellab\u00e6r"
+    ],
+    "name:pol_x_preferred":[
+        "Fellab\u00e6r"
+    ],
+    "name:spa_x_preferred":[
+        "Fellab\u00e6r"
+    ],
+    "name:swe_x_preferred":[
+        "Fellab\u00e6r"
+    ],
     "qs:a0":"\u00cdsland",
     "qs:a1":"*",
     "qs:a1r":"0",
@@ -40,7 +69,7 @@
         "qs:id":3
     },
     "wof:country":"IS",
-    "wof:geomhash":"df189a857b75b92846fa80f47bba3eec",
+    "wof:geomhash":"ebc6d4dfb2d496938961ecc31d4114a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +79,7 @@
         }
     ],
     "wof:id":101803647,
-    "wof:lastmodified":1477508551,
+    "wof:lastmodified":1564124938,
     "wof:name":"Fellab\u00e6r",
     "wof:parent_id":85672501,
     "wof:placetype":"locality",
