@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HO"
+    ],
     "lbl:latitude":64.260608,
     "lbl:longitude":-21.509719,
     "mps:latitude":64.260608,
@@ -347,7 +350,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1563364052,
+    "wof:lastmodified":1565723381,
     "wof:name":"H\u00f6fu\u00f0borgarsv\u00e6\u00f0i",
     "wof:parent_id":85633249,
     "wof:placetype":"region",

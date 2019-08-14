@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SL"
+    ],
     "lbl:latitude":64.108227,
     "lbl:longitude":-19.137918,
     "mps:latitude":64.108227,
@@ -340,7 +343,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1563364051,
+    "wof:lastmodified":1565723380,
     "wof:name":"Su\u00f0urland",
     "wof:parent_id":85633249,
     "wof:placetype":"region",

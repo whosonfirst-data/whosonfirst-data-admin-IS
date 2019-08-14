@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NV"
+    ],
     "lbl:latitude":65.257232,
     "lbl:longitude":-19.451405,
     "mps:latitude":65.257232,
@@ -334,7 +337,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1563364051,
+    "wof:lastmodified":1565723380,
     "wof:name":"Nor\u00f0urland vestra",
     "wof:parent_id":85633249,
     "wof:placetype":"region",

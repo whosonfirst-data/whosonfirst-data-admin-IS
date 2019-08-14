@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SU"
+    ],
     "lbl:latitude":63.943573,
     "lbl:longitude":-22.269875,
     "mps:latitude":63.943573,
@@ -337,7 +340,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1563364052,
+    "wof:lastmodified":1565723380,
     "wof:name":"Su\u00f0urnes",
     "wof:parent_id":85633249,
     "wof:placetype":"region",

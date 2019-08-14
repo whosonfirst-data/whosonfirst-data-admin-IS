@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NE"
+    ],
     "lbl:latitude":65.370677,
     "lbl:longitude":-17.104105,
     "mps:latitude":65.370677,
@@ -343,7 +346,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1563364050,
+    "wof:lastmodified":1565723380,
     "wof:name":"Nor\u00f0urland eystra",
     "wof:parent_id":85633249,
     "wof:placetype":"region",

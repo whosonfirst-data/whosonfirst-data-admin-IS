@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Reykjav\u00edk Region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NE"
+    ],
     "lbl:latitude":64.09518,
     "lbl:longitude":-21.861966,
     "mps:latitude":64.09518,
@@ -308,7 +311,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1563364055,
+    "wof:lastmodified":1565723381,
     "wof:name":"Reykjav\u00edk",
     "wof:parent_id":85633249,
     "wof:placetype":"region",

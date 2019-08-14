@@ -14,6 +14,9 @@
     "itu:country_code":[
         "354"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IS"
+    ],
     "lbl:latitude":64.779262,
     "lbl:longitude":-18.673522,
     "mps:latitude":64.779262,
@@ -1146,16 +1149,13 @@
         }
     ],
     "wof:id":85633249,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "isl"
     ],
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1563364060,
+    "wof:lastmodified":1565723381,
     "wof:name":"Iceland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

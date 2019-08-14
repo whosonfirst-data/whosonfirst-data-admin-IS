@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AL"
+    ],
     "lbl:latitude":65.075478,
     "lbl:longitude":-15.203581,
     "mps:latitude":65.075478,
@@ -339,7 +342,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1563364052,
+    "wof:lastmodified":1565723380,
     "wof:name":"Austurland",
     "wof:parent_id":85633249,
     "wof:placetype":"region",

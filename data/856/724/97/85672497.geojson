@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VF"
+    ],
     "lbl:latitude":65.97966,
     "lbl:longitude":-22.103794,
     "mps:latitude":65.97966,
@@ -340,7 +343,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1563364055,
+    "wof:lastmodified":1565723381,
     "wof:name":"Vestfir\u00f0ir",
     "wof:parent_id":85633249,
     "wof:placetype":"region",
