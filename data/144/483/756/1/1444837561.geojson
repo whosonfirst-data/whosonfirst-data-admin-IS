@@ -1,0 +1,54 @@
+{
+  "id": 1444837561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.8777004247,64.1245427415,-21.8777004247,64.1245427415",
+    "geom:latitude":64.124543,
+    "geom:longitude":-21.8777,
+    "iso:country":"IS",
+    "lbl:latitude":64.124543,
+    "lbl:longitude":-21.8777,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Haaleiti og Bustadir"
+    ],
+    "name:isl_x_preferred":[
+        "H\u00e1aleiti og B\u00fasta\u00f0ir"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IS",
+    "wof:geomhash":"f6c5af9efa850e180119550f5be04330",
+    "wof:hierarchy":[],
+    "wof:id":1444837561,
+    "wof:lastmodified":1566335077,
+    "wof:name":"Haaleiti og Bustadir",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.87770042471415,
+    64.1245427415316,
+    -21.87770042471415,
+    64.1245427415316
+],
+  "geometry": {"coordinates":[-21.87770042471415,64.1245427415316],"type":"Point"}
+}

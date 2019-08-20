@@ -1,0 +1,54 @@
+{
+  "id": 1444838357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.7987643218,64.1362230776,-21.7987643218,64.1362230776",
+    "geom:latitude":64.136223,
+    "geom:longitude":-21.798764,
+    "iso:country":"IS",
+    "lbl:latitude":64.136223,
+    "lbl:longitude":-21.798764,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Foldir"
+    ],
+    "name:isl_x_preferred":[
+        "Foldir"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IS",
+    "wof:geomhash":"29e4598da44af67b39a9ec7d44012e92",
+    "wof:hierarchy":[],
+    "wof:id":1444838357,
+    "wof:lastmodified":1566335079,
+    "wof:name":"Foldir",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.79876432182842,
+    64.13622307762307,
+    -21.79876432182842,
+    64.13622307762307
+],
+  "geometry": {"coordinates":[-21.79876432182842,64.13622307762307],"type":"Point"}
+}

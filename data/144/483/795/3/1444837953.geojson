@@ -1,0 +1,54 @@
+{
+  "id": 1444837953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.8551868744,64.1400396519,-21.8551868744,64.1400396519",
+    "geom:latitude":64.14004,
+    "geom:longitude":-21.855187,
+    "iso:country":"IS",
+    "lbl:latitude":64.14004,
+    "lbl:longitude":-21.855186,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Sund"
+    ],
+    "name:isl_x_preferred":[
+        "Sund"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IS",
+    "wof:geomhash":"5e8106485b9d68a1b61b171b31f87057",
+    "wof:hierarchy":[],
+    "wof:id":1444837953,
+    "wof:lastmodified":1566335078,
+    "wof:name":"Sund",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.855186874403717,
+    64.14003965185516,
+    -21.855186874403717,
+    64.14003965185516
+],
+  "geometry": {"coordinates":[-21.85518687440372,64.14003965185516],"type":"Point"}
+}

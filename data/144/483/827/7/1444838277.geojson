@@ -1,0 +1,51 @@
+{
+  "id": 1444838277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.7366800926,64.0999303829,-21.7366800926,64.0999303829",
+    "geom:latitude":64.09993,
+    "geom:longitude":-21.73668,
+    "iso:country":"IS",
+    "lbl:latitude":64.09993,
+    "lbl:longitude":-21.73668,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Almannadalur"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IS",
+    "wof:geomhash":"c086e143d045cf569bde89ef18201b47",
+    "wof:hierarchy":[],
+    "wof:id":1444838277,
+    "wof:lastmodified":1566335079,
+    "wof:name":"Almannadalur",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.736680092592565,
+    64.09993038291665,
+    -21.736680092592565,
+    64.09993038291665
+],
+  "geometry": {"coordinates":[-21.73668009259256,64.09993038291665],"type":"Point"}
+}

@@ -1,0 +1,54 @@
+{
+  "id": 1444837901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.8879169934,64.144731366,-21.8879169934,64.144731366",
+    "geom:latitude":64.144731,
+    "geom:longitude":-21.887917,
+    "iso:country":"IS",
+    "lbl:latitude":64.144731,
+    "lbl:longitude":-21.887916,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Teigar"
+    ],
+    "name:isl_x_preferred":[
+        "Teigar"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IS",
+    "wof:geomhash":"90396c43d0f179e1a2afc1e11bdb0761",
+    "wof:hierarchy":[],
+    "wof:id":1444837901,
+    "wof:lastmodified":1566335078,
+    "wof:name":"Teigar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.887916993410993,
+    64.14473136601441,
+    -21.887916993410993,
+    64.14473136601441
+],
+  "geometry": {"coordinates":[-21.88791699341099,64.14473136601441],"type":"Point"}
+}

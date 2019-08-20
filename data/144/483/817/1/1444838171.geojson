@@ -1,0 +1,54 @@
+{
+  "id": 1444838171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.823540793,64.1222161657,-21.823540793,64.1222161657",
+    "geom:latitude":64.122216,
+    "geom:longitude":-21.823541,
+    "iso:country":"IS",
+    "lbl:latitude":64.122216,
+    "lbl:longitude":-21.82354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Artunsholt"
+    ],
+    "name:isl_x_preferred":[
+        "\u00c1rt\u00fansholt"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IS",
+    "wof:geomhash":"ed7fe9019dae90c7aee5dfb9bb167da3",
+    "wof:hierarchy":[],
+    "wof:id":1444838171,
+    "wof:lastmodified":1566335079,
+    "wof:name":"Artunsholt",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.82354079303499,
+    64.12221616574752,
+    -21.82354079303499,
+    64.12221616574752
+],
+  "geometry": {"coordinates":[-21.82354079303499,64.12221616574752],"type":"Point"}
+}
