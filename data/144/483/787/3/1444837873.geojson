@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
-    "wof:geomhash":"5ef758ac737f9aeb55dd3b2e0b05e423",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8d3663780814a8469dc67836165c567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444837873,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444837873,
-    "wof:lastmodified":1566335078,
+    "wof:lastmodified":1566339061,
     "wof:name":"Thingholt",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751753,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-is",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.936411356800264,
+    -21.93641135680026,
     64.14547997046883,
-    -21.936411356800264,
+    -21.93641135680026,
     64.14547997046883
 ],
   "geometry": {"coordinates":[-21.93641135680026,64.14547997046883],"type":"Point"}

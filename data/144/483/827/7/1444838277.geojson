@@ -26,13 +26,25 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
-    "wof:geomhash":"c086e143d045cf569bde89ef18201b47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3e9484b4d48c5f1d72f594a8131eabe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":-1,
+            "neighbourhood_id":1444838277,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444838277,
-    "wof:lastmodified":1566335079,
+    "wof:lastmodified":1566339103,
     "wof:name":"Almannadalur",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -42,9 +54,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.736680092592565,
+    -21.73668009259256,
     64.09993038291665,
-    -21.736680092592565,
+    -21.73668009259256,
     64.09993038291665
 ],
   "geometry": {"coordinates":[-21.73668009259256,64.09993038291665],"type":"Point"}

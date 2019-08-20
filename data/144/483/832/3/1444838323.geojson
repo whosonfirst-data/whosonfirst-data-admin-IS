@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
-    "wof:geomhash":"27bf62d3781afc8a862d17bc13c17862",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f4ad12f53d3d9649346dace1ce3ac79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444838323,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444838323,
-    "wof:lastmodified":1566335079,
+    "wof:lastmodified":1566339107,
     "wof:name":"Hofdar",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751753,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-is",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.818791492549664,
+    -21.81879149254966,
     64.12773488305392,
-    -21.818791492549664,
+    -21.81879149254966,
     64.12773488305392
 ],
   "geometry": {"coordinates":[-21.81879149254966,64.12773488305392],"type":"Point"}

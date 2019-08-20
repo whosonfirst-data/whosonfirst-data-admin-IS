@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
-    "wof:geomhash":"8a2d2d5565f955d649c351fd0025fe1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e742869d17e0cecd42dacdbbd5ecfa24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444837975,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444837975,
-    "wof:lastmodified":1566335078,
+    "wof:lastmodified":1566339077,
     "wof:name":"Vogar",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751753,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-is",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.850952558308364,
+    -21.85095255830836,
     64.13075371090835,
-    -21.850952558308364,
+    -21.85095255830836,
     64.13075371090835
 ],
   "geometry": {"coordinates":[-21.85095255830836,64.13075371090835],"type":"Point"}

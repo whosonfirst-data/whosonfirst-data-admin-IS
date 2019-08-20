@@ -29,13 +29,25 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
-    "wof:geomhash":"e2b5a8f74d427612a569dbc450fba6ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d228e643577b9ac5e35a6b0b1f9dfed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":-1,
+            "neighbourhood_id":1444837601,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444837601,
-    "wof:lastmodified":1566335077,
+    "wof:lastmodified":1566339027,
     "wof:name":"Grafarholt og Ulfarsardalur",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.750670941853702,
+    -21.7506709418537,
     64.13073513542292,
-    -21.750670941853702,
+    -21.7506709418537,
     64.13073513542292
 ],
   "geometry": {"coordinates":[-21.7506709418537,64.13073513542292],"type":"Point"}

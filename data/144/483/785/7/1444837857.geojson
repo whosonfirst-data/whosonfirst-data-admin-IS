@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
-    "wof:geomhash":"ba2f655504fdcc66d75ade13fef071ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"136d12ee3347b7d6b8b4b234b0c4d119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444837857,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444837857,
-    "wof:lastmodified":1566335078,
+    "wof:lastmodified":1566339057,
     "wof:name":"Laufas",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751753,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-is",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.938757396799037,
+    -21.93875739679904,
     64.14300326032915,
-    -21.938757396799037,
+    -21.93875739679904,
     64.14300326032915
 ],
   "geometry": {"coordinates":[-21.93875739679904,64.14300326032915],"type":"Point"}

@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
-    "wof:geomhash":"797415598289437dacc1111889e4911f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec644292b31305dbdcfb5f1fa8218528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444837711,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444837711,
-    "wof:lastmodified":1566335078,
+    "wof:lastmodified":1566339040,
     "wof:name":"Midbaer",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751753,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-is",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.940671571510517,
+    -21.94067157151052,
     64.14756359169554,
-    -21.940671571510517,
+    -21.94067157151052,
     64.14756359169554
 ],
   "geometry": {"coordinates":[-21.94067157151052,64.14756359169554],"type":"Point"}

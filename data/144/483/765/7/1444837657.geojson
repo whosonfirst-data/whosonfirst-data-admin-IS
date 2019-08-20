@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
-    "wof:geomhash":"ec755f68f41c4175ece12c06862d5a39",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9914f3f68afc092080a7ff18a78159e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444837657,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444837657,
-    "wof:lastmodified":1566335077,
+    "wof:lastmodified":1566339032,
     "wof:name":"Hagar",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751753,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-is",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.959840434915133,
+    -21.95984043491513,
     64.140233189976,
-    -21.959840434915133,
+    -21.95984043491513,
     64.140233189976
 ],
   "geometry": {"coordinates":[-21.95984043491513,64.140233189976],"type":"Point"}

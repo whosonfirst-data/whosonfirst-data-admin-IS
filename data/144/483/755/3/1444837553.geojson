@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
-    "wof:geomhash":"c4b4facb2af970289a3edec777a5b815",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6cbc3571202871c3dca6596553fad4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444837553,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444837553,
-    "wof:lastmodified":1566335077,
+    "wof:lastmodified":1566339021,
     "wof:name":"Laugardalur",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751753,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-is",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.873351667643245,
+    -21.87335166764325,
     64.14161831425483,
-    -21.873351667643245,
+    -21.87335166764325,
     64.14161831425483
 ],
   "geometry": {"coordinates":[-21.87335166764325,64.14161831425483],"type":"Point"}

@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
-    "wof:geomhash":"e6ce8c7cfbc823fa010883a0be0eb675",
-    "wof:hierarchy":[],
+    "wof:geomhash":"261772fd1e703dba7f555b7e1209f75b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444837667,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444837667,
-    "wof:lastmodified":1566335077,
+    "wof:lastmodified":1566339035,
     "wof:name":"Vesturhofn",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751753,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-is",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.946536671507452,
+    -21.94653667150745,
     64.1527217878816,
-    -21.946536671507452,
+    -21.94653667150745,
     64.1527217878816
 ],
   "geometry": {"coordinates":[-21.94653667150745,64.1527217878816],"type":"Point"}

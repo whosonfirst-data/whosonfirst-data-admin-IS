@@ -26,13 +26,24 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633249
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
     "wof:geomhash":"6f1ca283ad027037a80a46e990e42ead",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":-1,
+            "neighbourhood_id":1444838513,
+            "region_id":-1
+        }
+    ],
     "wof:id":1444838513,
-    "wof:lastmodified":1566335080,
+    "wof:lastmodified":1566339131,
     "wof:name":"Saltvik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

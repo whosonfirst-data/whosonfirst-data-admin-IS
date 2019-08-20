@@ -29,13 +29,25 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
-    "wof:geomhash":"d845e04aaf2ba931ec5b0be1cf38c8d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36f77830ea80ea137356035b36297c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":-1,
+            "neighbourhood_id":1444838483,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444838483,
-    "wof:lastmodified":1566335079,
+    "wof:lastmodified":1566339126,
     "wof:name":"Alfsnes",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.735421241861513,
+    -21.73542124186151,
     64.18821899374693,
-    -21.735421241861513,
+    -21.73542124186151,
     64.18821899374693
 ],
   "geometry": {"coordinates":[-21.73542124186151,64.18821899374693],"type":"Point"}

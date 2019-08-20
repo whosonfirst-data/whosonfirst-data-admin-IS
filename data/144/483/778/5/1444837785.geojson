@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
-    "wof:geomhash":"7065fc2cda5af74729eea77eaf6359b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9d2e6517acbb7f32519f95d739c8559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444837785,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444837785,
-    "wof:lastmodified":1566335078,
+    "wof:lastmodified":1566339047,
     "wof:name":"Hlemmur",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751753,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-is",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.912776583720213,
+    -21.91277658372021,
     64.14232956869988,
-    -21.912776583720213,
+    -21.91277658372021,
     64.14232956869988
 ],
   "geometry": {"coordinates":[-21.91277658372021,64.14232956869988],"type":"Point"}

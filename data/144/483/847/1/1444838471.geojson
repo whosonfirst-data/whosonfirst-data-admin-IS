@@ -29,13 +29,25 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
     "wof:geomhash":"33b7beb3e8e618e01a59b6c224568a2b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":-1,
+            "neighbourhood_id":1444838471,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444838471,
-    "wof:lastmodified":1566335079,
+    "wof:lastmodified":1566339125,
     "wof:name":"Geldinganes",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

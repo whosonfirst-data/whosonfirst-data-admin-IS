@@ -26,13 +26,25 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
-    "wof:geomhash":"990d0c2b1d640a2f2dda951b5b19a09b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a8efb22c838969acc97516b5c5a0bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":-1,
+            "neighbourhood_id":1444838503,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444838503,
-    "wof:lastmodified":1566335080,
+    "wof:lastmodified":1566339130,
     "wof:name":"Grundarhverti",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -42,9 +54,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.834641567663322,
+    -21.83464156766332,
     64.24073923616878,
-    -21.834641567663322,
+    -21.83464156766332,
     64.24073923616878
 ],
   "geometry": {"coordinates":[-21.83464156766332,64.24073923616878],"type":"Point"}

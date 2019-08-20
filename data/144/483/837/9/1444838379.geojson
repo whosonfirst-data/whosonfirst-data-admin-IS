@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
-    "wof:geomhash":"e905bb4aa9742cf5bf5ba38d22a30003",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f84642ce8a86341723345b9b1c9ca558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444838379,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444838379,
-    "wof:lastmodified":1566335079,
+    "wof:lastmodified":1566339115,
     "wof:name":"Rimar",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751753,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-is",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.793271155002024,
+    -21.79327115500202,
     64.1454572841593,
-    -21.793271155002024,
+    -21.79327115500202,
     64.1454572841593
 ],
   "geometry": {"coordinates":[-21.79327115500202,64.14545728415931],"type":"Point"}

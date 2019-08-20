@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
-    "wof:geomhash":"e7169675a9904f4e6f60b518eb45ad94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdffd9a40192971e5c25e4432cb66b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444837893,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444837893,
-    "wof:lastmodified":1566335078,
+    "wof:lastmodified":1566339062,
     "wof:name":"Tungan",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751753,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-is",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.923021762660927,
+    -21.92302176266093,
     64.1426102104499,
-    -21.923021762660927,
+    -21.92302176266093,
     64.1426102104499
 ],
   "geometry": {"coordinates":[-21.92302176266093,64.1426102104499],"type":"Point"}

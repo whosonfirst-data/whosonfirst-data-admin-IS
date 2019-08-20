@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
-    "wof:geomhash":"ca46176ff01adb151bf39f74636ffc2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82e87f6e4efe198e2de0363227f10af4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444838115,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444838115,
-    "wof:lastmodified":1566335079,
+    "wof:lastmodified":1566339091,
     "wof:name":"Fell",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751753,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-is",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.822167501328398,
+    -21.8221675013284,
     64.10043025990453,
-    -21.822167501328398,
+    -21.8221675013284,
     64.10043025990453
 ],
   "geometry": {"coordinates":[-21.8221675013284,64.10043025990453],"type":"Point"}

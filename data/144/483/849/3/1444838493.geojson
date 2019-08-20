@@ -26,13 +26,25 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
     "wof:geomhash":"be0b895edf5912b6edf1af06999c590b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":-1,
+            "neighbourhood_id":1444838493,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444838493,
-    "wof:lastmodified":1566335080,
+    "wof:lastmodified":1566339127,
     "wof:name":"Esjumelar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

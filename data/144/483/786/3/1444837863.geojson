@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
-    "wof:geomhash":"8be57309fb3dd75d248e463e1d49c3fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f3d8a4367542adf7d15dd957561fe5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444837863,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444837863,
-    "wof:lastmodified":1566335078,
+    "wof:lastmodified":1566339060,
     "wof:name":"Spitalahlid",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751753,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-is",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.931461784607727,
+    -21.93146178460773,
     64.14008332838144,
-    -21.931461784607727,
+    -21.93146178460773,
     64.14008332838144
 ],
   "geometry": {"coordinates":[-21.93146178460773,64.14008332838144],"type":"Point"}

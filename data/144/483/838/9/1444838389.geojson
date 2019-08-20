@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
-    "wof:geomhash":"246e3690d4ac1e5289d10a4238584716",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b997b8f781320c8b2398fda16c20cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444838389,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444838389,
-    "wof:lastmodified":1566335079,
+    "wof:lastmodified":1566339116,
     "wof:name":"Flatir",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751753,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-is",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.802540874021567,
+    -21.80254087402157,
     64.1429119445841,
-    -21.802540874021567,
+    -21.80254087402157,
     64.1429119445841
 ],
   "geometry": {"coordinates":[-21.80254087402157,64.1429119445841],"type":"Point"}

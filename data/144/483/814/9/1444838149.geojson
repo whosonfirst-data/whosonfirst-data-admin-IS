@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
     "wof:breaches":[],
     "wof:country":"IS",
-    "wof:geomhash":"747cfaf2d3a2d2effd1f468468b6c844",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d740e46e55fae3ac912a4ce9fee2c773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444838149,
+            "region_id":85672493
+        }
+    ],
     "wof:id":1444838149,
-    "wof:lastmodified":1566335079,
+    "wof:lastmodified":1566339096,
     "wof:name":"Berg",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751753,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-is",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -21.817818744257494,
+    -21.81781874425749,
     64.1051786433546,
-    -21.817818744257494,
+    -21.81781874425749,
     64.1051786433546
 ],
   "geometry": {"coordinates":[-21.81781874425749,64.10517864335461],"type":"Point"}
