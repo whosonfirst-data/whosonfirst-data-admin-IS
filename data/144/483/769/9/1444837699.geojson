@@ -1,0 +1,67 @@
+{
+  "id": 1444837699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.948939932,64.1388979099,-21.948939932,64.1388979099",
+    "geom:latitude":64.138898,
+    "geom:longitude":-21.94894,
+    "iso:country":"IS",
+    "lbl:latitude":64.138898,
+    "lbl:longitude":-21.948939,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Haskoli"
+    ],
+    "name:isl_x_preferred":[
+        "H\u00e1sk\u00f3li"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
+    "wof:breaches":[],
+    "wof:country":"IS",
+    "wof:geomhash":"82d071d01583c0e7e9529a3b499d37dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444837699,
+            "region_id":85672493
+        }
+    ],
+    "wof:id":1444837699,
+    "wof:lastmodified":1566339037,
+    "wof:name":"Haskoli",
+    "wof:parent_id":101751753,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.948939931994,
+    64.13889790988081,
+    -21.948939931994,
+    64.13889790988081
+],
+  "geometry": {"coordinates":[-21.948939931994,64.13889790988081],"type":"Point"}
+}

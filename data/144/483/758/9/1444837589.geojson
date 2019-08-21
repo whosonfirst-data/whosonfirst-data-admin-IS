@@ -1,0 +1,66 @@
+{
+  "id": 1444837589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.7861476443,64.224748822,-21.7861476443,64.224748822",
+    "geom:latitude":64.224749,
+    "geom:longitude":-21.786148,
+    "iso:country":"IS",
+    "lbl:latitude":64.224749,
+    "lbl:longitude":-21.786147,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":14.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Kjalarnes"
+    ],
+    "name:isl_x_preferred":[
+        "Kjalarnes"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672493
+    ],
+    "wof:breaches":[],
+    "wof:country":"IS",
+    "wof:geomhash":"b9b7354739b2a74d5f2bddd90c7cffae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":-1,
+            "neighbourhood_id":1444837589,
+            "region_id":85672493
+        }
+    ],
+    "wof:id":1444837589,
+    "wof:lastmodified":1566339026,
+    "wof:name":"Kjalarnes",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.78614764427418,
+    64.22474882195385,
+    -21.78614764427418,
+    64.22474882195385
+],
+  "geometry": {"coordinates":[-21.78614764427418,64.22474882195385],"type":"Point"}
+}

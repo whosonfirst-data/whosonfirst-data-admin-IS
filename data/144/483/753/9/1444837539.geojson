@@ -1,0 +1,67 @@
+{
+  "id": 1444837539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.9356075583,64.1389727926,-21.9356075583,64.1389727926",
+    "geom:latitude":64.138973,
+    "geom:longitude":-21.935608,
+    "iso:country":"IS",
+    "lbl:latitude":64.138973,
+    "lbl:longitude":-21.935607,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Midborg"
+    ],
+    "name:isl_x_preferred":[
+        "Mi\u00f0borg"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
+    "wof:breaches":[],
+    "wof:country":"IS",
+    "wof:geomhash":"439d43a668f2f5c0999c3da47a0970a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444837539,
+            "region_id":85672493
+        }
+    ],
+    "wof:id":1444837539,
+    "wof:lastmodified":1566339021,
+    "wof:name":"Midborg",
+    "wof:parent_id":101751753,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.93560755834242,
+    64.13897279261442,
+    -21.93560755834242,
+    64.13897279261442
+],
+  "geometry": {"coordinates":[-21.93560755834242,64.13897279261442],"type":"Point"}
+}

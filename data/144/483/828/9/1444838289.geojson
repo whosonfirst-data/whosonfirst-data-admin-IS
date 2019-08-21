@@ -1,0 +1,67 @@
+{
+  "id": 1444838289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.7583384872,64.1261908913,-21.7583384872,64.1261908913",
+    "geom:latitude":64.126191,
+    "geom:longitude":-21.758338,
+    "iso:country":"IS",
+    "lbl:latitude":64.126191,
+    "lbl:longitude":-21.758338,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Grafarholt"
+    ],
+    "name:isl_x_preferred":[
+        "Grafarholt"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
+    "wof:breaches":[],
+    "wof:country":"IS",
+    "wof:geomhash":"6ee015bf22773b301361d1aa852b3a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444838289,
+            "region_id":85672493
+        }
+    ],
+    "wof:id":1444838289,
+    "wof:lastmodified":1566339105,
+    "wof:name":"Grafarholt",
+    "wof:parent_id":101751753,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.75833848721555,
+    64.12619089132431,
+    -21.75833848721555,
+    64.12619089132431
+],
+  "geometry": {"coordinates":[-21.75833848721555,64.12619089132431],"type":"Point"}
+}

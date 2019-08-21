@@ -1,0 +1,67 @@
+{
+  "id": 1444837721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.9284549974,64.1437395456,-21.9284549974,64.1437395456",
+    "geom:latitude":64.14374,
+    "geom:longitude":-21.928455,
+    "iso:country":"IS",
+    "lbl:latitude":64.143739,
+    "lbl:longitude":-21.928454,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":16.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Austurbaer"
+    ],
+    "name:isl_x_preferred":[
+        "Austurb\u00e6r"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
+    "wof:breaches":[],
+    "wof:country":"IS",
+    "wof:geomhash":"21899aa89506c6b08a2b64279a1ad969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444837721,
+            "region_id":85672493
+        }
+    ],
+    "wof:id":1444837721,
+    "wof:lastmodified":1566339041,
+    "wof:name":"Austurbaer",
+    "wof:parent_id":101751753,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.92845499737056,
+    64.14373954558724,
+    -21.92845499737056,
+    64.14373954558724
+],
+  "geometry": {"coordinates":[-21.92845499737056,64.14373954558724],"type":"Point"}
+}

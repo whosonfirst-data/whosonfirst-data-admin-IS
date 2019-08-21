@@ -1,0 +1,67 @@
+{
+  "id": 1444838453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.8161593501,64.1517946649,-21.8161593501,64.1517946649",
+    "geom:latitude":64.151795,
+    "geom:longitude":-21.816159,
+    "iso:country":"IS",
+    "lbl:latitude":64.151795,
+    "lbl:longitude":-21.816159,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Gufenes"
+    ],
+    "name:isl_x_preferred":[
+        "Gufenes"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        101751753,
+        85633249,
+        85672493
+    ],
+    "wof:breaches":[],
+    "wof:country":"IS",
+    "wof:geomhash":"ea5400c12eb0e98e8e663382389e423e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101751753,
+            "neighbourhood_id":1444838453,
+            "region_id":85672493
+        }
+    ],
+    "wof:id":1444838453,
+    "wof:lastmodified":1566339122,
+    "wof:name":"Gufenes",
+    "wof:parent_id":101751753,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.81615935011201,
+    64.1517946649012,
+    -21.81615935011201,
+    64.1517946649012
+],
+  "geometry": {"coordinates":[-21.81615935011201,64.1517946649012],"type":"Point"}
+}

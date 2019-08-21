@@ -1,0 +1,63 @@
+{
+  "id": 1444838493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.6959391053,64.195792039,-21.6959391053,64.195792039",
+    "geom:latitude":64.195792,
+    "geom:longitude":-21.695939,
+    "iso:country":"IS",
+    "lbl:latitude":64.195792,
+    "lbl:longitude":-21.695939,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Esjumelar"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672493
+    ],
+    "wof:breaches":[],
+    "wof:country":"IS",
+    "wof:geomhash":"be0b895edf5912b6edf1af06999c590b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":-1,
+            "neighbourhood_id":1444838493,
+            "region_id":85672493
+        }
+    ],
+    "wof:id":1444838493,
+    "wof:lastmodified":1566339127,
+    "wof:name":"Esjumelar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-is",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -21.69593910529677,
+    64.19579203896089,
+    -21.69593910529677,
+    64.19579203896089
+],
+  "geometry": {"coordinates":[-21.69593910529677,64.19579203896089],"type":"Point"}
+}
