@@ -24,8 +24,12 @@
     "gn:population":15,
     "gn:timezone":"Atlantic/Reykjavik",
     "iso:country":"IS",
+    "lbl:bbox":"-23.64258,64.74936,-23.60258,64.78936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Arnarstapi"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1343697811,
-    "wof:lastmodified":1564124930,
+    "wof:lastmodified":1566720472,
     "wof:name":"Arnarstapi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

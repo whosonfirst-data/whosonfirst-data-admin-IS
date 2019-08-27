@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Reykjavik",
     "iso:country":"IS",
+    "lbl:bbox":"-14.52727,65.15456,-14.48727,65.19456",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633249
@@ -35,7 +39,7 @@
         "gn:id":10792558
     },
     "wof:country":"IS",
-    "wof:geomhash":"501efa3c3ba60ca95e6c87abee6bcaf2",
+    "wof:geomhash":"3e608f90885e93777a77ebac0ac65279",
     "wof:hierarchy":[
         {
             "country_id":85633249,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209658035,
-    "wof:lastmodified":1536280362,
+    "wof:lastmodified":1566720475,
     "wof:name":"Ulfstadir",
     "wof:parent_id":85633249,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -14.507270000000002,
+    -14.50727,
     65.17456,
-    -14.507270000000002,
+    -14.50727,
     65.17456
 ],
   "geometry": {"coordinates":[-14.50727,65.17456],"type":"Point"}

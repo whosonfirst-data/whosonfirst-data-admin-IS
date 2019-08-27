@@ -13,10 +13,13 @@
     "iso:country":"IS",
     "lbl:latitude":65.949482,
     "lbl:longitude":-18.178308,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":65.949482,
     "mps:longitude":-18.178308,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gr\u00fdtubakkahreppur"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":2631153,
         "gp:id":980154,
-        "qs:id":278969,
         "qs_pg:id":278969,
         "wd:id":"Q337924"
     },
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101845679,
-    "wof:lastmodified":1563364080,
+    "wof:lastmodified":1566720481,
     "wof:name":"Greniv\u00edk",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

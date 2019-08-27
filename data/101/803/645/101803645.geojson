@@ -12,10 +12,13 @@
     "iso:country":"IS",
     "lbl:latitude":64.177195,
     "lbl:longitude":-20.443792,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.177195,
     "mps:longitude":-20.443792,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Reykholt"
     ],
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":24,
     "wof:belongsto":[
         102191581,
@@ -69,9 +72,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3413876,
-        "qs:id":4,
-        "qs_pg:id":276819,
+        "qs_pg:id":4,
         "wd:id":"Q360343"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":276819
     },
     "wof:country":"IS",
     "wof:geomhash":"db0db157cd5afb60d04298a4ece622e3",
@@ -84,7 +89,7 @@
         }
     ],
     "wof:id":101803645,
-    "wof:lastmodified":1563364088,
+    "wof:lastmodified":1566720481,
     "wof:name":"Reykholt",
     "wof:parent_id":85672519,
     "wof:placetype":"locality",

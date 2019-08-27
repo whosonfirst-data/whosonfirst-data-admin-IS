@@ -13,6 +13,8 @@
     "iso:country":"IS",
     "lbl:latitude":66.067616,
     "lbl:longitude":-23.124374,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":66.067616,
     "mps:longitude":-23.124374,
     "mz:hierarchy_label":1,
@@ -200,7 +202,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0441\u0430\u0444\u044c\u043e\u0440\u0434\u044e\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00cdsafjardardjup"
     ],
     "name:urd_x_preferred":[
@@ -323,7 +325,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":66.073778,
     "wd:longitude":-23.141719,
@@ -337,10 +339,12 @@
     "wof:concordances":{
         "gn:id":3415667,
         "gp:id":980266,
-        "qs:id":1104591,
         "qs_pg:id":1044545,
         "wd:id":"Q106896",
         "wk:page":"\u00cdsafj\u00f6r\u00f0ur"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1104591
     },
     "wof:country":"IS",
     "wof:geomhash":"c221d997b661453867b2dfb7307f406b",
@@ -353,7 +357,7 @@
         }
     ],
     "wof:id":101803683,
-    "wof:lastmodified":1563364100,
+    "wof:lastmodified":1566720482,
     "wof:name":"\u00cdsafj\u00f6r\u00f0ur",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"IS",
     "lbl:latitude":64.092535,
     "lbl:longitude":-21.914485,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":64.092535,
     "mps:longitude":-21.914485,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0631\u0630\u0627\u0628\u0627\u064a\u0631"
     ],
@@ -206,7 +209,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":64.083333,
     "wd:longitude":-22.0,
@@ -220,7 +223,7 @@
     "wof:concordances":{
         "gn:id":3417195,
         "gp:id":980133,
-        "qs:id":4965,
+        "qs_pg:id":4965,
         "wd:id":"Q186142",
         "wk:page":"Gar\u00f0ab\u00e6r"
     },
@@ -235,7 +238,7 @@
         }
     ],
     "wof:id":101751747,
-    "wof:lastmodified":1563364109,
+    "wof:lastmodified":1566720483,
     "wof:name":"Gar\u00f0ab\u00e6r",
     "wof:parent_id":85672493,
     "wof:placetype":"locality",

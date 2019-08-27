@@ -11,12 +11,16 @@
     "geom:longitude":-23.605268,
     "gn:population":170,
     "iso:country":"IS",
+    "lbl:bbox":"-23.625268,65.656414,-23.585268,65.696414",
     "lbl:latitude":65.676414,
     "lbl:longitude":-23.605268,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":65.676414,
     "mps:longitude":-23.605268,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "B\u00edldudalur"
     ],
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":86.0,
     "wd:latitude":65.683056,
@@ -86,7 +90,6 @@
     "wof:concordances":{
         "gn:id":3418226,
         "gp:id":980058,
-        "qs:id":583110,
         "qs_pg:id":583110,
         "wd:id":"Q939109",
         "wk:page":"B\u00edldudalur"
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101870547,
-    "wof:lastmodified":1563364118,
+    "wof:lastmodified":1566720484,
     "wof:name":"B\u00edldudalur",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

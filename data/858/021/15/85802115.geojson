@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":22900322.270385,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-21.935983,64.145205,-21.935983,64.145205",
     "geom:latitude":64.145205,
     "geom:longitude":-21.935983,
     "gn:id":"",
     "iso:country":"IS",
+    "lbl:bbox":"-21.940983,64.140205,-21.930983,64.150205",
     "lbl:latitude":64.145205,
     "lbl:longitude":-21.935983,
+    "lbl:max_zoom":18.0,
     "mps:latitude":64.137951,
     "mps:longitude":-21.943404,
     "mz:hierarchy_label":0,
@@ -29,10 +31,7 @@
         "Grimsstayaholt",
         "Grimsstayuaholt"
     ],
-    "name:und_x_preferred":[
-        "Gr\u00edmssta\u00ffaholt"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gr\u00edmssta\u00ffaholt"
     ],
     "qs:gn_adm0_cc":"IS",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101751753,
@@ -72,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":980156,
-        "qs:id":533763,
         "qs_pg:id":533763
     },
     "wof:country":"IS",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531862133,
+    "wof:lastmodified":1566720474,
     "wof:name":"Gr\u00edmssta\u00ffaholt",
     "wof:parent_id":101751753,
     "wof:placetype":"neighbourhood",

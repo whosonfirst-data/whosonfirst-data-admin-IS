@@ -12,6 +12,7 @@
     "iso:country":"IS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Nor\u00f0fj\u00f6r\u00f0ur Airport"
     ],
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":102553129,
-    "wof:lastmodified":1563364047,
+    "wof:lastmodified":1566720471,
     "wof:name":"Nordfjordur Airport",
     "wof:parent_id":85672501,
     "wof:placetype":"campus",

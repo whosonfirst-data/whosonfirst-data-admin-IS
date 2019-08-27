@@ -13,10 +13,13 @@
     "iso:country":"IS",
     "lbl:latitude":66.051415,
     "lbl:longitude":-23.513828,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":66.051415,
     "mps:longitude":-23.513828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0424\u043b\u0430\u0442\u0435\u0439\u0440\u0438"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":224,
     "wof:belongsto":[
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":3417363,
         "gp:id":980127,
-        "qs:id":918218,
         "qs_pg:id":918218,
         "wd:id":"Q1427337",
         "wk:page":"Flateyri"
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101845691,
-    "wof:lastmodified":1563364082,
+    "wof:lastmodified":1566720481,
     "wof:name":"Flateyri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

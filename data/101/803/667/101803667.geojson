@@ -13,10 +13,13 @@
     "iso:country":"IS",
     "lbl:latitude":66.152276,
     "lbl:longitude":-18.907635,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":66.152276,
     "mps:longitude":-18.907635,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0456\u0433\u043b\u0443\u0444\u0456\u0451\u0440\u0434\u0443\u0440"
     ],
@@ -119,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":66.07145,
     "wd:longitude":-18.653861,
@@ -133,10 +136,12 @@
     "wof:concordances":{
         "gn:id":2627130,
         "gp:id":980420,
-        "qs:id":1079779,
         "qs_pg:id":356188,
         "wd:id":"Q1887662",
         "wk:page":"Siglufj\u00f6r\u00f0ur"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079779
     },
     "wof:country":"IS",
     "wof:geomhash":"5a92e89155c8c513732e5e19d325188c",
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":101803667,
-    "wof:lastmodified":1563364092,
+    "wof:lastmodified":1566720482,
     "wof:name":"Siglufj\u00f6r\u00f0ur",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

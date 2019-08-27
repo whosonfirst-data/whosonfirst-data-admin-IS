@@ -9,14 +9,18 @@
     "geom:bbox":"-21.81625,64.15255,-21.81625,64.15255",
     "geom:latitude":64.15255,
     "geom:longitude":-21.81625,
-    "gn:gn_country":"IS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"IS",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"IS",
+    "lbl:bbox":"-21.83625,64.13255,-21.79625,64.17255",
     "lbl:latitude":64.15255,
     "lbl:longitude":-21.81625,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Gufunes skulpturpark"
@@ -30,7 +34,7 @@
     "name:swe_x_preferred":[
         "Gufunes skulpturpark"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gufnas"
     ],
     "qs_pg:aaroncc":"IS",
@@ -54,7 +58,7 @@
     "qs_pg:woe_adm0":23424845,
     "qs_pg:woe_id":980164,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424845,
     "woe:name_adm0":"\u00cdsland",
     "woe:name_adm1":"Kjosarsysla",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1125952455,
-    "wof:lastmodified":1564124941,
+    "wof:lastmodified":1566720485,
     "wof:name":"Gufunes",
     "wof:parent_id":85672493,
     "wof:placetype":"locality",

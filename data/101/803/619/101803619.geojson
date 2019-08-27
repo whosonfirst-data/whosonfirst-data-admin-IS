@@ -13,10 +13,13 @@
     "iso:country":"IS",
     "lbl:latitude":63.751414,
     "lbl:longitude":-20.228537,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":63.751414,
     "mps:longitude":-20.228537,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Hvolsv\u00f6llur"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":63.749722,
     "wd:longitude":-20.233889,
@@ -110,7 +113,6 @@
     "wof:concordances":{
         "gn:id":3415720,
         "gp:id":980260,
-        "qs:id":1250480,
         "qs_pg:id":1250480,
         "wd:id":"Q938046",
         "wk:page":"Hvolsv\u00f6llur"
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101803619,
-    "wof:lastmodified":1563364087,
+    "wof:lastmodified":1566720481,
     "wof:name":"Hvolsv\u00f6llur",
     "wof:parent_id":85672519,
     "wof:placetype":"locality",

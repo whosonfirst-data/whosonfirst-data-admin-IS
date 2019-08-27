@@ -9,15 +9,18 @@
     "geom:bbox":"-23.48882,65.88281,-23.48882,65.88281",
     "geom:latitude":65.88281,
     "geom:longitude":-23.48882,
-    "gn:gn_country":"IS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":299,
-    "gn:population":262,
+    "gn:country":"IS",
+    "gn:fcode":"PPL",
+    "gn:population":299,
     "iso:country":"IS",
+    "lbl:bbox":"-23.50882,65.86281,-23.46882,65.90281",
     "lbl:latitude":65.88281,
     "lbl:longitude":-23.48882,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062b\u0646\u063a\u064a\u0631\u064a"
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "\u00deingeyri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u00fdrafj\u00f6r\u00f0ur"
     ],
     "qs_pg:aaroncc":"IS",
@@ -94,7 +97,7 @@
     "qs_pg:woe_adm0":23424845,
     "qs_pg:woe_id":980495,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424845,
     "woe:name_adm0":"\u00cdsland",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1125830263,
-    "wof:lastmodified":1563364141,
+    "wof:lastmodified":1566720490,
     "wof:name":"Thingeyri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

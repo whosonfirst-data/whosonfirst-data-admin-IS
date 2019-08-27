@@ -10,12 +10,16 @@
     "geom:latitude":65.924805,
     "geom:longitude":-18.307813,
     "iso:country":"IS",
+    "lbl:bbox":"-18.327813,65.904805,-18.287813,65.944805",
     "lbl:latitude":65.924805,
     "lbl:longitude":-18.307813,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":65.924805,
     "mps:longitude":-18.307813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hauganes"
     ],
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":140,
     "wof:belongsto":[
         102191581,
@@ -56,7 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":980154,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q591322"
     },
     "wof:country":"IS",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":101870539,
-    "wof:lastmodified":1561769501,
+    "wof:lastmodified":1566720484,
     "wof:name":"Hauganes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

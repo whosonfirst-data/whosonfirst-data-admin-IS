@@ -13,10 +13,13 @@
     "iso:country":"IS",
     "lbl:latitude":64.104827,
     "lbl:longitude":-22.021879,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":64.104827,
     "mps:longitude":-22.021879,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u0641\u062a\u064a\u0646\u0633"
     ],
@@ -144,7 +147,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":64.107222,
     "wd:longitude":-22.016389,
@@ -158,7 +161,6 @@
     "wof:concordances":{
         "gn:id":3417972,
         "gp:id":56769903,
-        "qs:id":1244289,
         "qs_pg:id":1244289,
         "wd:id":"Q139045",
         "wk:page":"\u00c1lftanes"
@@ -174,7 +176,7 @@
         }
     ],
     "wof:id":101845651,
-    "wof:lastmodified":1563364073,
+    "wof:lastmodified":1566720480,
     "wof:name":"\u00c1lftanes",
     "wof:parent_id":85672493,
     "wof:placetype":"locality",

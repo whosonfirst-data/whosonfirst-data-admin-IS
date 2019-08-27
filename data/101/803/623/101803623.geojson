@@ -13,10 +13,13 @@
     "iso:country":"IS",
     "lbl:latitude":63.836943,
     "lbl:longitude":-21.062944,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":63.836943,
     "mps:longitude":-21.062944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u043e\u043a\u0441\u0435\u0439\u0440\u0438"
     ],
@@ -62,7 +65,7 @@
     "name:swe_x_preferred":[
         "Stokkseyri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stokkseyre"
     ],
     "name:zho_x_preferred":[
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":63.835556,
     "wd:longitude":-21.050556,
@@ -96,7 +99,6 @@
     "wof:concordances":{
         "gn:id":3413008,
         "gp:id":980471,
-        "qs:id":848305,
         "qs_pg:id":848305,
         "wd:id":"Q2294429",
         "wk:page":"Stokkseyri"
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101803623,
-    "wof:lastmodified":1563364097,
+    "wof:lastmodified":1566720482,
     "wof:name":"Stokkseyri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":-22.992252,
     "gn:population":145,
     "iso:country":"IS",
+    "lbl:bbox":"-23.012252,66.015001,-22.972252,66.055001",
     "lbl:latitude":66.035001,
     "lbl:longitude":-22.992252,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":66.035001,
     "mps:longitude":-22.992252,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "S\u00fa\u00f0av\u00edkurhreppur"
     ],
@@ -110,7 +114,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":389,
     "wof:belongsto":[
@@ -122,7 +126,6 @@
     "wof:concordances":{
         "gn:id":3412887,
         "gp:id":980483,
-        "qs:id":583045,
         "qs_pg:id":583045,
         "wd:id":"Q944111",
         "wk:page":"S\u00fa\u00f0av\u00edk"
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101870549,
-    "wof:lastmodified":1563364117,
+    "wof:lastmodified":1566720484,
     "wof:name":"S\u00fa\u00f0av\u00edk",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

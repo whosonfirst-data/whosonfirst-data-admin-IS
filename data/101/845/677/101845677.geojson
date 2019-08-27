@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
+    "geom:area_square_m":288094.142736,
     "geom:bbox":"-18.360971353,65.9414945127,-18.333275663,65.9457349502",
     "geom:latitude":65.944012,
     "geom:longitude":-18.347081,
     "iso:country":"IS",
     "lbl:latitude":65.943405,
     "lbl:longitude":-18.346871,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":65.943405,
     "mps:longitude":-18.346871,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Hr\u00edsey"
     ],
@@ -59,7 +64,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633249,
@@ -68,7 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"IS",
-    "wof:geomhash":"6594ab7fca99320ed65df8187c6e6de6",
+    "wof:geomhash":"396cb7480b8f3de3169e286f2b8ee4fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +83,7 @@
         }
     ],
     "wof:id":101845677,
-    "wof:lastmodified":1467242757,
+    "wof:lastmodified":1566720481,
     "wof:name":"\u00c1rsk\u00f3gssandur",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

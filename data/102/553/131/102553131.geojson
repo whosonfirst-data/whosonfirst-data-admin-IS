@@ -12,6 +12,7 @@
     "iso:country":"IS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Fagurh\u00f3lsm\u00fdri Airport"
     ],
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":102553131,
-    "wof:lastmodified":1563364048,
+    "wof:lastmodified":1566720471,
     "wof:name":"Fagurholsmyri Airport",
     "wof:parent_id":85672501,
     "wof:placetype":"campus",

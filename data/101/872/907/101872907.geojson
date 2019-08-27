@@ -11,12 +11,16 @@
     "geom:longitude":-14.312855,
     "gn:population":348,
     "iso:country":"IS",
+    "lbl:bbox":"-14.332855,64.63741,-14.292855,64.67741",
     "lbl:latitude":64.65741,
     "lbl:longitude":-14.312855,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":64.65741,
     "mps:longitude":-14.312855,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Dj\u00fapivogur"
     ],
@@ -114,7 +118,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":176,
     "wof:belongsto":[
@@ -126,7 +130,6 @@
     "wof:concordances":{
         "gn:id":2632226,
         "gp:id":980102,
-        "qs:id":492628,
         "qs_pg:id":492628,
         "wd:id":"Q1232324",
         "wk:page":"Dj\u00fapivogur"
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101872907,
-    "wof:lastmodified":1563364084,
+    "wof:lastmodified":1566720481,
     "wof:name":"Dj\u00fapivogur",
     "wof:parent_id":85672501,
     "wof:placetype":"locality",
