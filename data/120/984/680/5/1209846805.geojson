@@ -24,8 +24,12 @@
     "gn:population":10,
     "gn:timezone":"Atlantic/Reykjavik",
     "iso:country":"IS",
+    "lbl:bbox":"-23.21437,65.51,-23.17437,65.55",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Brjanslaekur"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209846805,
-    "wof:lastmodified":1537648805,
+    "wof:lastmodified":1566720475,
     "wof:name":"Brjanslaekur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

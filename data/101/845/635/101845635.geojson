@@ -13,10 +13,13 @@
     "iso:country":"IS",
     "lbl:latitude":63.862473,
     "lbl:longitude":-21.146878,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":63.862473,
     "mps:longitude":-21.146878,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0415\u0439\u0440\u0430\u0440\u0431\u0430\u043a\u0438"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":63.865278,
     "wd:longitude":-21.159167,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":3417528,
         "gp:id":980116,
-        "qs:id":375411,
         "qs_pg:id":375411,
         "wd:id":"Q2196757",
         "wk:page":"Eyrarbakki"
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101845635,
-    "wof:lastmodified":1563364075,
+    "wof:lastmodified":1566720480,
     "wof:name":"Eyrarbakki",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

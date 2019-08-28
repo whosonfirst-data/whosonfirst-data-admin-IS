@@ -9,15 +9,18 @@
     "geom:bbox":"-14.21832,65.03164,-14.21832,65.03164",
     "geom:latitude":65.03164,
     "geom:longitude":-14.21832,
-    "gn:gn_country":"IS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":766,
-    "gn:population":1152,
+    "gn:country":"IS",
+    "gn:fcode":"PPL",
+    "gn:population":766,
     "iso:country":"IS",
+    "lbl:bbox":"-14.23832,65.01164,-14.19832,65.05164",
     "lbl:latitude":65.03164,
     "lbl:longitude":-14.21832,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Reydarfjordur"
@@ -40,7 +43,7 @@
     "name:rus_x_preferred":[
         "\u0420\u0435\u0439\u0434\u0430\u0440\u0444\u044c\u043e\u0440\u0434\u044e\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u00fa\u00f0areyri"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +70,7 @@
     "qs_pg:woe_adm0":23424845,
     "qs_pg:woe_id":10645000,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424845,
     "woe:name_adm0":"\u00cdsland",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125815891,
-    "wof:lastmodified":1509393783,
+    "wof:lastmodified":1566720487,
     "wof:name":"Reydarfjordur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

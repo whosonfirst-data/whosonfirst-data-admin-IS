@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
+    "geom:area_square_m":596187.415896,
     "geom:bbox":"-21.4660583274,64.3949117461,-21.4201531454,64.4016646918",
     "geom:latitude":64.398066,
     "geom:longitude":-21.443368,
     "iso:country":"IS",
     "lbl:latitude":64.39838,
     "lbl:longitude":-21.441803,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.39838,
     "mps:longitude":-21.441803,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u00cdsland",
     "qs:a1":"*",
     "qs:a1r":"6",
@@ -30,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633249,
@@ -39,7 +44,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":980376,
-        "qs:id":215079,
         "qs_pg:id":215079
     },
     "wof:country":"IS",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101911603,
-    "wof:lastmodified":1497296311,
+    "wof:lastmodified":1566720484,
     "wof:name":"Pyrill",
     "wof:parent_id":85672529,
     "wof:placetype":"locality",

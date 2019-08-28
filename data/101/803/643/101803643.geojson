@@ -13,10 +13,13 @@
     "iso:country":"IS",
     "lbl:latitude":64.115453,
     "lbl:longitude":-20.49732,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":64.115453,
     "mps:longitude":-20.49732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Laugar\u00e1s"
     ],
@@ -47,7 +50,7 @@
     "name:swe_x_preferred":[
         "Laugar\u00e1s"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Laugards"
     ],
     "qs:a0":"\u00cdsland",
@@ -64,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3414868,
         "gp:id":28752663,
-        "qs:id":237079,
+        "qs_pg:id":237079,
         "wd:id":"Q210291"
     },
     "wof:country":"IS",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101803643,
-    "wof:lastmodified":1563364086,
+    "wof:lastmodified":1566720481,
     "wof:name":"Laugar\u00e1s",
     "wof:parent_id":85672519,
     "wof:placetype":"locality",

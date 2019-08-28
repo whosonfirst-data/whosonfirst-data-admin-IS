@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":64.779262,
     "lbl:longitude":-18.673522,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":64.779262,
     "mps:longitude":-18.673522,
     "mz:hierarchy_label":1,
@@ -915,19 +917,10 @@
     "name:ukr_x_preferred":[
         "\u0406\u0441\u043b\u0430\u043d\u0434\u0456\u044f"
     ],
-    "name:und_x_preferred":[
-        "Islandija",
-        "\u00cdsland"
-    ],
     "name:und_x_variant":[
         "Island\u00eda",
-        "Islanti",
-        "Isl\u00e0ndia",
         "Lydhveldidh Island",
         "Republika Islandija"
-    ],
-    "name:unk_x_variant":[
-        "Islanda"
     ],
     "name:urd_x_preferred":[
         "\u0622\u0626\u0633 \u0644\u06cc\u0646\u0688"
@@ -1089,7 +1082,7 @@
         "quattroshapes",
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"354",
     "statoids:ds":"IS",
@@ -1133,7 +1126,7 @@
         "mzb:id":"iceland",
         "ne:adm0_a3":"ISL",
         "nyt:id":"66705302048761897441",
-        "qs:id":373240,
+        "qs_pg:id":373240,
         "uncrt:id":"IS",
         "wd:id":"Q189",
         "wk:page":"Iceland",
@@ -1155,7 +1148,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1565723381,
+    "wof:lastmodified":1566720473,
     "wof:name":"Iceland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

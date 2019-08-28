@@ -11,12 +11,16 @@
     "geom:longitude":-20.280998,
     "gn:population":813,
     "iso:country":"IS",
+    "lbl:bbox":"-20.300998,65.65022,-20.260998,65.69022",
     "lbl:latitude":65.67022,
     "lbl:longitude":-20.280998,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":65.67022,
     "mps:longitude":-20.280998,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Bl\u00f6ndu\u00f3sb\u00e6r"
     ],
@@ -152,7 +156,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":65.666667,
     "wd:longitude":-20.3,
@@ -166,7 +170,7 @@
     "wof:concordances":{
         "gn:id":3418130,
         "gp:id":980062,
-        "qs:id":918208,
+        "qs_pg:id":918208,
         "wd:id":"Q887147",
         "wk:page":"Bl\u00f6ndu\u00f3s"
     },
@@ -181,7 +185,7 @@
         }
     ],
     "wof:id":101870529,
-    "wof:lastmodified":1563364116,
+    "wof:lastmodified":1566720484,
     "wof:name":"Bl\u00f6ndu\u00f3s",
     "wof:parent_id":85672507,
     "wof:placetype":"locality",

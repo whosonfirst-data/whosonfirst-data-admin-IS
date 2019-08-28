@@ -13,10 +13,13 @@
     "iso:country":"IS",
     "lbl:latitude":65.449511,
     "lbl:longitude":-22.205348,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":65.449511,
     "mps:longitude":-22.205348,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Reykh\u00f3lar"
     ],
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "Reykh\u00f3lar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Reykh\u00f3ar"
     ],
     "qs:a0":"\u00cdsland",
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":90,
     "wof:belongsto":[
@@ -85,7 +88,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3413877,
-        "qs:id":583066,
         "qs_pg:id":583066,
         "wd:id":"Q2786513",
         "wk:page":"Reykh\u00f3lar"
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101803675,
-    "wof:lastmodified":1563364085,
+    "wof:lastmodified":1566720481,
     "wof:name":"Reykh\u00f3lar",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

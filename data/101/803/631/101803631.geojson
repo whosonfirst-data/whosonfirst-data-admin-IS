@@ -13,10 +13,13 @@
     "iso:country":"IS",
     "lbl:latitude":65.076443,
     "lbl:longitude":-14.030141,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":65.076443,
     "mps:longitude":-14.030141,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Eskifj\u00f6r\u00f0ur"
     ],
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":65.072639,
     "wd:longitude":-14.016669,
@@ -118,7 +121,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2632028,
-        "qs:id":846954,
         "qs_pg:id":846954,
         "wd:id":"Q765521",
         "wk:page":"Eskifj\u00f6r\u00f0ur"
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":101803631,
-    "wof:lastmodified":1563364104,
+    "wof:lastmodified":1566720483,
     "wof:name":"Eskifj\u00f6r\u00f0ur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

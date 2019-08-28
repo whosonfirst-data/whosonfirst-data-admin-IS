@@ -11,12 +11,16 @@
     "geom:longitude":-14.019119,
     "gn:population":130,
     "iso:country":"IS",
+    "lbl:bbox":"-14.039119,64.769863,-13.999119,64.809863",
     "lbl:latitude":64.789863,
     "lbl:longitude":-14.019119,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":64.789863,
     "mps:longitude":-14.019119,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Brei\u00f0dalsv\u00edk"
     ],
@@ -67,7 +71,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":64.796667,
     "wd:longitude":-14.008333,
@@ -80,10 +84,12 @@
     "wof:concordances":{
         "gn:id":2632552,
         "gp:id":12523879,
-        "qs:id":7,
-        "qs_pg:id":575364,
+        "qs_pg:id":7,
         "wd:id":"Q2924383",
         "wk:page":"Brei\u00f0dalsv\u00edk"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":575364
     },
     "wof:country":"IS",
     "wof:geomhash":"de1beda1bc69488bf5042e4e83a84070",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":101872909,
-    "wof:lastmodified":1563364084,
+    "wof:lastmodified":1566720481,
     "wof:name":"Brei\u00f0dalsv\u00edk",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

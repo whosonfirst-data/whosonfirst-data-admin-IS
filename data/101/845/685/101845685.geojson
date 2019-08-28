@@ -9,14 +9,17 @@
     "geom:bbox":"-19.4628760803,65.5479671201,-19.4404815136,65.5564184045",
     "geom:latitude":65.551958,
     "geom:longitude":-19.450134,
-    "geonames:id":"2625499,7117225",
+    "gn:id":"2625499,7117225",
     "iso:country":"IS",
     "lbl:latitude":65.551983,
     "lbl:longitude":-19.448437,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":65.551983,
     "mps:longitude":-19.448437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Varmahl\u00ed\u00f0"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":205,
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":7117225,
         "gp:id":10645002,
-        "qs:id":1084844,
+        "qs_pg:id":1084844,
         "wd:id":"Q419691",
         "wk:page":"Varmahl\u00ed\u00f0"
     },
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101845685,
-    "wof:lastmodified":1563364078,
+    "wof:lastmodified":1566720480,
     "wof:name":"Varmahl\u00ed\u00f0",
     "wof:parent_id":85672507,
     "wof:placetype":"locality",

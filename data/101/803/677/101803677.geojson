@@ -13,10 +13,13 @@
     "iso:country":"IS",
     "lbl:latitude":65.700755,
     "lbl:longitude":-21.684225,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":65.700755,
     "mps:longitude":-21.684225,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "H\u00f3lmav\u00edk"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":65.716667,
     "wd:longitude":-21.683333,
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3416144,
         "gp:id":980228,
-        "qs:id":375399,
         "qs_pg:id":375399,
         "wd:id":"Q2292590",
         "wk:page":"H\u00f3lmav\u00edk"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101803677,
-    "wof:lastmodified":1563364100,
+    "wof:lastmodified":1566720482,
     "wof:name":"H\u00f3lmav\u00edk",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

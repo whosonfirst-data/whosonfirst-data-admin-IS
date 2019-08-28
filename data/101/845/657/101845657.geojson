@@ -9,15 +9,18 @@
     "geom:bbox":"-14.414182813,65.254489994,-14.378254716,65.2721445338",
     "geom:latitude":65.263038,
     "geom:longitude":-14.395154,
-    "geonames:id":"2632132,6354943",
+    "gn:id":"2632132,6354943",
     "gn:population":2303,
     "iso:country":"IS",
     "lbl:latitude":65.264685,
     "lbl:longitude":-14.393385,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":65.264685,
     "mps:longitude":-14.393385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Egilssta\u00f0ir"
     ],
@@ -172,7 +175,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":65.266667,
     "wd:longitude":-14.4,
@@ -186,10 +189,12 @@
     "wof:concordances":{
         "gn:id":6354943,
         "gp:id":980565,
-        "qs:id":235407,
-        "qs_pg:id":918237,
+        "qs_pg:id":235407,
         "wd:id":"Q14453",
         "wk:page":"Egilssta\u00f0ir"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":918237
     },
     "wof:country":"IS",
     "wof:geomhash":"c80f1bd40b526e7672c418c02bf5fee9",
@@ -202,7 +207,7 @@
         }
     ],
     "wof:id":101845657,
-    "wof:lastmodified":1563364077,
+    "wof:lastmodified":1566720480,
     "wof:name":"Egilssta\u00f0ir",
     "wof:parent_id":85672501,
     "wof:placetype":"locality",

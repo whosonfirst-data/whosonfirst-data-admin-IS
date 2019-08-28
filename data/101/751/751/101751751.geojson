@@ -12,6 +12,8 @@
     "iso:country":"IS",
     "lbl:latitude":64.002151,
     "lbl:longitude":-22.569022,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":64.002151,
     "mps:longitude":-22.569022,
     "mz:hierarchy_label":1,
@@ -224,9 +226,6 @@
         "Keflavik",
         "Keflavikurflugvoellur"
     ],
-    "name:und_x_preferred":[
-        "Keflav\u00edk"
-    ],
     "name:und_x_variant":[
         "Keflav\u00edkurflugvoellur"
     ],
@@ -356,7 +355,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":64.0,
     "wd:longitude":-22.581944,
     "wd:wordcount":474,
@@ -370,7 +369,6 @@
         "fct:id":"129c0e8c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3415496,
         "gp:id":980275,
-        "qs:id":212803,
         "qs_pg:id":212803,
         "wd:id":"Q170693",
         "wk:page":"Keflav\u00edk"
@@ -389,7 +387,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563364111,
+    "wof:lastmodified":1566720483,
     "wof:name":"Keflav\u00edk",
     "wof:parent_id":85672515,
     "wof:placetype":"locality",

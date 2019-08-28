@@ -13,6 +13,8 @@
     "iso:country":"IS",
     "lbl:latitude":64.558525,
     "lbl:longitude":-21.900443,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":64.558525,
     "mps:longitude":-21.900443,
     "mz:hierarchy_label":1,
@@ -271,7 +273,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":64.533333,
     "wd:longitude":-21.916667,
@@ -283,7 +285,6 @@
     "wof:concordances":{
         "gn:id":3418076,
         "gp:id":980070,
-        "qs:id":1104573,
         "qs_pg:id":1104573,
         "wd:id":"Q276537",
         "wk:page":"Borgarnes"
@@ -297,7 +298,7 @@
         }
     ],
     "wof:id":101803649,
-    "wof:lastmodified":1563364096,
+    "wof:lastmodified":1566720482,
     "wof:name":"Borgarnes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

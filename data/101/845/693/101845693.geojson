@@ -13,10 +13,13 @@
     "iso:country":"IS",
     "lbl:latitude":66.129324,
     "lbl:longitude":-23.52505,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":66.129324,
     "mps:longitude":-23.52505,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Su\u00f0ureyri"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":114,
     "wof:belongsto":[
@@ -92,7 +95,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3412878,
-        "qs:id":1152374,
         "qs_pg:id":1152374,
         "wd:id":"Q607127",
         "wk:page":"Su\u00f0ureyri"
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101845693,
-    "wof:lastmodified":1563364075,
+    "wof:lastmodified":1566720480,
     "wof:name":"Su\u00f0ureyri",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

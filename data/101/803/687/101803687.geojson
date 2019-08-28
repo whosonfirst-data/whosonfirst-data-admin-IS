@@ -13,10 +13,13 @@
     "iso:country":"IS",
     "lbl:latitude":64.922573,
     "lbl:longitude":-23.251974,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":64.922573,
     "mps:longitude":-23.251974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Grundarfj\u00f6r\u00f0ur"
     ],
@@ -93,7 +96,7 @@
     "name:swe_x_preferred":[
         "Grundarfj\u00f6r\u00f0ur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grafarnes"
     ],
     "name:vol_x_preferred":[
@@ -116,7 +119,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":64.916667,
     "wd:longitude":-23.25,
@@ -130,7 +133,7 @@
     "wof:concordances":{
         "gn:id":3416839,
         "gp:id":980160,
-        "qs:id":1104575,
+        "qs_pg:id":1104575,
         "wd:id":"Q1019459",
         "wk:page":"Grundarfj\u00f6r\u00f0ur"
     },
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101803687,
-    "wof:lastmodified":1563364089,
+    "wof:lastmodified":1566720482,
     "wof:name":"Grundarfj\u00f6r\u00f0ur",
     "wof:parent_id":85672529,
     "wof:placetype":"locality",

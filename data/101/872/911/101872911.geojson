@@ -11,12 +11,16 @@
     "geom:longitude":-14.253772,
     "gn:population":1152,
     "iso:country":"IS",
+    "lbl:bbox":"-14.273772,65.012722,-14.233772,65.052722",
     "lbl:latitude":65.032722,
     "lbl:longitude":-14.253772,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":65.032722,
     "mps:longitude":-14.253772,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Rey\u00f0arfj\u00f6r\u00f0ur"
     ],
@@ -95,7 +99,7 @@
     "name:swe_x_preferred":[
         "Rey\u00f0arfj\u00f6r\u00f0ur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u00fa\u00f0areyri"
     ],
     "name:vol_x_preferred":[
@@ -120,7 +124,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":65.032631,
     "wd:longitude":-14.220131,
@@ -134,7 +138,7 @@
     "wof:concordances":{
         "gn:id":2632428,
         "gp:id":10645000,
-        "qs:id":1084843,
+        "qs_pg:id":1084843,
         "wd:id":"Q1019443",
         "wk:page":"Rey\u00f0arfj\u00f6r\u00f0ur"
     },
@@ -149,7 +153,7 @@
         }
     ],
     "wof:id":101872911,
-    "wof:lastmodified":1563364085,
+    "wof:lastmodified":1566720481,
     "wof:name":"Rey\u00f0arfj\u00f6r\u00f0ur",
     "wof:parent_id":85672501,
     "wof:placetype":"locality",

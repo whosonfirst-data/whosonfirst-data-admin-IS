@@ -13,6 +13,8 @@
     "iso:country":"IS",
     "lbl:latitude":65.682965,
     "lbl:longitude":-18.10199,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":65.682965,
     "mps:longitude":-18.10199,
     "mz:hierarchy_label":1,
@@ -245,9 +247,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0443\u0440\u0435\u0439\u0440\u0456"
     ],
-    "name:und_x_preferred":[
-        "Akureyri"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u06a9\u0648\u0631\u06cc\u0631\u06d2"
     ],
@@ -380,7 +379,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":65.683333,
     "wd:longitude":-18.1,
@@ -396,10 +395,12 @@
         "fct:id":"129bf33e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2633274,
         "gp:id":980027,
-        "qs:id":351913,
-        "qs_pg:id":533739,
+        "qs_pg:id":351913,
         "wd:id":"Q29042",
         "wk:page":"Akureyri"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":533739
     },
     "wof:country":"IS",
     "wof:geomhash":"4b175b7b593c949e230822e3a9f2e287",
@@ -415,7 +416,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563364112,
+    "wof:lastmodified":1566720483,
     "wof:name":"Akureyri",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

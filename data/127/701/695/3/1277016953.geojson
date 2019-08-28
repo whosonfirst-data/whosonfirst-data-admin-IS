@@ -24,8 +24,12 @@
     "gn:population":48,
     "gn:timezone":"Atlantic/Reykjavik",
     "iso:country":"IS",
+    "lbl:bbox":"-20.91295,65.30624,-20.87295,65.34624",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Laugarbakki"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1277016953,
-    "wof:lastmodified":1537648805,
+    "wof:lastmodified":1566720474,
     "wof:name":"Laugarbakki",
     "wof:parent_id":85672507,
     "wof:placetype":"locality",

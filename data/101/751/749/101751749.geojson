@@ -13,10 +13,13 @@
     "iso:country":"IS",
     "lbl:latitude":64.169694,
     "lbl:longitude":-21.694096,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":64.169694,
     "mps:longitude":-21.694096,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0633\u0641\u0644\u0633\u0628\u064a\u0631"
     ],
@@ -167,7 +170,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1145,
     "wof:belongsto":[
@@ -179,7 +182,7 @@
     "wof:concordances":{
         "gn:id":3415021,
         "gp:id":980344,
-        "qs:id":481550,
+        "qs_pg:id":481550,
         "wd:id":"Q829859"
     },
     "wof:country":"IS",
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":101751749,
-    "wof:lastmodified":1563364110,
+    "wof:lastmodified":1566720483,
     "wof:name":"Mosfellsb\u00e6r",
     "wof:parent_id":85672493,
     "wof:placetype":"locality",
