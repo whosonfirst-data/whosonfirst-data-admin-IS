@@ -279,6 +279,9 @@
         "wk:page":"Selfoss (town)"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"74d9b354a5515fa2f107a2d9f672e27c",
     "wof:hierarchy":[
         {
@@ -289,7 +292,7 @@
         }
     ],
     "wof:id":101803625,
-    "wof:lastmodified":1566720482,
+    "wof:lastmodified":1582317862,
     "wof:name":"Selfoss",
     "wof:parent_id":85672519,
     "wof:placetype":"locality",

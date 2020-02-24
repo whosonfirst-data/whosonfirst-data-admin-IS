@@ -347,6 +347,9 @@
         "qs_pg:id":1104591
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c221d997b661453867b2dfb7307f406b",
     "wof:hierarchy":[
         {
@@ -357,7 +360,7 @@
         }
     ],
     "wof:id":101803683,
-    "wof:lastmodified":1566720482,
+    "wof:lastmodified":1582317862,
     "wof:name":"\u00cdsafj\u00f6r\u00f0ur",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

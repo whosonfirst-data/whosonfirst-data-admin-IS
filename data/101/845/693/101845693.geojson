@@ -100,6 +100,9 @@
         "wk:page":"Su\u00f0ureyri"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2f19c20cbf789026607866cf66d329a0",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101845693,
-    "wof:lastmodified":1566720480,
+    "wof:lastmodified":1582317861,
     "wof:name":"Su\u00f0ureyri",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

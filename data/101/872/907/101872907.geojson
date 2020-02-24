@@ -135,6 +135,10 @@
         "wk:page":"Dj\u00fapivogur"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b2b98af148433198c0f432075784da28",
     "wof:hierarchy":[
         {
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":101872907,
-    "wof:lastmodified":1566720481,
+    "wof:lastmodified":1582317861,
     "wof:name":"Dj\u00fapivogur",
     "wof:parent_id":85672501,
     "wof:placetype":"locality",

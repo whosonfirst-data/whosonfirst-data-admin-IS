@@ -127,6 +127,9 @@
         "wk:page":"Skagastr\u00f6nd"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"beca3a988b7baed2b6122c457ab4699b",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101803661,
-    "wof:lastmodified":1566720482,
+    "wof:lastmodified":1582317862,
     "wof:name":"Skagastr\u00f6nd",
     "wof:parent_id":85672507,
     "wof:placetype":"locality",

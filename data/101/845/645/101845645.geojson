@@ -193,6 +193,9 @@
         "wk:page":"Grindav\u00edk"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"668587a589f1dd1924eb16a38f95bb8d",
     "wof:hierarchy":[
         {
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":101845645,
-    "wof:lastmodified":1566720480,
+    "wof:lastmodified":1582317861,
     "wof:name":"Grindav\u00edk",
     "wof:parent_id":85672515,
     "wof:placetype":"locality",

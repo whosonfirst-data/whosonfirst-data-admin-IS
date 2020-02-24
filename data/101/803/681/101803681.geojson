@@ -84,6 +84,9 @@
         "wk:page":"Hn\u00edfsdalur"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c835352172077a52ea4085031659986e",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101803681,
-    "wof:lastmodified":1566720481,
+    "wof:lastmodified":1582317862,
     "wof:name":"Hn\u00edfsdalur",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

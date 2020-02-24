@@ -290,6 +290,9 @@
         "wk:page":"Borgarnes"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"899e0382fdf1e7037996e7cd6c81c995",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
         }
     ],
     "wof:id":101803649,
-    "wof:lastmodified":1566720482,
+    "wof:lastmodified":1582317862,
     "wof:name":"Borgarnes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

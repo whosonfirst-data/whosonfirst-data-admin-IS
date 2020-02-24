@@ -93,6 +93,9 @@
         "wk:page":"Flateyri"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a882032865575a404d3ec5837a3730dc",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101845691,
-    "wof:lastmodified":1566720481,
+    "wof:lastmodified":1582317861,
     "wof:name":"Flateyri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

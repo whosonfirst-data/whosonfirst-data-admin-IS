@@ -113,6 +113,10 @@
         "wk:page":"Hafnir"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"c2769ae25c129dc9d04cf4e65d28dfa8",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":101870531,
-    "wof:lastmodified":1566720484,
+    "wof:lastmodified":1582317863,
     "wof:name":"Hafnir",
     "wof:parent_id":85672515,
     "wof:placetype":"locality",

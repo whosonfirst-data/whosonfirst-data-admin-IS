@@ -148,6 +148,9 @@
         "wk:page":"Stykkish\u00f3lmur"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"81e49f9412a0c17c748cf9127637cf6b",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":101803655,
-    "wof:lastmodified":1566720483,
+    "wof:lastmodified":1582317862,
     "wof:name":"Stykkish\u00f3lmur",
     "wof:parent_id":85672529,
     "wof:placetype":"locality",

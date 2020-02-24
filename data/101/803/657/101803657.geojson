@@ -107,6 +107,9 @@
         "wk:page":"Hellissandur"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2f5372df63debb51782a71a83ce01ecb",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101803657,
-    "wof:lastmodified":1566720482,
+    "wof:lastmodified":1582317862,
     "wof:name":"Hellissandur",
     "wof:parent_id":85672529,
     "wof:placetype":"locality",

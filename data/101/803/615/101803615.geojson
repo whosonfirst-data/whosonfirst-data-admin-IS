@@ -248,6 +248,9 @@
         "wd:id":"Q187251"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f92661bf5ff2c1ce8357396cd9c0c5c1",
     "wof:hierarchy":[
         {
@@ -261,7 +264,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566720482,
+    "wof:lastmodified":1582317862,
     "wof:name":"Vestmannaeyjar",
     "wof:parent_id":85672519,
     "wof:placetype":"locality",

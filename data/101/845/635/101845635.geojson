@@ -101,6 +101,9 @@
         "wk:page":"Eyrarbakki"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"58b92628690cb1a94b872adfdfbaa435",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101845635,
-    "wof:lastmodified":1566720480,
+    "wof:lastmodified":1582317861,
     "wof:name":"Eyrarbakki",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -116,6 +116,9 @@
         "wk:page":"H\u00f3lmav\u00edk"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a51cf7e190d19b4b8c96ab1b0bb665ad",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101803677,
-    "wof:lastmodified":1566720482,
+    "wof:lastmodified":1582317862,
     "wof:name":"H\u00f3lmav\u00edk",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

@@ -118,6 +118,9 @@
         "wd:id":"Q337924"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9d043864467791ae96cc5b3c4ad9b8a8",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101845679,
-    "wof:lastmodified":1566720481,
+    "wof:lastmodified":1582317861,
     "wof:name":"Greniv\u00edk",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

@@ -168,6 +168,9 @@
         "qs_pg:id":1091431
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f8a99f587c62c3f9ac1426c1b2ad00ab",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":101845667,
-    "wof:lastmodified":1566720480,
+    "wof:lastmodified":1582317861,
     "wof:name":"Rif",
     "wof:parent_id":85672529,
     "wof:placetype":"locality",

@@ -132,6 +132,9 @@
         "wk:page":"Vogar"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e03980e3e596f89adfab3251ab8e025b",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101845649,
-    "wof:lastmodified":1566720480,
+    "wof:lastmodified":1582317861,
     "wof:name":"Vogar",
     "wof:parent_id":85672515,
     "wof:placetype":"locality",

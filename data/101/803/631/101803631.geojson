@@ -126,6 +126,9 @@
         "wk:page":"Eskifj\u00f6r\u00f0ur"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f3028cb02dceba2cef88f74a6b973e8c",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101803631,
-    "wof:lastmodified":1566720483,
+    "wof:lastmodified":1582317862,
     "wof:name":"Eskifj\u00f6r\u00f0ur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

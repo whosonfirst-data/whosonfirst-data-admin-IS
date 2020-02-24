@@ -104,6 +104,9 @@
         "wk:page":"Stokkseyri"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"00abfadb5e5f1c604fbaea3931469197",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101803623,
-    "wof:lastmodified":1566720482,
+    "wof:lastmodified":1582317862,
     "wof:name":"Stokkseyri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

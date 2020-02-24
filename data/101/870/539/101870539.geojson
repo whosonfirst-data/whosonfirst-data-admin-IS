@@ -64,6 +64,9 @@
         "wd:id":"Q591322"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"537c8a6e96173ea62b9d38d78b36efbe",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101870539,
-    "wof:lastmodified":1566720484,
+    "wof:lastmodified":1582317863,
     "wof:name":"Hauganes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

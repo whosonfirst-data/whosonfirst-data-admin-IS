@@ -151,6 +151,9 @@
         "wk:page":"Bolungarv\u00edk"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"297fa02f34f1bcb29f2e4d222c12ebe0",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101803685,
-    "wof:lastmodified":1566720482,
+    "wof:lastmodified":1582317862,
     "wof:name":"Bolungarv\u00edk",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

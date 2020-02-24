@@ -123,6 +123,9 @@
         "wk:page":"\u00d3lafsfj\u00f6r\u00f0ur"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"34b8164fa284f9af9598455d1156c21e",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101803669,
-    "wof:lastmodified":1566720482,
+    "wof:lastmodified":1582317862,
     "wof:name":"\u00d3lafsfj\u00f6r\u00f0ur",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

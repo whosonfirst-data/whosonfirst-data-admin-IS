@@ -93,6 +93,9 @@
         "wk:page":"Reykh\u00f3lar"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"049ec18328b6e8fca4efc49749e67ae5",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101803675,
-    "wof:lastmodified":1566720481,
+    "wof:lastmodified":1582317861,
     "wof:name":"Reykh\u00f3lar",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

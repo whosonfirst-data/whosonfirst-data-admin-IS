@@ -298,6 +298,9 @@
         "wk:page":"K\u00f3pavogur"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"120beaa2f5108c09f89b3c2871e55930",
     "wof:hierarchy":[
         {
@@ -311,7 +314,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566720479,
+    "wof:lastmodified":1582317861,
     "wof:name":"K\u00f3pavogur",
     "wof:parent_id":85672493,
     "wof:placetype":"locality",
