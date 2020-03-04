@@ -112,6 +112,9 @@
         "wd:id":"Q1413838"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0deab3bc1fd80705468c5a95260860a4",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101803641,
-    "wof:lastmodified":1566720482,
+    "wof:lastmodified":1582317862,
     "wof:name":"Laugarvatn",
     "wof:parent_id":85672519,
     "wof:placetype":"locality",

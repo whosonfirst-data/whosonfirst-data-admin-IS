@@ -95,6 +95,10 @@
         "wk:page":"B\u00edldudalur"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5997d05259588230d4d765ae622b14fc",
     "wof:hierarchy":[
         {
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":101870547,
-    "wof:lastmodified":1566720484,
+    "wof:lastmodified":1582317863,
     "wof:name":"B\u00edldudalur",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

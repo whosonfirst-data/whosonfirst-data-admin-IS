@@ -70,6 +70,9 @@
         "wd:id":"Q6529399"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b8326b6601d774458404b9ee41698466",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101870527,
-    "wof:lastmodified":1566720484,
+    "wof:lastmodified":1582317863,
     "wof:name":"Svalbar\u00f0seyri",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

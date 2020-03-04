@@ -118,6 +118,9 @@
         "wk:page":"Hvolsv\u00f6llur"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"43083735e938f682bd035c8a1a4fde61",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101803619,
-    "wof:lastmodified":1566720481,
+    "wof:lastmodified":1582317862,
     "wof:name":"Hvolsv\u00f6llur",
     "wof:parent_id":85672519,
     "wof:placetype":"locality",

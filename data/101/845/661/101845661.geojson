@@ -118,6 +118,9 @@
         "wk:page":"Reykjahl\u00ed\u00f0"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4a6d45e24c20712eb21501896ccf9ba3",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101845661,
-    "wof:lastmodified":1566720480,
+    "wof:lastmodified":1582317861,
     "wof:name":"Reykjahl\u00ed\u00f0",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

@@ -296,6 +296,9 @@
         "wk:page":"Hafnarfj\u00f6r\u00f0ur"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"34035afd1a577b06b11803fac96088cf",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
         }
     ],
     "wof:id":101751745,
-    "wof:lastmodified":1566720483,
+    "wof:lastmodified":1582317862,
     "wof:name":"Hafnafj\u00f6r\u00f0ur",
     "wof:parent_id":85672493,
     "wof:placetype":"locality",

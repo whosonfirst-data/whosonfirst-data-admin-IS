@@ -104,6 +104,9 @@
         "wk:page":"Raufarh\u00f6fn"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e208df12e8b86b662824143534d7082c",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101803665,
-    "wof:lastmodified":1566720483,
+    "wof:lastmodified":1582317862,
     "wof:name":"Raufarh\u00f6fn",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

@@ -175,6 +175,9 @@
         "wk:page":"Bl\u00f6ndu\u00f3s"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a62083476f0cd57dc5bea4a12b21c5bb",
     "wof:hierarchy":[
         {
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":101870529,
-    "wof:lastmodified":1566720484,
+    "wof:lastmodified":1582317863,
     "wof:name":"Bl\u00f6ndu\u00f3s",
     "wof:parent_id":85672507,
     "wof:placetype":"locality",

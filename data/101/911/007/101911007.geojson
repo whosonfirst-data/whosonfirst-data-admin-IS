@@ -49,6 +49,9 @@
         "qs_pg:id":216130
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fef2a80f69c53fe08a7fd738c76a51a9",
     "wof:hierarchy":[
         {
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101911007,
-    "wof:lastmodified":1566720484,
+    "wof:lastmodified":1582317863,
     "wof:name":"Svalbaroseyri",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

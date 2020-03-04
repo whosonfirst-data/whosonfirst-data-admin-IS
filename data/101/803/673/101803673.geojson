@@ -97,6 +97,9 @@
         "wk:page":"Hofs\u00f3s"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d238ccd106e03b15ad4a1fcf14fad4fd",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101803673,
-    "wof:lastmodified":1566720481,
+    "wof:lastmodified":1582317862,
     "wof:name":"Hofs\u00f3s",
     "wof:parent_id":85672507,
     "wof:placetype":"locality",

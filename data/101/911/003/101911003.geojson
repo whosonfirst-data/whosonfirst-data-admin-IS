@@ -92,6 +92,9 @@
         "wk:page":"Brei\u00f0dalsv\u00edk"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"681338cce37060cbdf4bc509ea16df69",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101911003,
-    "wof:lastmodified":1566720484,
+    "wof:lastmodified":1582317863,
     "wof:name":"Brei\u00ffdalsv\u00edk",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

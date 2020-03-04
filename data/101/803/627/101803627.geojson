@@ -134,6 +134,9 @@
         "wk:page":"Kirkjub\u00e6jarklaustur"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"05cd6418393fdb88947f4a342f26fc79",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":101803627,
-    "wof:lastmodified":1566720482,
+    "wof:lastmodified":1582317862,
     "wof:name":"Kirkjub\u00e6jarklaustur",
     "wof:parent_id":85672519,
     "wof:placetype":"locality",

@@ -197,6 +197,9 @@
         "qs_pg:id":918237
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c80f1bd40b526e7672c418c02bf5fee9",
     "wof:hierarchy":[
         {
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":101845657,
-    "wof:lastmodified":1566720480,
+    "wof:lastmodified":1582317861,
     "wof:name":"Egilssta\u00f0ir",
     "wof:parent_id":85672501,
     "wof:placetype":"locality",

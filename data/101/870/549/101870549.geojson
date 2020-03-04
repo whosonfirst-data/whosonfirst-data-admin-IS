@@ -131,6 +131,10 @@
         "wk:page":"S\u00fa\u00f0av\u00edk"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"1ea9f5472d76fd7d9692d3d9bd1cd89d",
     "wof:hierarchy":[
         {
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":101870549,
-    "wof:lastmodified":1566720484,
+    "wof:lastmodified":1582317863,
     "wof:name":"S\u00fa\u00f0av\u00edk",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

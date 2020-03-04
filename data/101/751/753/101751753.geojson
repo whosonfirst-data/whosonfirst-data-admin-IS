@@ -747,6 +747,9 @@
         "wk:page":"Reykjav\u00edk"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a9105e9a4471034f28a4f7e3913cbcfc",
     "wof:hierarchy":[
         {
@@ -760,7 +763,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566720483,
+    "wof:lastmodified":1582317862,
     "wof:megacity":0,
     "wof:name":"Reykjavik",
     "wof:parent_id":85672493,

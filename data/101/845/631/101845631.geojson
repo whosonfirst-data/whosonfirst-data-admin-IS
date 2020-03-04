@@ -151,6 +151,9 @@
         "wk:page":"V\u00edk \u00ed M\u00fdrdal"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c4cfd4f2f65e80514462c19a3e67c665",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101845631,
-    "wof:lastmodified":1566720481,
+    "wof:lastmodified":1582317861,
     "wof:name":"V\u00edk",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

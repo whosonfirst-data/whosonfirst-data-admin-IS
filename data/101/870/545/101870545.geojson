@@ -84,6 +84,9 @@
         "wd:id":"Q1337557"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b51546d87a0ae42ef90c6bfe68b08d58",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101870545,
-    "wof:lastmodified":1566720484,
+    "wof:lastmodified":1582317863,
     "wof:name":"T\u00e1lknafj\u00f6r\u00f0ur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

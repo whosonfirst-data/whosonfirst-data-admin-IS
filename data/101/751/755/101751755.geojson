@@ -254,6 +254,9 @@
         "wk:page":"Akranes"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"46e685127f90f799dee92c9f1a41513f",
     "wof:hierarchy":[
         {
@@ -267,7 +270,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566720483,
+    "wof:lastmodified":1582317862,
     "wof:name":"Akranes",
     "wof:parent_id":85672529,
     "wof:placetype":"locality",

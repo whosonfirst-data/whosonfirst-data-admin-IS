@@ -177,6 +177,9 @@
         "wk:page":"Dalv\u00edk"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"60af60d1ed5ff0660e4424f4e6a2f442",
     "wof:hierarchy":[
         {
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":101803659,
-    "wof:lastmodified":1566720482,
+    "wof:lastmodified":1582317862,
     "wof:name":"Dalv\u00edk",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

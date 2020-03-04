@@ -112,6 +112,9 @@
         "wk:page":"Patreksfj\u00f6r\u00f0ur"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2c368fda4a9f149568ac98ca83b49105",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101845689,
-    "wof:lastmodified":1566720480,
+    "wof:lastmodified":1582317861,
     "wof:name":"Patreksfj\u00f6r\u00f0ur",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

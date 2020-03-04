@@ -374,6 +374,9 @@
         "wk:page":"Keflav\u00edk"
     },
     "wof:country":"IS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"253c2cb51d73951a464616f68d7b3537",
     "wof:hierarchy":[
         {
@@ -387,7 +390,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566720483,
+    "wof:lastmodified":1582317862,
     "wof:name":"Keflav\u00edk",
     "wof:parent_id":85672515,
     "wof:placetype":"locality",
