@@ -755,7 +755,9 @@
         85672493
     ],
     "wof:breaches":[],
-    "wof:capital_of":85633249,
+    "wof:capital_of":[
+        85633249
+    ],
     "wof:concordances":{
         "dbp:id":"Reykjavik",
         "fb:id":"en.reykjavik",
@@ -784,7 +786,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1587427904,
+    "wof:lastmodified":1607390900,
     "wof:megacity":0,
     "wof:name":"Reykjavik",
     "wof:parent_id":85672493,
