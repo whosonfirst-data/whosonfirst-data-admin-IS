@@ -19,6 +19,10 @@
     "name:eng_x_preferred":[
         "Grundarfj\u00f6r\u00f0ur Airport"
     ],
+    "name:eng_x_variant":[
+        "GUU",
+        "BIGF"
+    ],
     "name:ron_x_preferred":[
         "Aeroportul Grundarfj\u00f6r\u00f0ur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":102553135,
-    "wof:lastmodified":1566720471,
+    "wof:lastmodified":1631744934,
     "wof:name":"Grundarfjordur Airport",
     "wof:parent_id":85672529,
     "wof:placetype":"campus",

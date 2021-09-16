@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-23.1352777778,66.0580555556,-23.1352777778,66.0580555556",
+    "geom:bbox":"-23.135278,66.058056,-23.135278,66.058056",
     "geom:latitude":66.058056,
     "geom:longitude":-23.135278,
     "iso:country":"IS",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "\u00cdsafj\u00f6r\u00f0ur Airport"
+    ],
+    "name:eng_x_variant":[
+        "IFJ",
+        "BIIS"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0633\u0627\u0641\u06cc\u0648\u0631\u062f\u0648\u0631"
@@ -90,7 +94,7 @@
         "wd:id":"Q1433313"
     },
     "wof:country":"IS",
-    "wof:geomhash":"59f3f2d513f2c0452280da4ebcfd6657",
+    "wof:geomhash":"fa380b948a605fc332443a3d45266110",
     "wof:hierarchy":[
         {
             "campus_id":102553079,
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":102553079,
-    "wof:lastmodified":1566720471,
+    "wof:lastmodified":1631744935,
     "wof:name":"Isafjordur Airport",
     "wof:parent_id":85672497,
     "wof:placetype":"campus",
@@ -111,10 +115,10 @@
     ]
 },
   "bbox": [
-    -23.135277777778,
-    66.058055555556,
-    -23.135277777778,
-    66.058055555556
+    -23.135278,
+    66.058056,
+    -23.135278,
+    66.058056
 ],
-  "geometry": {"coordinates":[-23.135277777778,66.058055555556],"type":"Point"}
+  "geometry": {"coordinates":[-23.135278,66.05805599999999],"type":"Point"}
 }

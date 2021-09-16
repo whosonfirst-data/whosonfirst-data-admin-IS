@@ -19,6 +19,10 @@
     "name:eng_x_preferred":[
         "Nor\u00f0fj\u00f6r\u00f0ur Airport"
     ],
+    "name:eng_x_variant":[
+        "NOR",
+        "BINF"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Nordfjordur"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":102553129,
-    "wof:lastmodified":1566720471,
+    "wof:lastmodified":1631744935,
     "wof:name":"Nordfjordur Airport",
     "wof:parent_id":85672501,
     "wof:placetype":"campus",

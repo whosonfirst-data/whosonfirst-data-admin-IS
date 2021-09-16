@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-18.9166666667,66.1333333333,-18.9166666667,66.1333333333",
+    "geom:bbox":"-18.916667,66.133333,-18.916667,66.133333",
     "geom:latitude":66.133333,
     "geom:longitude":-18.916667,
     "iso:country":"IS",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Siglufj\u00f6r\u00f0ur Airport"
+    ],
+    "name:eng_x_variant":[
+        "SIJ",
+        "BISI"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u06cc\u0644\u06af\u0648\u0641\u06cc\u0648\u0631\u0648\u0631"
@@ -66,7 +70,7 @@
         "wd:id":"Q2875922"
     },
     "wof:country":"IS",
-    "wof:geomhash":"951a7434c9d66f49c29483ac9fa45869",
+    "wof:geomhash":"b0c60947ee03e755d84999f907732be1",
     "wof:hierarchy":[
         {
             "campus_id":102553089,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":102553089,
-    "wof:lastmodified":1566720471,
+    "wof:lastmodified":1631744935,
     "wof:name":"Siglufjordur Airport",
     "wof:parent_id":85672511,
     "wof:placetype":"campus",
@@ -87,10 +91,10 @@
     ]
 },
   "bbox": [
-    -18.916666666667,
-    66.133333333333,
-    -18.916666666667,
-    66.133333333333
+    -18.916667,
+    66.133333,
+    -18.916667,
+    66.133333
 ],
-  "geometry": {"coordinates":[-18.916666666667,66.133333333333],"type":"Point"}
+  "geometry": {"coordinates":[-18.916667,66.13333299999999],"type":"Point"}
 }

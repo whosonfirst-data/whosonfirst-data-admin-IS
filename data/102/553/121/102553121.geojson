@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-17.4258333333,65.9522222222,-17.4258333333,65.9522222222",
+    "geom:bbox":"-17.425833,65.952222,-17.425833,65.952222",
     "geom:latitude":65.952222,
     "geom:longitude":-17.425833,
     "iso:country":"IS",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "H\u00fasav\u00edk Airport"
+    ],
+    "name:eng_x_variant":[
+        "HZK",
+        "BIHU"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0648\u0633\u0627\u0648\u06cc\u06a9"
@@ -75,7 +79,7 @@
         "wd:id":"Q2875836"
     },
     "wof:country":"IS",
-    "wof:geomhash":"7456a702dc9aa2491e34101da644b191",
+    "wof:geomhash":"74edc70aba2931af24d6107787f3fdfc",
     "wof:hierarchy":[
         {
             "campus_id":102553121,
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":102553121,
-    "wof:lastmodified":1566720471,
+    "wof:lastmodified":1631744935,
     "wof:name":"Husavik Airport",
     "wof:parent_id":85672511,
     "wof:placetype":"campus",
@@ -96,10 +100,10 @@
     ]
 },
   "bbox": [
-    -17.425833333333,
-    65.952222222222,
-    -17.425833333333,
-    65.952222222222
+    -17.425833,
+    65.952222,
+    -17.425833,
+    65.952222
 ],
-  "geometry": {"coordinates":[-17.425833333333,65.95222222222201],"type":"Point"}
+  "geometry": {"coordinates":[-17.425833,65.95222200000001],"type":"Point"}
 }

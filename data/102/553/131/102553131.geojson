@@ -19,6 +19,10 @@
     "name:eng_x_preferred":[
         "Fagurh\u00f3lsm\u00fdri Airport"
     ],
+    "name:eng_x_variant":[
+        "FAG",
+        "BIFM"
+    ],
     "name:ron_x_preferred":[
         "Aeroportul Fagurh\u00f3lsm\u00fdri"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":102553131,
-    "wof:lastmodified":1566720471,
+    "wof:lastmodified":1631744935,
     "wof:name":"Fagurholsmyri Airport",
     "wof:parent_id":85672501,
     "wof:placetype":"campus",

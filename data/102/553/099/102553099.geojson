@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-14.4013888889,65.2833333333,-14.4013888889,65.2833333333",
+    "geom:bbox":"-14.401389,65.283333,-14.401389,65.283333",
     "geom:latitude":65.283333,
     "geom:longitude":-14.401389,
     "iso:country":"IS",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Egilssta\u00f0ir Airport"
+    ],
+    "name:eng_x_variant":[
+        "EGS",
+        "BIEG"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06af\u06cc\u0644\u0633\u062a\u0627\u062f\u06cc\u0631"
@@ -99,7 +103,7 @@
         "wd:id":"Q974363"
     },
     "wof:country":"IS",
-    "wof:geomhash":"20473c7901f6a7eb99fc764ab49496be",
+    "wof:geomhash":"1e9e1af73b12cbaef5af8a071fee884a",
     "wof:hierarchy":[
         {
             "campus_id":102553099,
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":102553099,
-    "wof:lastmodified":1566720471,
+    "wof:lastmodified":1631744935,
     "wof:name":"Egilsstadir Airport",
     "wof:parent_id":85672501,
     "wof:placetype":"campus",
@@ -120,10 +124,10 @@
     ]
 },
   "bbox": [
-    -14.401388888889,
-    65.283333333333,
-    -14.401388888889,
-    65.283333333333
+    -14.401389,
+    65.283333,
+    -14.401389,
+    65.283333
 ],
-  "geometry": {"coordinates":[-14.401388888889,65.283333333333],"type":"Point"}
+  "geometry": {"coordinates":[-14.401389,65.283333],"type":"Point"}
 }

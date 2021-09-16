@@ -19,6 +19,10 @@
     "name:eng_x_preferred":[
         "\u00d3lafsfj\u00f6r\u00f0ur Airport"
     ],
+    "name:eng_x_variant":[
+        "OFJ",
+        "BIOF"
+    ],
     "name:ron_x_preferred":[
         "Aeroportul \u00d3lafsfj\u00f6r\u00f0ur"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":102553151,
-    "wof:lastmodified":1566720471,
+    "wof:lastmodified":1631744934,
     "wof:name":"Olafsfjordur Airport",
     "wof:parent_id":85672511,
     "wof:placetype":"campus",
