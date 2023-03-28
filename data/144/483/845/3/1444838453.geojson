@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-21.8161593501,64.1517946649,-21.8161593501,64.1517946649",
+    "geom:bbox":"-21.81615935011201,64.1517946649012,-21.81615935011201,64.1517946649012",
     "geom:latitude":64.151795,
     "geom:longitude":-21.816159,
     "iso:country":"IS",
@@ -24,17 +24,23 @@
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
     "name:eng_x_preferred":[
+        "Gufunes"
+    ],
+    "name:eng_x_variant":[
         "Gufenes"
     ],
     "name:isl_x_preferred":[
+        "Gufunes"
+    ],
+    "name:isl_x_variant":[
         "Gufenes"
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        101751753,
         85633249,
+        101751753,
         85672493
     ],
     "wof:breaches":[],
@@ -50,8 +56,8 @@
         }
     ],
     "wof:id":1444838453,
-    "wof:lastmodified":1566720476,
-    "wof:name":"Gufenes",
+    "wof:lastmodified":1680027063,
+    "wof:name":"Gufunes",
     "wof:parent_id":101751753,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-is",
