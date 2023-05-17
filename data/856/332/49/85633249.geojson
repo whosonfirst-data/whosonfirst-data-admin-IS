@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"IS",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"\u00cdsland",
+    "eurostat:name_local":"\u00cdsland",
+    "eurostat:nuts_2021_id":"IS00",
+    "eurostat:nuts_2021_level_0":"IS",
+    "eurostat:nuts_2021_level_1":"IS0",
+    "eurostat:nuts_2021_level_2":"IS00",
+    "eurostat:population":376248,
+    "eurostat:population_year":2022,
     "geom:area":19.480653,
-    "geom:area_square_m":101829565699.802536,
+    "geom:area_square_m":101829565699.802551,
     "geom:bbox":"-24.527584,63.390362,-13.490861,66.540413",
     "geom:latitude":64.990496,
     "geom:longitude":-18.584054,
@@ -1180,7 +1190,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:dial":"354",
     "statoids:ds":"IS",
     "statoids:fifa":"ISL",
@@ -1209,6 +1220,7 @@
     "wof:concordances":{
         "dbp:id":"Iceland",
         "digitalenvoy:country_code":352,
+        "eurostat:nuts_2021_id":"IS00",
         "fb:id":"en.iceland",
         "fifa:id":"ISL",
         "fips:code":"IC",
@@ -1238,7 +1250,7 @@
         "quattroshapes",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"597fb53909ea088297172ffa9ae85b3a",
+    "wof:geomhash":"9f60740c7bd5fbf5e2479f52d2778e33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1252,11 +1264,11 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1617827400,
+    "wof:lastmodified":1684351435,
     "wof:name":"Iceland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":317351,
+    "wof:population":376248,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-is",
     "wof:shortcode":"IS",
