@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Seltjarnarnes"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0435\u043b\u0446\u044c\u044f\u0440\u043d\u0430\u0440\u043d\u0435\u0441"
     ],
@@ -46,6 +49,9 @@
     "name:epo_x_preferred":[
         "Seltjarnarnes"
     ],
+    "name:est_x_preferred":[
+        "Seltjarnarnes"
+    ],
     "name:eus_x_preferred":[
         "Seltjarnarnes"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05dc\u05d8\u05d9\u05d9\u05e8\u05e0\u05e8\u05e0\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Seltjarnarnes"
     ],
     "name:hye_x_preferred":[
         "\u054d\u0565\u056c\u0569\u0575\u0561\u0580\u0576\u0561\u0580\u0576\u0565\u057d"
@@ -87,6 +96,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc140\ud2f0\uc544\ub974\ub4dc\ub098\ub974\ub4dc\ub124\uc2a4"
+    ],
+    "name:kor_x_variant":[
+        "\uc140\ud2f0\uc544\ub974\ub4dc\ub098\ub974\ub124\uc2a4"
     ],
     "name:lat_x_preferred":[
         "Seltjarnarnes"
@@ -142,6 +154,9 @@
     "name:swe_x_preferred":[
         "Seltjarnarnes"
     ],
+    "name:tur_x_preferred":[
+        "Seltjarnarnes"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043b\u0442\u044c\u044f\u0440\u043d\u0430\u0440\u043d\u0435\u0441"
     ],
@@ -184,7 +199,7 @@
         }
     ],
     "wof:id":1125907325,
-    "wof:lastmodified":1566720487,
+    "wof:lastmodified":1690934649,
     "wof:name":"Seltjarnarnes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

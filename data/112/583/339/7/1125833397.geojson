@@ -31,8 +31,14 @@
     "name:eng_x_variant":[
         "S\u00f3lheimar Ecovillage"
     ],
+    "name:fin_x_preferred":[
+        "S\u00f3lheimar"
+    ],
     "name:isl_x_preferred":[
         "S\u00f3lheimar \u00ed Gr\u00edmsnesi"
+    ],
+    "name:isl_x_variant":[
+        "S\u00f3lheimar"
     ],
     "name:jpn_x_preferred":[
         "\u30bd\u30a5\u30eb\u30d8\u30a4\u30de\u30eb"
@@ -42,6 +48,12 @@
     ],
     "name:pol_x_preferred":[
         "S\u00f3lheimar"
+    ],
+    "name:por_x_preferred":[
+        "S\u00f3lheimar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u0445\u0435\u0439\u043c\u0430\u0440"
     ],
     "qs_pg:aaroncc":"IS",
     "qs_pg:gn_country":"IS",
@@ -80,7 +92,7 @@
         }
     ],
     "wof:id":1125833397,
-    "wof:lastmodified":1566720490,
+    "wof:lastmodified":1690934652,
     "wof:name":"S\u00f3lheimar",
     "wof:parent_id":85672519,
     "wof:placetype":"locality",

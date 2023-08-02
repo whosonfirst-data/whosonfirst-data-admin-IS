@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Vopnafj\u00f6r\u00f0ur"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0430\u043f\u043d\u0430\u0444\u044c\u0451\u0440\u0434\u0437\u044e\u0440"
+    ],
+    "name:bel_x_variant":[
+        "\u0412\u0430\u043f\u043d\u0430\u0444\u0456\u0451\u0440\u0434\u0437\u044e\u0440"
     ],
     "name:ces_x_preferred":[
         "Vopnafj\u00f6r\u00f0ur"
@@ -52,6 +58,9 @@
     "name:fra_x_preferred":[
         "Vopnafj\u00f6r\u00f0ur"
     ],
+    "name:gla_x_preferred":[
+        "Vopnafj\u00f6r\u00f0ur"
+    ],
     "name:gle_x_preferred":[
         "Vopnafj\u00f6r\u00f0ur"
     ],
@@ -78,6 +87,9 @@
     "name:jpn_x_preferred":[
         "\u30f4\u30a9\u30d7\u30ca\u30d5\u30a3\u30e8\u30eb\u30ba\u30eb"
     ],
+    "name:kor_x_preferred":[
+        "\ubcf4\ud504\ub098\ud53c\uc678\ub974\ub4a4\ub974"
+    ],
     "name:nan_x_preferred":[
         "Vopnafjar\u00f0arhreppur"
     ],
@@ -88,6 +100,9 @@
         "Vopnafj\u00f6r\u00f0ur"
     ],
     "name:pol_x_preferred":[
+        "Vopnafj\u00f6r\u00f0ur"
+    ],
+    "name:por_x_preferred":[
         "Vopnafj\u00f6r\u00f0ur"
     ],
     "name:rus_x_preferred":[
@@ -162,7 +177,7 @@
         }
     ],
     "wof:id":1126014063,
-    "wof:lastmodified":1566720488,
+    "wof:lastmodified":1690934650,
     "wof:name":"Vopnafj\u00f6r\u00ffur",
     "wof:parent_id":85672501,
     "wof:placetype":"locality",

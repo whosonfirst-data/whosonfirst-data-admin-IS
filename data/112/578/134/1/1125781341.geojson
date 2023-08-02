@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Drangsnes"
+    ],
     "name:eng_x_preferred":[
         "Drangsnes"
     ],
@@ -40,11 +43,20 @@
     "name:pol_x_preferred":[
         "Drangsnes"
     ],
+    "name:por_x_preferred":[
+        "Drangsnes"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0440\u0430\u043d\u0433\u0441\u043d\u0435\u0441"
     ],
+    "name:rus_x_variant":[
+        "\u0414\u0440\u0430\u0443\u043d\u0433\u0441\u043d\u0435\u0441"
+    ],
     "name:sco_x_preferred":[
         "Drangsnes"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u6717\u65af\u5185\u65af"
     ],
     "qs_pg:aaroncc":"IS",
     "qs_pg:gn_country":"IS",
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":1125781341,
-    "wof:lastmodified":1566720489,
+    "wof:lastmodified":1690934651,
     "wof:name":"Drangsnes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -47,6 +47,9 @@
     "name:pol_x_preferred":[
         "Bifr\u00f6st"
     ],
+    "name:por_x_preferred":[
+        "Bifr\u00f6st"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0444\u0440\u043e\u0441\u0442"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125833091,
-    "wof:lastmodified":1566720489,
+    "wof:lastmodified":1690934652,
     "wof:name":"Bifrost",
     "wof:parent_id":85672529,
     "wof:placetype":"locality",

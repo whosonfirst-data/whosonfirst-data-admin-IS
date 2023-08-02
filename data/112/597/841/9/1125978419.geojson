@@ -31,6 +31,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u042d\u0433\u0456\u043b\u044c\u0441\u0441\u0442\u0430\u0434\u0437\u0456\u0440"
     ],
+    "name:bel_x_variant":[
+        "\u042d\u0433\u0456\u043b\u044c\u0441\u0442\u0430\u0434\u0437\u0456\u0440"
+    ],
     "name:cat_x_preferred":[
         "Egilssta\u00f0ir"
     ],
@@ -55,6 +58,9 @@
     "name:eng_x_preferred":[
         "Egilssta\u00f0ir"
     ],
+    "name:epo_x_preferred":[
+        "Egilssta\u00f0ir"
+    ],
     "name:est_x_preferred":[
         "Egilssta\u00f0ir"
     ],
@@ -65,6 +71,9 @@
         "Egilssta\u00f0ir"
     ],
     "name:fra_x_preferred":[
+        "Egilssta\u00f0ir"
+    ],
+    "name:gla_x_preferred":[
         "Egilssta\u00f0ir"
     ],
     "name:gle_x_preferred":[
@@ -96,6 +105,9 @@
     "name:kor_x_preferred":[
         "Egilssta\u00f0ir"
     ],
+    "name:kor_x_variant":[
+        "\uc5d0\uc774\uc77c\uc2a4\uc2a4\ud0c0\ub514\ub974"
+    ],
     "name:lit_x_preferred":[
         "Ejilstadiras"
     ],
@@ -116,6 +128,9 @@
     ],
     "name:oss_x_preferred":[
         "\u042d\u0433\u0438\u043b\u0441\u0441\u0442\u0430\u0434\u0438\u0440"
+    ],
+    "name:oss_x_variant":[
+        "\u042d\u0439\u0438\u043b\u044c\u0441\u0441\u0442\u0430\u0434\u0438\u0440"
     ],
     "name:pol_x_preferred":[
         "Egilssta\u00f0ir"
@@ -139,6 +154,9 @@
         "\u0415\u0433\u0458\u0438\u043b\u0441\u0442\u0430\u0434\u0438\u0440"
     ],
     "name:swe_x_preferred":[
+        "Egilssta\u00f0ir"
+    ],
+    "name:szl_x_preferred":[
         "Egilssta\u00f0ir"
     ],
     "name:ukr_x_preferred":[
@@ -204,7 +222,7 @@
         }
     ],
     "wof:id":1125978419,
-    "wof:lastmodified":1566720487,
+    "wof:lastmodified":1690934649,
     "wof:name":"Egilsstaoir",
     "wof:parent_id":85672501,
     "wof:placetype":"locality",

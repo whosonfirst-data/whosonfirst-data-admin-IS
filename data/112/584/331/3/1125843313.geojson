@@ -57,11 +57,20 @@
     "name:pol_x_preferred":[
         "Bakkafj\u00f6r\u00f0ur"
     ],
+    "name:por_x_preferred":[
+        "Bakkafj\u00f6r\u00f0ur"
+    ],
+    "name:ron_x_preferred":[
+        "Bakkafj\u00f6r\u00f0ur"
+    ],
     "name:spa_x_preferred":[
         "Bakkafj\u00f6r\u00f0ur"
     ],
     "name:vol_x_preferred":[
         "Bakkafj\u00f6r\u00f0ur"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5361\u83f2\u5384\u6cfd"
     ],
     "qs_pg:aaroncc":"IS",
     "qs_pg:gn_country":"IS",
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1125843313,
-    "wof:lastmodified":1566720489,
+    "wof:lastmodified":1690934651,
     "wof:name":"Bakkafj\u00f6r\u00f0ur",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

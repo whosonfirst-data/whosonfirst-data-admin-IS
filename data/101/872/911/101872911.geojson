@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Rey\u00f0arfj\u00f6r\u00f0ur"
     ],
+    "name:ceb_x_preferred":[
+        "Rey\u00f0arfj\u00f6r\u00f0ur"
+    ],
     "name:ces_x_preferred":[
         "Rey\u00f0arfj\u00f6r\u00f0ur"
     ],
@@ -69,6 +72,9 @@
     "name:jpn_x_preferred":[
         "\u30ec\u30a4\u30b6\u30eb\u30d5\u30a3\u30e8\u30eb\u30ba\u30eb"
     ],
+    "name:kor_x_preferred":[
+        "\ub808\uc774\ub2e4\ub974\ud53c\uc678\ub974\ub4a4\ub974"
+    ],
     "name:lit_x_preferred":[
         "Reidarfjorduras"
     ],
@@ -85,6 +91,9 @@
         "Rey\u00f0arfj\u00f6r\u00f0ur"
     ],
     "name:pol_x_preferred":[
+        "Rey\u00f0arfj\u00f6r\u00f0ur"
+    ],
+    "name:por_x_preferred":[
         "Rey\u00f0arfj\u00f6r\u00f0ur"
     ],
     "name:rus_x_preferred":[
@@ -156,7 +165,7 @@
         }
     ],
     "wof:id":101872911,
-    "wof:lastmodified":1582317861,
+    "wof:lastmodified":1690934634,
     "wof:name":"Rey\u00f0arfj\u00f6r\u00f0ur",
     "wof:parent_id":85672501,
     "wof:placetype":"locality",

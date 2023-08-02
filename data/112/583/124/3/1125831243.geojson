@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "\u00c1rneshreppur"
+    ],
     "name:ceb_x_preferred":[
         "\u00c1rneshreppur"
     ],
@@ -41,6 +44,12 @@
         "\u00c1rnes"
     ],
     "name:fra_x_preferred":[
+        "\u00c1rneshreppur"
+    ],
+    "name:fra_x_variant":[
+        "\u00c1rnes"
+    ],
+    "name:hun_x_preferred":[
         "\u00c1rneshreppur"
     ],
     "name:ind_x_preferred":[
@@ -64,8 +73,14 @@
     "name:pol_x_preferred":[
         "\u00c1rneshreppur"
     ],
+    "name:por_x_preferred":[
+        "\u00c1rneshreppur"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u043d\u0435\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0443\u0440\u043d\u0435\u0441\u0445\u0440\u0435\u043f\u043f\u044e\u0440"
     ],
     "name:sme_x_preferred":[
         "\u00c1rneshreppur"
@@ -78,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "\u00c1rneshreppur"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u5c14\u5185\u65af\u533a"
     ],
     "qs_pg:aaroncc":"IS",
     "qs_pg:gn_country":"IS",
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1125831243,
-    "wof:lastmodified":1566720490,
+    "wof:lastmodified":1690934652,
     "wof:name":"\u00c1rnes",
     "wof:parent_id":85672497,
     "wof:placetype":"locality",

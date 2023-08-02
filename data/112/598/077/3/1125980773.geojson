@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-16.6570755,63.9075195,-16.6570755,63.9075195",
+    "geom:bbox":"-16.657076,63.907519,-16.657076,63.907519",
     "geom:latitude":63.907519,
     "geom:longitude":-16.657076,
     "gn:country":null,
@@ -40,6 +40,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0641\u0627\u06af\u0648\u0631\u06c1\u0648\u0644\u0633\u0645\u00fd\u0631\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u5384\u5c14\u4faf\u65af\u7c73\u91cc"
     ],
     "qs_pg:aaroncc":"IS",
     "qs_pg:gn_country":null,
@@ -77,7 +80,7 @@
     },
     "wof:country":"IS",
     "wof:created":1497298546,
-    "wof:geomhash":"0c9ec77035aabf3f2c92d9e3e533d4fc",
+    "wof:geomhash":"ab8b64ab6b03aac876395a5eee49cc47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125980773,
-    "wof:lastmodified":1566720488,
+    "wof:lastmodified":1690934650,
     "wof:name":"Fagurholsmyri",
     "wof:parent_id":85672501,
     "wof:placetype":"locality",
@@ -97,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -16.6570755,
-    63.9075195,
-    -16.6570755,
-    63.9075195
+    -16.657076,
+    63.907519,
+    -16.657076,
+    63.907519
 ],
-  "geometry": {"coordinates":[-16.6570755,63.9075195],"type":"Point"}
+  "geometry": {"coordinates":[-16.657076,63.907519],"type":"Point"}
 }

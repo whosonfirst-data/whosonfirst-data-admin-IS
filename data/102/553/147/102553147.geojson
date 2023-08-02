@@ -50,6 +50,9 @@
     "name:ron_x_preferred":[
         "Aeroportul Gj\u00f6gur"
     ],
+    "name:rus_x_preferred":[
+        "\u0413\u044c\u0451\u0433\u044e\u0440"
+    ],
     "name:swe_x_preferred":[
         "Gj\u00f6gur flygplats"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":102553147,
-    "wof:lastmodified":1631744935,
+    "wof:lastmodified":1690934623,
     "wof:name":"Gjogur Airport",
     "wof:parent_id":85672497,
     "wof:placetype":"campus",

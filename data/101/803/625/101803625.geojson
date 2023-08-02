@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u0641\u0648\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0644\u0641\u0648\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Selfoss"
+    ],
     "name:aze_x_preferred":[
         "Selfoss"
     ],
@@ -78,6 +84,12 @@
         "Selfoss"
     ],
     "name:fra_x_preferred":[
+        "Selfoss"
+    ],
+    "name:gla_x_preferred":[
+        "Selfoss"
+    ],
+    "name:gle_x_preferred":[
         "Selfoss"
     ],
     "name:heb_x_preferred":[
@@ -147,6 +159,9 @@
         "\u0421\u0435\u043b\u0444\u043e\u0441"
     ],
     "name:swe_x_preferred":[
+        "Selfoss"
+    ],
+    "name:tur_x_preferred":[
         "Selfoss"
     ],
     "name:ukr_x_preferred":[
@@ -304,7 +319,7 @@
         }
     ],
     "wof:id":101803625,
-    "wof:lastmodified":1636495472,
+    "wof:lastmodified":1690934638,
     "wof:name":"Selfoss",
     "wof:parent_id":85672519,
     "wof:placetype":"locality",

@@ -52,6 +52,9 @@
     "name:pol_x_preferred":[
         "K\u00f3pasker"
     ],
+    "name:por_x_preferred":[
+        "K\u00f3pasker"
+    ],
     "name:ron_x_preferred":[
         "K\u00f3pasker"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101870543,
-    "wof:lastmodified":1582317862,
+    "wof:lastmodified":1690934644,
     "wof:name":"K\u00f3pasker",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -25,11 +25,17 @@
     "name:eng_x_preferred":[
         "K\u00e1lfafell"
     ],
+    "name:isl_x_preferred":[
+        "K\u00e1lfafell"
+    ],
     "name:nld_x_preferred":[
         "K\u00e1lfafell"
     ],
     "name:pol_x_preferred":[
         "K\u00e1lfafell"
+    ],
+    "name:zho_x_preferred":[
+        "\u8003\u5c14\u74e6\u8d39\u5fb7"
     ],
     "qs_pg:aaroncc":"IS",
     "qs_pg:gn_country":"IS",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1125826719,
-    "wof:lastmodified":1566720489,
+    "wof:lastmodified":1690934651,
     "wof:name":"K\u00e1lfafell",
     "wof:parent_id":85672519,
     "wof:placetype":"locality",

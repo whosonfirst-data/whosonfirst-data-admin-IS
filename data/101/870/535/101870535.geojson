@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Hrafnagil"
+    ],
     "name:eng_x_preferred":[
         "Hrafnagil"
     ],
@@ -33,6 +36,12 @@
         "Hrafnagil"
     ],
     "name:pol_x_preferred":[
+        "Hrafnagil"
+    ],
+    "name:por_x_preferred":[
+        "Hrafnagil"
+    ],
+    "name:yue_x_preferred":[
         "Hrafnagil"
     ],
     "qs:a0":"\u00cdsland",
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":101870535,
-    "wof:lastmodified":1582317862,
+    "wof:lastmodified":1690934644,
     "wof:name":"Hrafnagil",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",
