@@ -28,6 +28,12 @@
     "name:bel_x_preferred":[
         "\u0411\u043e\u0440\u0434\u044d\u0439\u0440\u044b"
     ],
+    "name:dan_x_preferred":[
+        "Bor\u00f0eyri"
+    ],
+    "name:deu_x_preferred":[
+        "Bor\u00f0eyri"
+    ],
     "name:eng_x_preferred":[
         "Bordeyri"
     ],
@@ -35,6 +41,9 @@
         "Bor\u00f0eyri"
     ],
     "name:fra_x_preferred":[
+        "Bor\u00f0eyri"
+    ],
+    "name:gla_x_preferred":[
         "Bor\u00f0eyri"
     ],
     "name:heb_x_preferred":[
@@ -51,6 +60,9 @@
     ],
     "name:pol_x_preferred":[
         "Bor\u00f0eyri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0434\u0435\u0439\u0440\u0438"
     ],
     "qs_pg:aaroncc":"IS",
     "qs_pg:gn_country":"IS",
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":1125903431,
-    "wof:lastmodified":1566720487,
+    "wof:lastmodified":1690934649,
     "wof:name":"Bordheyri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

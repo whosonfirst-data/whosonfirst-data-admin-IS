@@ -38,6 +38,9 @@
     "name:jpn_x_preferred":[
         "\u30f4\u30a9\u30d7\u30ca\u30d5\u30a3\u30e8\u30eb\u30ba\u30eb\u7a7a\u6e2f"
     ],
+    "name:kor_x_preferred":[
+        "\ubcf4\ud504\ub098\ud53c\uc678\ub974\ub4a4\ub974 \uacf5\ud56d"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Vopnafjordur"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":102553087,
-    "wof:lastmodified":1631744935,
+    "wof:lastmodified":1690934622,
     "wof:name":"Vopnafjordur Airport",
     "wof:parent_id":85672501,
     "wof:placetype":"campus",

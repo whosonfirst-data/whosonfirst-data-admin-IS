@@ -43,6 +43,9 @@
     "name:ace_x_preferred":[
         "Islandia"
     ],
+    "name:ady_x_preferred":[
+        "\u0418\u0441\u043b\u0430\u043d\u0434\u0438\u0435"
+    ],
     "name:afr_x_preferred":[
         "Ysland"
     ],
@@ -58,8 +61,14 @@
     "name:amh_x_preferred":[
         "\u12a0\u12ed\u1235\u120b\u1295\u12f5"
     ],
+    "name:ami_x_preferred":[
+        "Iceland"
+    ],
     "name:ang_x_preferred":[
         "\u012asland"
+    ],
+    "name:anp_x_preferred":[
+        "\u0906\u0907\u0938\u0932\u0948\u0902\u0921"
     ],
     "name:ara_x_preferred":[
         "\u0622\u064a\u0633\u0644\u0646\u062f\u0627"
@@ -82,6 +91,12 @@
     ],
     "name:ava_x_preferred":[
         "\u0418\u0441\u043b\u0430\u043d\u0434\u0438\u044f"
+    ],
+    "name:avk_x_preferred":[
+        "Islanda"
+    ],
+    "name:awa_x_preferred":[
+        "\u0906\u0907\u0938\u0932\u0948\u0902\u0921"
     ],
     "name:aym_x_preferred":[
         "Islandiya"
@@ -133,6 +148,9 @@
     ],
     "name:bis_x_preferred":[
         "Iceland"
+    ],
+    "name:bis_x_variant":[
+        "Aislan"
     ],
     "name:bod_x_preferred":[
         "\u0f68\u0f61\u0f72\u0f66\u0f74\u0f0b\u0f63\u0f7a\u0f53\u0f0b\u0f4c\u0f0d"
@@ -205,6 +223,9 @@
     ],
     "name:cym_x_preferred":[
         "Gwlad yr I\u00e2"
+    ],
+    "name:dag_x_preferred":[
+        "Iceland"
     ],
     "name:dan_x_preferred":[
         "Island"
@@ -287,6 +308,9 @@
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0633\u0644\u0646\u062f"
     ],
+    "name:fij_x_preferred":[
+        "Aisiladi"
+    ],
     "name:fin_x_preferred":[
         "Islanti"
     ],
@@ -304,6 +328,9 @@
     ],
     "name:frr_x_preferred":[
         "Isl\u00f6nj"
+    ],
+    "name:frr_x_variant":[
+        "Islun"
     ],
     "name:fry_x_preferred":[
         "Ysl\u00e2n"
@@ -343,6 +370,9 @@
     ],
     "name:got_x_preferred":[
         "\ud800\udf34\ud800\udf39\ud800\udf43\ud800\udf30\ud800\udf3b\ud800\udf30\ud800\udf3d\ud800\udf33"
+    ],
+    "name:gpe_x_preferred":[
+        "Iceland"
     ],
     "name:grn_x_preferred":[
         "Iylanda"
@@ -406,6 +436,9 @@
     "name:ido_x_preferred":[
         "Islando"
     ],
+    "name:iku_x_preferred":[
+        "\u1404\u1505\u14da\u14d0\u1466"
+    ],
     "name:ile_x_preferred":[
         "Island"
     ],
@@ -420,6 +453,9 @@
     ],
     "name:ind_x_preferred":[
         "Islandia"
+    ],
+    "name:inh_x_preferred":[
+        "\u0418\u0441\u043b\u0430\u043d\u0434\u0438"
     ],
     "name:isl_x_preferred":[
         "\u00cdsland"
@@ -505,6 +541,9 @@
     "name:krc_x_preferred":[
         "\u0418\u0441\u043b\u0430\u043d\u0434\u0438\u044f"
     ],
+    "name:ksh_x_preferred":[
+        "Island"
+    ],
     "name:kur_x_preferred":[
         "\u00ceslenda"
     ],
@@ -541,6 +580,9 @@
     "name:lij_x_preferred":[
         "Islanda"
     ],
+    "name:lij_x_variant":[
+        "Isl\u00e0nda"
+    ],
     "name:lim_x_preferred":[
         "Iesland"
     ],
@@ -555,6 +597,9 @@
     ],
     "name:liv_x_preferred":[
         "\u012asland"
+    ],
+    "name:lld_x_preferred":[
+        "Islanda"
     ],
     "name:lmo_x_preferred":[
         "Islanda"
@@ -586,6 +631,9 @@
     "name:lzh_x_preferred":[
         "\u51b0\u5cf6"
     ],
+    "name:mad_x_preferred":[
+        "Islandia"
+    ],
     "name:mai_x_preferred":[
         "\u0906\u0907\u0938\u0932\u0948\u0902\u0921"
     ],
@@ -599,10 +647,14 @@
         "\u0418\u0441\u043b\u0430\u043d\u0434\u0430"
     ],
     "name:mdf_x_variant":[
-        "\u0418\u0441\u043b\u0430\u043d\u0434\u0438\u044f"
+        "\u0418\u0441\u043b\u0430\u043d\u0434\u0438\u044f",
+        "\u0418\u0441\u043b\u0430\u043d\u0434\u043c\u0430\u0441\u0442\u043e\u0440"
     ],
     "name:mhr_x_preferred":[
         "\u0418\u0441\u043b\u0430\u043d\u0434\u0438\u0439"
+    ],
+    "name:min_x_preferred":[
+        "Islandia"
     ],
     "name:mkd_x_preferred":[
         "\u0418\u0441\u043b\u0430\u043d\u0434"
@@ -615,6 +667,9 @@
     ],
     "name:mlt_x_variant":[
         "Islanda"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd1\uabe5\uabe2\uabc1\uabed\uabc2\uabe6\uabdf"
     ],
     "name:mon_x_preferred":[
         "\u0418\u0441\u043b\u0430\u043d\u0434"
@@ -731,6 +786,9 @@
     "name:pcd_x_preferred":[
         "Islinde"
     ],
+    "name:pdc_x_preferred":[
+        "Island"
+    ],
     "name:pih_x_preferred":[
         "Iseland"
     ],
@@ -800,6 +858,9 @@
     "name:san_x_preferred":[
         "\u0906\u0907\u0938\u0932\u0948\u0902\u0921"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5f\u1c6d\u1c64\u1c65\u1c5e\u1c6e\u1c71\u1c70"
+    ],
     "name:scn_x_preferred":[
         "Islandia"
     ],
@@ -808,6 +869,12 @@
     ],
     "name:sgs_x_preferred":[
         "Island\u0117j\u0117"
+    ],
+    "name:shi_x_preferred":[
+        "Aysland"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1022\u1062\u1086\u1038\u101e\u101c\u1085\u107c\u103a\u1087"
     ],
     "name:sin_x_preferred":[
         "\u0d85\u0dba\u0dd2\u0dc3\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba"
@@ -906,6 +973,9 @@
     "name:tat_x_preferred":[
         "\u0418\u0441\u043b\u0430\u043d\u0434\u0438\u044f"
     ],
+    "name:tay_x_preferred":[
+        "Iceland"
+    ],
     "name:tel_x_preferred":[
         "\u0c10\u0c38\u0c4d\u200c\u0c32\u0c3e\u0c02\u0c21\u0c4d"
     ],
@@ -930,11 +1000,17 @@
     "name:tir_x_preferred":[
         "\u12a0\u12ed\u1235\u120b\u1295\u12f5"
     ],
+    "name:tok_x_preferred":[
+        "ma Isilan"
+    ],
     "name:ton_x_preferred":[
         "\u02bbAisilani"
     ],
     "name:tpi_x_preferred":[
         "Aislan"
+    ],
+    "name:trv_x_preferred":[
+        "Iceland"
     ],
     "name:tso_x_preferred":[
         "Iceland"
@@ -947,6 +1023,9 @@
     ],
     "name:tur_x_preferred":[
         "\u0130zlanda"
+    ],
+    "name:twi_x_preferred":[
+        "Island"
     ],
     "name:tyv_x_preferred":[
         "\u0418\u0441\u043b\u0430\u043d\u0434\u0438\u044f"
@@ -1250,7 +1329,7 @@
         "quattroshapes",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"9f60740c7bd5fbf5e2479f52d2778e33",
+    "wof:geomhash":"597fb53909ea088297172ffa9ae85b3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1264,7 +1343,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1684351435,
+    "wof:lastmodified":1690934626,
     "wof:name":"Iceland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

@@ -49,6 +49,9 @@
     "name:pol_x_preferred":[
         "Laugar\u00e1s"
     ],
+    "name:por_x_preferred":[
+        "Laugar\u00e1s"
+    ],
     "name:swe_x_preferred":[
         "Laugar\u00e1s"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125983437,
-    "wof:lastmodified":1566720488,
+    "wof:lastmodified":1690934650,
     "wof:name":"Laugaras",
     "wof:parent_id":85672519,
     "wof:placetype":"locality",

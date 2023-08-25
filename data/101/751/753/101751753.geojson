@@ -23,6 +23,9 @@
     "name:afr_x_preferred":[
         "Reykjavik"
     ],
+    "name:aka_x_preferred":[
+        "Reykjav\u00edk"
+    ],
     "name:als_x_preferred":[
         "Reykjav\u00edk"
     ],
@@ -38,6 +41,9 @@
     "name:arg_x_preferred":[
         "Reykjav\u00edk"
     ],
+    "name:ary_x_preferred":[
+        "\u0631\u0627\u064a\u0643\u064a\u0627\u06a4\u064a\u0643"
+    ],
     "name:arz_x_preferred":[
         "\u0631\u064a\u0643\u064a\u0627\u0641\u064a\u0643"
     ],
@@ -47,11 +53,17 @@
     "name:ava_x_preferred":[
         "\u0420\u0435\u0439\u043a\u044f\u0432\u0438\u043a"
     ],
+    "name:avk_x_preferred":[
+        "Reykjav\u00edk"
+    ],
     "name:aym_x_preferred":[
         "Reykjavik"
     ],
     "name:aze_x_preferred":[
         "Reykyavik"
+    ],
+    "name:bak_x_preferred":[
+        "\u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a"
     ],
     "name:ban_x_preferred":[
         "Reykjavik"
@@ -94,11 +106,17 @@
     "name:cdo_x_preferred":[
         "Reykjav\u00edk"
     ],
+    "name:ceb_x_preferred":[
+        "Reykjav\u00edkurborg"
+    ],
     "name:ces_x_preferred":[
         "Reykjav\u00edk"
     ],
     "name:che_x_preferred":[
         "\u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a"
+    ],
+    "name:chu_x_preferred":[
+        "\u0420\u0454\u0438\u043a\ua657\u0432\u0438\u043a\u044a"
     ],
     "name:chv_x_preferred":[
         "\u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a"
@@ -194,6 +212,9 @@
     ],
     "name:glv_x_preferred":[
         "Reykjav\u00edk"
+    ],
+    "name:grn_x_preferred":[
+        "Reikiavik"
     ],
     "name:gsw_x_preferred":[
         "Reykjav\u00edk"
@@ -296,6 +317,9 @@
     "name:kbp_x_preferred":[
         "Reyikzaavikii"
     ],
+    "name:kin_x_preferred":[
+        "Reykjav\u00edk"
+    ],
     "name:kir_x_preferred":[
         "\u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a"
     ],
@@ -350,6 +374,9 @@
     "name:mar_x_preferred":[
         "\u0930\u0947\u0915\u094d\u092f\u093e\u0935\u093f\u0915"
     ],
+    "name:mdf_x_preferred":[
+        "\u0420\u044d\u0439\u043a\u044c\u044f\u0432\u0438\u043a"
+    ],
     "name:mhr_x_preferred":[
         "\u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a"
     ],
@@ -377,6 +404,9 @@
     "name:myv_x_preferred":[
         "\u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a \u043e\u0448"
     ],
+    "name:mzn_x_preferred":[
+        "\u0631\u06cc\u06a9\u06cc\u0627\u0648\u06cc\u06a9"
+    ],
     "name:nah_x_preferred":[
         "Reikiavik"
     ],
@@ -385,6 +415,9 @@
     ],
     "name:nau_x_preferred":[
         "Reykjav\u00edk"
+    ],
+    "name:nav_x_preferred":[
+        "Siil N\u00e1st\u0142\u02bcah"
     ],
     "name:nds_x_preferred":[
         "Reykjavik"
@@ -497,6 +530,9 @@
     "name:sna_x_preferred":[
         "Reykjav\u00edk"
     ],
+    "name:snd_x_preferred":[
+        "\u0631\u064a\u06aa\u062c\u0627\u0648\u064a\u06aa"
+    ],
     "name:sot_x_preferred":[
         "Reykjav\u00edk"
     ],
@@ -593,6 +629,9 @@
     "name:vie_x_preferred":[
         "Reykjav\u00edk"
     ],
+    "name:vls_x_preferred":[
+        "Reykjavik"
+    ],
     "name:vol_x_preferred":[
         "Reykjav\u00edk"
     ],
@@ -601,6 +640,9 @@
     ],
     "name:war_x_preferred":[
         "Reykjav\u00edk"
+    ],
+    "name:wln_x_preferred":[
+        "R\u00e9kiavik"
     ],
     "name:wol_x_preferred":[
         "Reykjawik"
@@ -786,7 +828,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1607390900,
+    "wof:lastmodified":1690934642,
     "wof:megacity":0,
     "wof:name":"Reykjavik",
     "wof:parent_id":85672493,

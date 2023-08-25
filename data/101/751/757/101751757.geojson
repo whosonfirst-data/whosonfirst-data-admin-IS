@@ -26,7 +26,13 @@
     "name:ara_x_preferred":[
         "\u0623\u0643\u0648\u0631\u064a\u0631\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0643\u0648\u0631\u064a\u0631\u0649"
+    ],
     "name:ast_x_preferred":[
+        "Akureyri"
+    ],
+    "name:avk_x_preferred":[
         "Akureyri"
     ],
     "name:aze_x_preferred":[
@@ -46,8 +52,14 @@
     "name:ben_x_preferred":[
         "\u0986\u0995\u09c1\u09b0\u09c7\u0987\u09b0\u09bf"
     ],
+    "name:bul_x_preferred":[
+        "\u0410\u043a\u044e\u0440\u0435\u0439\u0440\u0438"
+    ],
     "name:cat_x_preferred":[
         "Akureyri"
+    ],
+    "name:ceb_x_preferred":[
+        "Akureyrarkaupsta\u00f0ur"
     ],
     "name:ces_x_preferred":[
         "Akureyri"
@@ -92,6 +104,12 @@
         "Akureyri"
     ],
     "name:fra_x_preferred":[
+        "Akureyri"
+    ],
+    "name:frr_x_preferred":[
+        "Akureyri"
+    ],
+    "name:gla_x_preferred":[
         "Akureyri"
     ],
     "name:gle_x_preferred":[
@@ -162,6 +180,9 @@
     ],
     "name:lit_x_preferred":[
         "Akureiris"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0410\u043a\u0443\u0440\u044d\u0439\u0440\u0438"
     ],
     "name:mkd_x_preferred":[
         "\u0410\u043a\u0438\u0440\u0435\u0458\u0440\u0438"
@@ -247,6 +268,9 @@
     "name:tat_x_variant":[
         "\u0410\u043a\u04af\u0440\u0435\u0439\u0440\u0438"
     ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e32\u0e04\u0e37\u0e2d\u0e40\u0e23\u0e22\u0e4c\u0e23\u0e35"
+    ],
     "name:tur_x_preferred":[
         "Akureyri"
     ],
@@ -255,6 +279,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0622\u06a9\u0648\u0631\u06cc\u0631\u06d2"
+    ],
+    "name:uzb_x_preferred":[
+        "Akureyri"
     ],
     "name:vep_x_preferred":[
         "Ak\u00fcreiri"
@@ -268,8 +295,14 @@
     "name:war_x_preferred":[
         "Akureyri"
     ],
+    "name:wuu_x_preferred":[
+        "\u963f\u514b\u96f7\u91cc"
+    ],
     "name:xmf_x_preferred":[
         "\u10d0\u10d9\u10e3\u10e0\u10d4\u10d8\u10e0\u10d8"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u514b\u96f7\u91cc"
     ],
     "name:zho_min_nan_x_preferred":[
         "Akureyrarkaupsta\u00f0ur"
@@ -425,7 +458,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1636495472,
+    "wof:lastmodified":1690934643,
     "wof:name":"Akureyri",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",

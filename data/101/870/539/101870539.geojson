@@ -20,10 +20,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:bar_x_preferred":[
+        "Hauganes"
+    ],
+    "name:deu_x_preferred":[
+        "Hauganes"
+    ],
     "name:eng_x_preferred":[
         "Hauganes"
     ],
     "name:fra_x_preferred":[
+        "Hauganes"
+    ],
+    "name:gle_x_preferred":[
         "Hauganes"
     ],
     "name:isl_x_preferred":[
@@ -33,6 +42,12 @@
         "Hauganes"
     ],
     "name:pol_x_preferred":[
+        "Hauganes"
+    ],
+    "name:por_x_preferred":[
+        "Hauganes"
+    ],
+    "name:sqi_x_preferred":[
         "Hauganes"
     ],
     "qs:a0":"\u00cdsland",
@@ -77,7 +92,7 @@
         }
     ],
     "wof:id":101870539,
-    "wof:lastmodified":1582317863,
+    "wof:lastmodified":1690934645,
     "wof:name":"Hauganes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

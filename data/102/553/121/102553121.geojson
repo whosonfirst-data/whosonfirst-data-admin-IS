@@ -56,6 +56,9 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b3\u0443\u0441\u043e\u0432\u0438\u043a"
     ],
+    "name:zho_x_preferred":[
+        "\u80e1\u8428\u7ef4\u514b\u673a\u573a"
+    ],
     "oa:elevation_ft":"48",
     "oa:type":"medium_airport",
     "src:geom":"wikidata",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":102553121,
-    "wof:lastmodified":1631744935,
+    "wof:lastmodified":1690934622,
     "wof:name":"Husavik Airport",
     "wof:parent_id":85672511,
     "wof:placetype":"campus",

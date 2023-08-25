@@ -28,6 +28,9 @@
     "name:bel_x_preferred":[
         "\u0421\u043a\u0430\u043b\u0445\u043e\u043b\u044c\u0442"
     ],
+    "name:bre_x_preferred":[
+        "Sk\u00e1lholt"
+    ],
     "name:cat_x_preferred":[
         "Sk\u00e1lholt"
     ],
@@ -44,6 +47,9 @@
         "Sk\u00e1lholt"
     ],
     "name:eus_x_preferred":[
+        "Sk\u00e1lholt"
+    ],
+    "name:fin_x_preferred":[
         "Sk\u00e1lholt"
     ],
     "name:fra_x_preferred":[
@@ -86,6 +92,9 @@
         "Sk\u00e1lholt"
     ],
     "name:swe_x_preferred":[
+        "Sk\u00e1lholt"
+    ],
+    "name:tur_x_preferred":[
         "Sk\u00e1lholt"
     ],
     "name:ukr_x_preferred":[
@@ -148,7 +157,7 @@
         }
     ],
     "wof:id":1126039189,
-    "wof:lastmodified":1566720486,
+    "wof:lastmodified":1690934647,
     "wof:name":"Sk\u00e1lholt",
     "wof:parent_id":85672519,
     "wof:placetype":"locality",

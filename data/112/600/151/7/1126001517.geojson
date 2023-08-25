@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "St\u00f6\u00f0varfj\u00f6r\u00f0ur"
+    ],
     "name:ceb_x_preferred":[
         "St\u00f6\u00f0varfj\u00f6r\u00f0ur"
     ],
@@ -32,6 +35,9 @@
         "Stodvarfjordur"
     ],
     "name:eng_x_variant":[
+        "St\u00f6\u00f0varfj\u00f6r\u00f0ur"
+    ],
+    "name:eus_x_preferred":[
         "St\u00f6\u00f0varfj\u00f6r\u00f0ur"
     ],
     "name:fra_x_preferred":[
@@ -48,6 +54,9 @@
         "St\u00f6\u00f0varfir\u00f0i",
         "St\u00f6\u00f0varfjar\u00f0ar"
     ],
+    "name:ita_x_preferred":[
+        "St\u00f6\u00f0varfj\u00f6r\u00f0ur"
+    ],
     "name:jpn_x_preferred":[
         "\u30b9\u30c8\u30ba\u30f4\u30a1\u30eb\u30d5\u30a3\u30e8\u30eb\u30ba\u30eb"
     ],
@@ -60,8 +69,14 @@
     "name:pol_x_preferred":[
         "St\u00f6\u00f0varfj\u00f6r\u00f0ur"
     ],
+    "name:por_x_preferred":[
+        "St\u00f6\u00f0varfj\u00f6r\u00f0ur"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0451\u0434\u0432\u0430\u0440\u0444\u044c\u043e\u0440\u0434\u044e\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "St\u00f6\u00f0varfj\u00f6r\u00f0ur"
     ],
     "name:swe_x_preferred":[
         "St\u00f6\u00f0varfj\u00f6r\u00f0ur"
@@ -120,7 +135,7 @@
         }
     ],
     "wof:id":1126001517,
-    "wof:lastmodified":1566720488,
+    "wof:lastmodified":1690934651,
     "wof:name":"St\u00f6\u00ff",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

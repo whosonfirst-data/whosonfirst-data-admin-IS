@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Sandger\u00f0i"
+    ],
     "name:ceb_x_preferred":[
         "Sandger\u00f0isb\u00e6r"
     ],
@@ -89,6 +92,9 @@
         "Sandger\u00f0i"
     ],
     "name:pol_x_preferred":[
+        "Sandger\u00f0i"
+    ],
+    "name:por_x_preferred":[
         "Sandger\u00f0i"
     ],
     "name:rus_x_preferred":[
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1125936521,
-    "wof:lastmodified":1566720484,
+    "wof:lastmodified":1690934646,
     "wof:name":"Sandgerdhi",
     "wof:parent_id":85672515,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Hjalteyri"
+    ],
     "name:eng_x_preferred":[
         "Hjalteyri"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:und_x_variant":[
         "Hjaleyri"
+    ],
+    "name:zho_x_preferred":[
+        "\u590f\u5c14\u6cf0\u91cc"
     ],
     "qs_pg:aaroncc":"IS",
     "qs_pg:gn_country":"IS",
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1126044605,
-    "wof:lastmodified":1566720485,
+    "wof:lastmodified":1690934647,
     "wof:name":"Hjalteyri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
