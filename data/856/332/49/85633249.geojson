@@ -24,6 +24,9 @@
     "itu:country_code":[
         "354"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "IS"
     ],
@@ -1329,7 +1332,7 @@
         "quattroshapes",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"597fb53909ea088297172ffa9ae85b3a",
+    "wof:geomhash":"9f60740c7bd5fbf5e2479f52d2778e33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1343,7 +1346,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1690934626,
+    "wof:lastmodified":1694492262,
     "wof:name":"Iceland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

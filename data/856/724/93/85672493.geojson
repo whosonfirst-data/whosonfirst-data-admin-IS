@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065703,
-    "geom:area_square_m":354437410.882378,
+    "geom:area_square_m":354437459.725268,
     "geom:bbox":"-22.124176,64.00145,-21.606052,64.275673",
     "geom:latitude":64.135021,
     "geom:longitude":-21.815048,
     "gp:id":0,
     "iso:country":"IS",
     "label:eng_x_preferred_longname":[
-        "Reykjav\u00edk Region"
+        "Capital Region Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "NE"
+    ],
+    "label:eng_x_variant_longname":[
+        "Reykjav\u00edk Region"
     ],
     "lbl:latitude":64.09518,
     "lbl:longitude":-21.861966,
@@ -302,6 +308,20 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2005-12-31",
+    "statoids:areakm":1062,
+    "statoids:areami":410,
+    "statoids:capital":"Reykjav\u00edk",
+    "statoids:country":"IS",
+    "statoids:date":"2005-12-31",
+    "statoids:gec":"IC39",
+    "statoids:hasc":"IS.HO",
+    "statoids:iso":"1",
+    "statoids:name":"Capital",
+    "statoids:population":187426,
+    "statoids:timezone":"+0",
+    "statoids:type":"region",
     "unlc:subdivision":"IS-0",
     "wd:wordcount":4363,
     "wof:belongsto":[
@@ -313,12 +333,12 @@
         "fips:code":"IC32",
         "gn:id":3426182,
         "gp:id":-99,
-        "hasc:id":"IS.NE",
+        "hasc:id":"IS.HO",
         "unlc:id":"IS-0",
         "wd:id":"Q203304"
     },
     "wof:country":"IS",
-    "wof:geomhash":"3ef2c1089abda8c93aa7d8db4b1fc5c6",
+    "wof:geomhash":"5ce9086c3bf31398d7fc0924e14f453d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -333,10 +353,12 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1690934625,
+    "wof:lastmodified":1694639832,
     "wof:name":"Reykjav\u00edk",
     "wof:parent_id":85633249,
     "wof:placetype":"region",
+    "wof:population":187426,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-is",
     "wof:shortcode":"NE",
     "wof:subdivision":"IS-0",
