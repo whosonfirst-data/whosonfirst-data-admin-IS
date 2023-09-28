@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114197,
-    "geom:area_square_m":613966733.934425,
+    "geom:area_square_m":613967072.754884,
     "geom:bbox":"-21.9303,63.999401,-21.143433,64.398989",
     "geom:latitude":64.229182,
     "geom:longitude":-21.53658,
@@ -346,11 +346,13 @@
         "gn:id":3426182,
         "gp:id":-99,
         "hasc:id":"IS.HO",
+        "iso:code":"IS-1",
         "iso:id":"IS-1",
         "wd:id":"Q203304"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IS",
-    "wof:geomhash":"1f249c75a5270836fdac10e44c613091",
+    "wof:geomhash":"e67736b6dd8052f554448ae7b830e941",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -365,7 +367,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1690934625,
+    "wof:lastmodified":1695884505,
     "wof:name":"H\u00f6fu\u00f0borgarsv\u00e6\u00f0i",
     "wof:parent_id":85633249,
     "wof:placetype":"region",

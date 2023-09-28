@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.601298,
-    "geom:area_square_m":24811178583.19072,
+    "geom:area_square_m":24811178952.045338,
     "geom:bbox":"-21.931976,63.295315,-16.876613,64.880614",
     "geom:latitude":64.146441,
     "geom:longitude":-19.176963,
@@ -345,12 +345,14 @@
         "gn:id":3337406,
         "gp:id":-99,
         "hasc:id":"IS.SL",
+        "iso:code":"IS-8",
         "iso:id":"IS-8",
         "unlc:id":"IS-8",
         "wd:id":"Q204796"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IS",
-    "wof:geomhash":"87ef891d01e9bcf28690e7eb61e44cb6",
+    "wof:geomhash":"423f5a66f6ec2f9eee6ec56cb85b48b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -365,7 +367,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1690934624,
+    "wof:lastmodified":1695884329,
     "wof:name":"Su\u00f0urland",
     "wof:parent_id":85633249,
     "wof:placetype":"region",

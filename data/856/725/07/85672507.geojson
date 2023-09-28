@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.428538,
-    "geom:area_square_m":12517795634.381029,
+    "geom:area_square_m":12517794883.574173,
     "geom:bbox":"-21.119944,64.750053,-18.351174,66.157993",
     "geom:latitude":65.36365,
     "geom:longitude":-19.701187,
@@ -346,12 +346,14 @@
         "gn:id":3337403,
         "gp:id":-99,
         "hasc:id":"IS.NV",
+        "iso:code":"IS-5",
         "iso:id":"IS-5",
         "unlc:id":"IS-5",
         "wd:id":"Q210866"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IS",
-    "wof:geomhash":"e8c1acbe559ec9ad6b824eedfc685659",
+    "wof:geomhash":"f015fc285c75a9e6943e64c87351ef94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -366,7 +368,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1690934624,
+    "wof:lastmodified":1695884329,
     "wof:name":"Nor\u00f0urland vestra",
     "wof:parent_id":85633249,
     "wof:placetype":"region",

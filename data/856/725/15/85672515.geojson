@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.161287,
-    "geom:area_square_m":876333743.06611,
+    "geom:area_square_m":876333776.993902,
     "geom:bbox":"-22.736806,63.809149,-21.652394,64.089748",
     "geom:latitude":63.935662,
     "geom:longitude":-22.278087,
@@ -342,12 +342,14 @@
         "gn:id":3426183,
         "gp:id":-99,
         "hasc:id":"IS.SU",
+        "iso:code":"IS-2",
         "iso:id":"IS-2",
         "unlc:id":"IS-2",
         "wd:id":"Q212768"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IS",
-    "wof:geomhash":"23d10fa257eb3d846f5897e5e12f4f1b",
+    "wof:geomhash":"986d30ce46714945411e880bf0140bce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -362,7 +364,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1690934624,
+    "wof:lastmodified":1695884329,
     "wof:name":"Su\u00f0urnes",
     "wof:parent_id":85633249,
     "wof:placetype":"region",
