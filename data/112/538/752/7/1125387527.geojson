@@ -13,13 +13,19 @@
     "gn:fcode":"ADMD",
     "gn:population":0,
     "iso:country":"IS",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:bbox":"-22.76667,63.81667,-22.56667,64.01667",
     "lbl:latitude":63.91667,
     "lbl:longitude":-22.66667,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -143,7 +149,7 @@
     },
     "wof:country":"IS",
     "wof:created":1497048491,
-    "wof:geomhash":"ec85f97a3cbd26495c15cf31e7905490",
+    "wof:geomhash":"1906d458b3f6075a09bb78ad9fe22b8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,7 +159,7 @@
         }
     ],
     "wof:id":1125387527,
-    "wof:lastmodified":1566720487,
+    "wof:lastmodified":1696022867,
     "wof:name":"Reykjanesb\u00e6r",
     "wof:parent_id":85672515,
     "wof:placetype":"localadmin",
