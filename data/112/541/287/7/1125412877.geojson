@@ -13,13 +13,19 @@
     "gn:fcode":"ADMD",
     "gn:population":0,
     "iso:country":"IS",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:bbox":"-18.85,65.98333,-18.65,66.18333",
     "lbl:latitude":66.08333,
     "lbl:longitude":-18.75,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:und_x_variant":[
@@ -50,7 +56,7 @@
     },
     "wof:country":"IS",
     "wof:created":1497050734,
-    "wof:geomhash":"ac5b783abeeaa25736e61b3bb6e2e5b5",
+    "wof:geomhash":"5f3322bb93c6567893d6a4363d4bfe6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1125412877,
-    "wof:lastmodified":1566720489,
+    "wof:lastmodified":1696022867,
     "wof:name":"\u00d3lafsfjar\u00f0arb\u00e6r",
     "wof:parent_id":85672511,
     "wof:placetype":"localadmin",

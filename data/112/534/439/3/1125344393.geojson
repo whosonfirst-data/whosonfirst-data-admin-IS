@@ -13,13 +13,19 @@
     "gn:fcode":"ADMD",
     "gn:population":0,
     "iso:country":"IS",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:bbox":"-21.95,64.55,-21.75,64.75",
     "lbl:latitude":64.65,
     "lbl:longitude":-21.85,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
@@ -98,7 +104,7 @@
     },
     "wof:country":"IS",
     "wof:created":1497045841,
-    "wof:geomhash":"81c5517675c5e6be70ae8985311c96ea",
+    "wof:geomhash":"827497bbf47b63bed71e16d04cb5aa06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1125344393,
-    "wof:lastmodified":1566720485,
+    "wof:lastmodified":1696022867,
     "wof:name":"Borgarbygg\u00f0",
     "wof:parent_id":85672529,
     "wof:placetype":"localadmin",

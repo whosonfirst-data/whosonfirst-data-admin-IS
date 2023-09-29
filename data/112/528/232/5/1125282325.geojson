@@ -13,13 +13,19 @@
     "gn:fcode":"ADMD",
     "gn:population":0,
     "iso:country":"IS",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:bbox":"-15.6,64.23333,-15.4,64.43333",
     "lbl:latitude":64.33333,
     "lbl:longitude":-15.5,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"IS",
@@ -47,7 +53,7 @@
     },
     "wof:country":"IS",
     "wof:created":1497042550,
-    "wof:geomhash":"ffbb98fab2eaf64511f2c7607d52399d",
+    "wof:geomhash":"3f91ce6b048c3adc2da0c22fef99d057",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1125282325,
-    "wof:lastmodified":1566720486,
+    "wof:lastmodified":1696022867,
     "wof:name":"Sveitarf\u00e9lagi\u00f0 Hornafj\u00f6r\u00f0ur",
     "wof:parent_id":85672501,
     "wof:placetype":"localadmin",

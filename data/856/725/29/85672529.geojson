@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.81737,
-    "geom:area_square_m":9552176612.598717,
+    "geom:area_square_m":9552174363.13014,
     "geom:bbox":"-24.060048,64.297309,-19.792688,65.501842",
     "geom:latitude":64.845028,
     "geom:longitude":-21.704744,
@@ -347,12 +347,14 @@
         "gn:id":3426184,
         "gp:id":-99,
         "hasc:id":"IS.VL",
+        "iso:code":"IS-3",
         "iso:id":"IS-3",
         "unlc:id":"IS-3",
         "wd:id":"Q221791"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IS",
-    "wof:geomhash":"b739d9c1e221028a875e41212711b3d1",
+    "wof:geomhash":"02d42f963f23e3ec2085d31cc16f1488",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -367,7 +369,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1690934623,
+    "wof:lastmodified":1695884795,
     "wof:name":"Vesturland",
     "wof:parent_id":85633249,
     "wof:placetype":"region",

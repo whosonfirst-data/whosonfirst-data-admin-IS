@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.061121,
-    "geom:area_square_m":21303275618.151974,
+    "geom:area_square_m":21303272167.297333,
     "geom:bbox":"-17.387538,63.772992,-13.502919,65.986274",
     "geom:latitude":64.895248,
     "geom:longitude":-15.395096,
@@ -350,12 +350,14 @@
         "gn:id":3337405,
         "gp:id":2345698,
         "hasc:id":"IS.AL",
+        "iso:code":"IS-7",
         "iso:id":"IS-7",
         "unlc:id":"IS-7",
         "wd:id":"Q220663"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IS",
-    "wof:geomhash":"d68374b59c41af760cb82785eb9e3d77",
+    "wof:geomhash":"38c2a403be2fe43a0c4ed903091b2c91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -370,7 +372,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1690934624,
+    "wof:lastmodified":1695885134,
     "wof:name":"Austurland",
     "wof:parent_id":85633249,
     "wof:placetype":"region",

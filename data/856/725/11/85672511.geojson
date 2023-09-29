@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.341871,
-    "geom:area_square_m":22200112103.616276,
+    "geom:area_square_m":22200113591.889286,
     "geom:bbox":"-19.078765,64.471956,-14.563629,66.564154",
     "geom:latitude":65.574686,
     "geom:longitude":-17.069983,
@@ -355,12 +355,14 @@
         "gn:id":3337404,
         "gp:id":-99,
         "hasc:id":"IS.NE",
+        "iso:code":"IS-6",
         "iso:id":"IS-6",
         "unlc:id":"IS-6",
         "wd:id":"Q241551"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IS",
-    "wof:geomhash":"da811561b1015390deb48376ed883708",
+    "wof:geomhash":"bce10e232a592c67299fcf72b8fbaf4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -375,7 +377,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1690934623,
+    "wof:lastmodified":1695884329,
     "wof:name":"Nor\u00f0urland eystra",
     "wof:parent_id":85633249,
     "wof:placetype":"region",

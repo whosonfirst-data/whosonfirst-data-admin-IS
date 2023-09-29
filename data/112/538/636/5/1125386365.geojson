@@ -13,13 +13,19 @@
     "gn:fcode":"ADMD",
     "gn:population":0,
     "iso:country":"IS",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:bbox":"-18.26667,65.23333,-18.06667,65.43333",
     "lbl:latitude":65.33333,
     "lbl:longitude":-18.16667,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
@@ -95,7 +101,7 @@
     },
     "wof:country":"IS",
     "wof:created":1497048405,
-    "wof:geomhash":"eb6a3610b43a9d380357dc443c274aa1",
+    "wof:geomhash":"78de3cab808f65e1f024cf860505721a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1125386365,
-    "wof:lastmodified":1566720487,
+    "wof:lastmodified":1696022867,
     "wof:name":"Eyjafjar\u00f0arsveit",
     "wof:parent_id":85672511,
     "wof:placetype":"localadmin",

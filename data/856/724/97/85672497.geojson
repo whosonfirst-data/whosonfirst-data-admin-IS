@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.882971,
-    "geom:area_square_m":9538057300.219376,
+    "geom:area_square_m":9538059102.969933,
     "geom:bbox":"-24.539906,64.972365,-20.984217,66.466986",
     "geom:latitude":65.816536,
     "geom:longitude":-22.576912,
@@ -346,12 +346,14 @@
         "gn:id":3426185,
         "gp:id":-99,
         "hasc:id":"IS.VF",
+        "iso:code":"IS-4",
         "iso:id":"IS-4",
         "unlc:id":"IS-4",
         "wd:id":"Q727267"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IS",
-    "wof:geomhash":"bf21959f850dafe5ac4d0436016b237d",
+    "wof:geomhash":"afaef2d6acd4661d67c46b601ee0931d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -366,7 +368,7 @@
     "wof:lang_x_spoken":[
         "isl"
     ],
-    "wof:lastmodified":1690934625,
+    "wof:lastmodified":1695884329,
     "wof:name":"Vestfir\u00f0ir",
     "wof:parent_id":85633249,
     "wof:placetype":"region",
