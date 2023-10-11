@@ -18,7 +18,7 @@
     "mps:latitude":66.035619,
     "mps:longitude":-17.337951,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Nor\u00f0ur\u00feing"
@@ -36,11 +36,11 @@
         "H\u00fasav\u00edk"
     ],
     "name:eng_x_preferred":[
-        "Husayik"
+        "Husavik"
     ],
     "name:eng_x_variant":[
-        "Husavik",
-        "Nor\u00f0ur\u00feing"
+        "Nor\u00f0ur\u00feing",
+        "Husayik"
     ],
     "name:epo_x_preferred":[
         "Nor\u00f0ur\u00feing"
@@ -188,7 +188,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1690934640,
+    "wof:lastmodified":1697050870,
     "wof:name":"H\u00fasav\u00edk",
     "wof:parent_id":85672511,
     "wof:placetype":"locality",
