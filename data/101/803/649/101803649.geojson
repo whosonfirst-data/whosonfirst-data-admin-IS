@@ -9,8 +9,22 @@
     "geom:bbox":"-21.931541,64.532519,-21.892648,64.565088",
     "geom:latitude":64.549296,
     "geom:longitude":-21.90884,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"3609",
+    "gn:asciiname":"Borgarnes",
+    "gn:country_code":"IS",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258566,
+    "gn:latitude":64.56219,
+    "gn:longitude":-21.90082,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Borgarnes",
     "gn:population":1759,
+    "gn:timezone":"Atlantic/Reykjavik",
     "iso:country":"IS",
+    "lbl:bbox":"-21.92082,64.54219,-21.88082,64.58219",
     "lbl:latitude":64.558525,
     "lbl:longitude":-21.900443,
     "lbl:max_zoom":16.0,
@@ -332,6 +346,11 @@
         "wd:id":"Q276537",
         "wk:page":"Borgarnes"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11258566
+        ]
+    },
     "wof:country":"IS",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -344,7 +363,7 @@
         }
     ],
     "wof:id":101803649,
-    "wof:lastmodified":1690934638,
+    "wof:lastmodified":1706239909,
     "wof:name":"Borgarnes",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -352,7 +371,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-is",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259617705
+    ],
     "wof:tags":[]
 },
   "bbox": [
